@@ -1,0 +1,19 @@
+Method: NSG-VD
+Checkpoint: standard-Pika-d.pth
+Dataset: AIGVDBench
+Subset: all-open-source common-1000
+Planned samples: 500 real + 500 fake
+Actually loaded real samples: 477
+Fake group: AIGV_OpenSource_All
+Feature type: velocity
+Diffuse steps: 5
+
+Results:
+AUROC = 0.6394
+Accuracy = 0.5068
+Precision = 0.5800
+Recall = 0.0604
+F1 = 0.1094
+
+Note:
+Threshold-dependent metrics are poor because the original NSG-VD threshold is not calibrated for this AIGVDBench subset.

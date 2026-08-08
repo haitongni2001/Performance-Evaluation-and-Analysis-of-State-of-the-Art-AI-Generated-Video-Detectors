@@ -1,0 +1,24 @@
+D3 Evaluation Results
+Encoder: XCLIP-16
+Loss Type: l2
+Real CSV: D:\HaitongNi\MEngProject\d3_datasets\AIGVDBench_test_balanced_6000\csv\real.csv
+Fake CSV: D:\HaitongNi\MEngProject\d3_datasets\AIGVDBench_test_balanced_6000\csv\fake.csv
+Total Samples: 6000
+
+Threshold-free metrics:
+AP_fake: 0.6496
+AP_real: 0.6219
+ROC_AUC_fake: 0.6437
+ROC_AUC_real: 0.6437
+
+Best-threshold diagnostic metrics, selected on this same test subset:
+Best Threshold on fake_score: -3.767958
+Best Accuracy: 0.5548
+Best Precision_fake: 0.5317
+Best Recall_fake: 0.9207
+Best F1_fake: 0.6741
+Confusion Matrix [[TN, FP], [FN, TP]]:
+[[ 567 2433]
+ [ 238 2762]]
+
+Prediction CSV: results/predictions_20260511_162158.csv

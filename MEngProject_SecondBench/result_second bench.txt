@@ -1,0 +1,430 @@
+Method: WaveRep
+Implementation: pretrained inference
+Dataset: GenVidBench
+Subset: common-1000
+Samples: 500 real + 500 fake
+Valid samples: 1000
+Invalid samples: 0
+
+Weights:
+D:\HaitongNi\MEngProject\repos\WaveRep-SyntheticVideoDetection\demo\weights\weights_dinov2_G4.ckpt
+
+Results:
+ROC-AUC_fake = 0.9953
+AP_fake = 0.9956
+Accuracy = 0.9600
+Precision_fake = 0.9694
+Recall_fake = 0.9500
+F1_fake = 0.9596
+MCC = 0.9202
+
+Confusion Matrix [[TN, FP], [FN, TP]]:
+[[485, 15],
+ [25, 475]]
+
+Prediction CSV:
+D:\HaitongNi\MEngProject_SecondBench\01_WaveRep\results\waverep_genvidbench_common1000_predictions.csv
+
+Note:
+The printed dataset name still says AIGVDBench because of a leftover display string in the script. The actual input CSV was GenVidBench common-1000.
+
+Per-generator results (WaveRep on GenVidBench):
+ms        n=63  recall=0.6984  mean_score=0.6980  AUC_vs_real=0.9695  AP_vs_real=0.8336
+svd       n=62  recall=0.9355  mean_score=0.9451  AUC_vs_real=0.9958  AP_vs_real=0.9768
+t2vz      n=62  recall=0.9839  mean_score=0.9771  AUC_vs_real=0.9984  AP_vs_real=0.9895
+mora      n=63  recall=0.9841  mean_score=0.9881  AUC_vs_real=0.9993  AP_vs_real=0.9955
+vc2       n=62  recall=1.0000  mean_score=0.9941  AUC_vs_real=0.9996  AP_vs_real=0.9973
+pika      n=62  recall=1.0000  mean_score=0.9973  AUC_vs_real=0.9998  AP_vs_real=0.9985
+cogvideo  n=63  recall=1.0000  mean_score=0.9983  AUC_vs_real=0.9999  AP_vs_real=0.9993
+musev     n=63  recall=1.0000  mean_score=0.9983  AUC_vs_real=0.9999  AP_vs_real=0.9993
+
+
+
+Method: D3
+Implementation: pretrained / feature-based inference
+Dataset: GenVidBench
+Subset: common-1000
+Samples: 500 real + 500 fake
+Total samples: 1000
+
+Encoder: XCLIP-16
+Loss Type: L2
+
+Input format:
+16 uniformly sampled frames per video
+Real CSV:
+D:\HaitongNi\MEngProject_SecondBench\02_D3\metadata\genvidbench_common1000_real_frames.csv
+Fake CSV:
+D:\HaitongNi\MEngProject_SecondBench\02_D3\metadata\genvidbench_common1000_fake_frames.csv
+
+Threshold-free metrics:
+AP_fake = 0.7510
+AP_real = 0.6468
+ROC-AUC_fake = 0.7438
+ROC-AUC_real = 0.7438
+
+Best-threshold diagnostic metrics:
+Best Threshold on fake_score = -4.303232
+Best Accuracy = 0.6960
+Best Precision_fake = 0.6750
+Best Recall_fake = 0.7560
+Best F1_fake = 0.7132
+
+Confusion Matrix [[TN, FP], [FN, TP]]:
+[[318, 182],
+ [122, 378]]
+
+Prediction CSV:
+D:\HaitongNi\MEngProject\repos\D3\results\genvidbench_common1000\predictions_20260518_180250.csv
+
+Note:
+The best-threshold metrics are diagnostic only because the threshold was selected on the same test subset. ROC-AUC and AP are more appropriate for threshold-free comparison.
+
+Per-generator breakdown:
+Note: D3 was evaluated on GenVidBench common-1000 using 16 uniformly sampled frames per video. The recall values below use the diagnostic best threshold selected on the same test subset: fake_score >= -4.303232.
+
+Metric definitions:
+fake_recall_at_best_threshold = proportion of fake videos from this generator classified as fake using the diagnostic best threshold
+mean_fake_score = average D3 fake score for this generator
+auc_vs_all_real = AUC using this generator's fake samples vs all 500 real samples
+ap_vs_all_real = AP using this generator's fake samples vs all 500 real samples
+
+Harder generators for D3:
+t2vz      n=62  recall=0.0161  mean_score=-11.6096  AUC_vs_real=0.0970  AP_vs_real=0.0606
+musev     n=63  recall=0.5714  mean_score=-4.1239   AUC_vs_real=0.6518  AP_vs_real=0.1657
+svd       n=62  recall=0.6613  mean_score=-3.8483   AUC_vs_real=0.6860  AP_vs_real=0.1607
+
+Generators with relatively high fake recall:
+mora      n=63  recall=0.9365  mean_score=-2.2407   AUC_vs_real=0.8740  AP_vs_real=0.4235
+ms        n=63  recall=0.9365  mean_score=-2.3172   AUC_vs_real=0.8734  AP_vs_real=0.3919
+cogvideo  n=63  recall=0.9524  mean_score=-2.3134   AUC_vs_real=0.8757  AP_vs_real=0.3846
+pika      n=62  recall=0.9839  mean_score=-1.5624   AUC_vs_real=0.9339  AP_vs_real=0.5831
+vc2       n=62  recall=0.9839  mean_score=-1.3258   AUC_vs_real=0.9538  AP_vs_real=0.6324
+
+Observation:
+D3 shows strong generator-dependent behavior on GenVidBench. It separates several fake generators reasonably well, especially vc2, pika, cogvideo, ms, and mora. However, it almost completely fails on t2vz, with only 1.6% fake recall at the diagnostic threshold and an AUC below 0.5 against real videos. This suggests that D3's representation is highly sensitive to generator-specific artifacts and does not provide uniformly robust fake-video detection across all GenVidBench generators.
+
+
+Method: NSG-VD
+Implementation: pretrained inference / standard-Pika-d checkpoint
+Dataset: GenVidBench
+Subset: common-1000
+Samples: 500 real + 500 fake
+
+Checkpoint:
+ckpts\standard-Pika-d.pth
+
+Feature setting:
+NSG-VD velocity features
+diffuse_steps = 5
+num_frames = 8
+ref_load_len = 500
+test_load_len = 500
+
+Results:
+AUROC = 0.6886
+Accuracy = 0.5510
+Precision_fake = 0.7339
+Recall_fake = 0.1600
+F1_fake = 0.2627
+
+Observation:
+NSG-VD shows weak-to-moderate ranking ability on GenVidBench, with AUROC = 0.6886. Its fake precision is relatively high, but fake recall is very low, meaning it only detects a small portion of fake videos while missing most fake samples. This is similar to its behavior on AIGVDBench, where the default threshold was also conservative and poorly calibrated for the target benchmark.
+
+Per-generator breakdown:
+Note: NSG-VD was evaluated on GenVidBench common-1000 using pretrained standard-Pika-d checkpoint. The default NSG-VD decision threshold is raw_score > 1.
+
+Metric definitions:
+fake_recall_at_1 = proportion of fake videos from this generator classified as fake using raw_score > 1
+mean_score_fake = average NSG-VD raw fake score for this generator
+auc_vs_all_real = AUC using this generator's fake samples vs all 500 real samples
+ap_vs_all_real = AP using this generator's fake samples vs all 500 real samples
+
+Per-generator results:
+pika      n=62  recall=0.0968  mean_score=0.5191  AUC_vs_real=0.7188  AP_vs_real=0.1991
+t2vz      n=62  recall=0.1129  mean_score=0.4871  AUC_vs_real=0.6668  AP_vs_real=0.1827
+mora      n=63  recall=0.1429  mean_score=0.5143  AUC_vs_real=0.6458  AP_vs_real=0.1862
+svd       n=62  recall=0.1613  mean_score=0.5668  AUC_vs_real=0.7132  AP_vs_real=0.2092
+ms        n=63  recall=0.1746  mean_score=0.5936  AUC_vs_real=0.7171  AP_vs_real=0.2187
+vc2       n=62  recall=0.1774  mean_score=0.5709  AUC_vs_real=0.7015  AP_vs_real=0.2111
+musev     n=63  recall=0.1905  mean_score=0.5837  AUC_vs_real=0.6610  AP_vs_real=0.2119
+cogvideo  n=63  recall=0.2222  mean_score=0.5720  AUC_vs_real=0.6855  AP_vs_real=0.2086
+
+Observation:
+NSG-VD shows consistently low fake recall across all GenVidBench fake generators at its default threshold raw_score > 1. No generator reaches 25% fake recall, which explains the low overall recall of 0.1600. However, the AUC values are mostly around 0.65–0.72, suggesting that NSG-VD has some ranking ability but its default threshold is poorly calibrated for this benchmark.
+
+Compared with WaveRep and D3, NSG-VD is much more conservative. WaveRep detects most fake generators with high recall, D3 has strong generator-dependent variation, while NSG-VD produces uniformly low recall across all generator categories.
+
+Method: DeMamba
+Implementation: trained-on-subset
+Dataset: GenVidBench
+Subset: common-1000
+Config: GenVidBench_XCLIP_DeMamba_small.yaml
+Train samples: 500
+Validation/Test samples: 500
+Input: 8 frames per video
+Epochs: 20
+Batch size: 4
+
+Final epoch: 19
+
+Results:
+Train Loss = 0.040713
+Accuracy = 0.594000
+Precision_fake = 0.694215
+Recall_fake = 0.336000
+F1_fake = 0.452830
+MCC = 0.219475
+ROC-AUC_fake = 0.641488
+AP_fake = 0.657641
+
+Confusion Matrix [[TN, FP], [FN, TP]]:
+[[213, 37],
+ [166, 84]]
+
+Note:
+The printed title still says AIGVDBench because of a leftover display string in the script. The actual input dataset was GenVidBench common-1000.
+
+Per-generator breakdown:
+Note: DeMamba was evaluated as a trained-on-subset baseline on GenVidBench common-1000. The breakdown is based on the validation/test split of 500 samples, containing 250 real and 250 fake samples. The result uses Epoch 19.
+
+Metric definitions:
+fake_recall_at_0.5 = proportion of fake videos from this generator classified as fake at threshold 0.5
+mean_score_fake = average predicted fake probability for this generator
+auc_vs_all_real = AUC using this generator's fake validation samples vs all 250 real validation samples
+ap_vs_all_real = AP using this generator's fake validation samples vs all 250 real validation samples
+
+Per-generator results:
+mora      n=28  recall=0.2143  mean_score=0.2371  AUC_vs_real=0.5594  AP_vs_real=0.1368
+svd       n=37  recall=0.2432  mean_score=0.3217  AUC_vs_real=0.6416  AP_vs_real=0.2829
+cogvideo  n=31  recall=0.2903  mean_score=0.2610  AUC_vs_real=0.5110  AP_vs_real=0.1682
+musev     n=36  recall=0.3056  mean_score=0.3286  AUC_vs_real=0.6544  AP_vs_real=0.2474
+vc2       n=33  recall=0.3333  mean_score=0.2958  AUC_vs_real=0.5833  AP_vs_real=0.1735
+pika      n=29  recall=0.3793  mean_score=0.3577  AUC_vs_real=0.6367  AP_vs_real=0.2225
+ms        n=27  recall=0.4444  mean_score=0.4938  AUC_vs_real=0.7810  AP_vs_real=0.3139
+t2vz      n=29  recall=0.5172  mean_score=0.5072  AUC_vs_real=0.7851  AP_vs_real=0.3904
+
+Observation:
+DeMamba performs conservatively on GenVidBench. It misses many fake videos across most generators, with fake recall below 0.40 for six out of eight generators. The relatively easier generators are t2vz and ms, where AUC is around 0.78, but even there the recall remains moderate. Overall, DeMamba shows some ranking ability, but its default threshold leads to low fake recall on this benchmark.
+
+Method: AIGVDet
+Implementation: pretrained inference with RGB branch + optical-flow branch
+Dataset: GenVidBench
+Subset: common-1000
+Samples requested: 1000
+Valid samples: 1000
+
+Weights:
+Original branch: checkpoints\original_aug.pth
+Optical branch: checkpoints\optical_aug.pth
+RAFT: raft_model\raft-things.pth
+
+Frame setting:
+num_frames per video = 16
+final_score = 0.5 * original_score + 0.5 * optical_score
+
+Threshold-free metrics:
+ROC-AUC_fake = 0.802876
+AP_fake = 0.820968
+
+Threshold-based metrics @ final_score >= 0.5:
+Accuracy = 0.728000
+Precision_fake = 0.904255
+Recall_fake = 0.510000
+F1_fake = 0.652174
+MCC = 0.506697
+
+Confusion Matrix [[TN, FP], [FN, TP]]:
+[[473, 27],
+ [245, 255]]
+
+Prediction CSV:
+D:\HaitongNi\MEngProject\repos\AIGVDet\results\genvidbench_common1000\aigvdet_genvidbench_common1000_predictions.csv
+
+Generator breakdown CSV:
+D:\HaitongNi\MEngProject\repos\AIGVDet\results\genvidbench_common1000\aigvdet_genvidbench_common1000_generator_breakdown.csv
+
+Per-generator breakdown:
+Note: AIGVDet was evaluated on GenVidBench common-1000 using pretrained inference with RGB branch + optical-flow branch. The final score is 0.5 * original_score + 0.5 * optical_score.
+
+Metric definitions:
+fake_recall_at_0.5 = proportion of fake videos from this generator classified as fake at final_score >= 0.5
+mean_final_score_fake = average final fake score for this generator
+mean_original_score_fake = average RGB/original-branch fake score
+mean_optical_score_fake = average optical-flow-branch fake score
+auc_vs_all_real = AUC using this generator's fake samples vs all 500 real samples
+ap_vs_all_real = AP using this generator's fake samples vs all 500 real samples
+
+Harder generators for AIGVDet:
+ms        n=63  recall=0.0000  mean_final=0.1636  original=0.3272  optical≈0.0000  AUC_vs_real=0.4996  AP_vs_real=0.1313
+svd       n=62  recall=0.2419  mean_final=0.2142  original=0.2754  optical=0.1529  AUC_vs_real=0.5448  AP_vs_real=0.1822
+musev     n=63  recall=0.3492  mean_final=0.4047  original=0.7116  optical=0.0978  AUC_vs_real=0.8305  AP_vs_real=0.3617
+vc2       n=62  recall=0.4516  mean_final=0.4786  original=0.9571  optical≈0.0000  AUC_vs_real=0.9168  AP_vs_real=0.4613
+
+Moderate / easier generators:
+mora      n=63  recall=0.5556  mean_final=0.4647  original=0.7628  optical=0.1666  AUC_vs_real=0.8114  AP_vs_real=0.4734
+pika      n=62  recall=0.8065  mean_final=0.5478  original=0.8931  optical=0.2024  AUC_vs_real=0.9056  AP_vs_real=0.5850
+t2vz      n=62  recall=0.8387  mean_final=0.5604  original=0.9402  optical=0.1807  AUC_vs_real=0.9488  AP_vs_real=0.5725
+cogvideo  n=63  recall=0.8413  mean_final=0.7204  original=0.6807  optical=0.7600  AUC_vs_real=0.9672  AP_vs_real=0.7986
+
+Observation:
+AIGVDet shows strong generator-dependent behavior on GenVidBench. It performs best on cogvideo, t2vz, and pika, but almost completely fails on ms at the default threshold, with fake recall = 0.0000 and AUC ≈ 0.5. The optical-flow branch is extremely low for several generators, especially ms and vc2, which pulls down the final score despite some strong RGB/original-branch scores. This suggests that AIGVDet's performance depends heavily on whether a generator creates motion/temporal artifacts detectable by its optical-flow branch.
+
+
+Per-generator breakdown:
+Note: VidGuard-R1-style evaluation was performed using Qwen2.5-VL-7B-Instruct with multiple-choice prompting. The model outputs A for fake and B for real. Among 1000 samples, 997 predictions were valid and 3 were invalid. The per-generator results below use valid predictions only.
+
+Overall valid samples:
+Valid samples = 997
+Invalid predictions = 3
+Real valid samples = 497
+Fake valid samples = 500
+
+Metric definitions:
+fake_recall = proportion of fake videos from this generator classified as fake
+accuracy_vs_all_real = accuracy using this generator's fake samples vs all valid real samples
+precision_fake_vs_all_real = fake precision using this generator's fake samples vs all valid real samples
+recall_fake_vs_all_real = same as fake_recall
+f1_fake_vs_all_real = fake F1 using this generator's fake samples vs all valid real samples
+mcc_vs_all_real = MCC using this generator's fake samples vs all valid real samples
+
+Harder generators for VidGuard:
+svd       n=62  recall=0.0968  acc_vs_real=0.7156  precision=0.0550  F1=0.0702  MCC=-0.0876  CM=[[394,103],[56,6]]
+musev     n=63  recall=0.1111  acc_vs_real=0.7161  precision=0.0636  F1=0.0809  MCC=-0.0765  CM=[[394,103],[56,7]]
+mora      n=63  recall=0.3810  acc_vs_real=0.7464  precision=0.1890  F1=0.2526  MCC=0.1311  CM=[[394,103],[39,24]]
+
+Moderate generators:
+ms        n=63  recall=0.5079  acc_vs_real=0.7607  precision=0.2370  F1=0.3232  MCC=0.2221  CM=[[394,103],[31,32]]
+t2vz      n=62  recall=0.5645  acc_vs_real=0.7674  precision=0.2536  F1=0.3500  MCC=0.2602  CM=[[394,103],[27,35]]
+cogvideo  n=63  recall=0.5714  acc_vs_real=0.7679  precision=0.2590  F1=0.3564  MCC=0.2664  CM=[[394,103],[27,36]]
+
+Generators with relatively high fake recall:
+vc2       n=62  recall=0.6935  acc_vs_real=0.7818  precision=0.2945  F1=0.4135  MCC=0.3476  CM=[[394,103],[19,43]]
+pika      n=62  recall=0.7097  acc_vs_real=0.7835  precision=0.2993  F1=0.4211  MCC=0.3584  CM=[[394,103],[18,44]]
+
+Observation:
+VidGuard-R1-style zero-shot evaluation shows strong generator-dependent behavior on GenVidBench. It performs poorly on svd and musev, with fake recall close to 10%, and performs relatively better on pika and vc2, with fake recall around 70%. However, even for the easier generators, fake precision remains low when compared against all real samples. This suggests that the VLM-based multiple-choice prompt can detect some generator-specific fake cues, but it is not a reliable standalone fake-video detector.
+
+Compared with NSG-VD, VidGuard achieves higher overall fake recall, but it also produces more real false positives. Compared with WaveRep, VidGuard is much weaker and less stable across generators.
+
+Method: VidGuard-R1-style / Qwen2.5-VL
+Implementation: zero-shot VLM multiple-choice inference
+Dataset: GenVidBench
+Subset: common-1000
+Samples: 500 real + 500 fake
+
+Model:
+Qwen/Qwen2.5-VL-7B-Instruct
+
+Prompt setting:
+A = AI-generated/fake
+B = real
+
+Valid samples: 997
+Invalid predictions: 3
+
+Overall results:
+Accuracy = 0.6229
+Precision_fake = 0.6879
+Recall_fake = 0.4540
+F1_fake = 0.5470
+MCC = 0.2622
+
+Confusion Matrix [[TN, FP], [FN, TP]]:
+[[394, 103],
+ [273, 227]]
+
+Prediction JSON:
+
+D:\HaitongNi\MEngProject\repos\VidGuard-R1\results\genvidbench_common1000\vidguard_genvidbench_common1000_qwen25vl7b.json
+
+
+
+Method: MM-Det
+Implementation: official customized-dataset pipeline with saved sample-level predictions
+Dataset: GenVidBench
+Subset: common-1000
+Frame setting: cap64
+Samples: 500 real + 500 fake
+Checkpoint: weights\MM-Det\current_model.pth
+Cache MM: True
+
+Important preprocessing note:
+Because GenVidBench real videos were much longer than fake videos, full-frame reconstruction caused severe frame-count imbalance. I therefore used a capped-frame setting: up to 64 uniformly sampled frames per video. Videos shorter than the model window size of 10 frames were padded by repeating the last available frame.
+
+Score note:
+Used original score as fake score.
+
+Valid samples: 1000
+Threshold: 0.5
+
+Threshold-free metrics:
+ROC-AUC_fake = 0.582280
+AP_fake = 0.548602
+
+Threshold-based metrics @ score_fake >= 0.5:
+Accuracy = 0.523000
+Precision_fake = 0.512118
+Recall_fake = 0.972000
+F1_fake = 0.670807
+MCC = 0.104547
+
+Confusion Matrix [[TN, FP], [FN, TP]]:
+[[37, 463],
+ [14, 486]]
+
+Prediction CSV:
+D:\HaitongNi\MEngProject\repos\MM-Det\results\genvidbench_common1000\mmdet_genvidbench_common1000_cap64_predictions.csv
+
+Generator breakdown CSV:
+D:\HaitongNi\MEngProject\repos\MM-Det\results\genvidbench_common1000\mmdet_genvidbench_common1000_cap64_generator_breakdown.csv
+
+
+
+
+Method: ReStraV
+Implementation: DINOv2 temporal geometry feature extraction + MLP training
+Dataset: GenVidBench
+Subset: common-1000
+Evaluation setting: trained-on-subset
+Valid samples: 1000
+Train samples: 500
+Test samples: 500
+Positive class: fake = 1, real = 0
+
+Input CSV:
+D:\HaitongNi\MEngProject_SecondBench\metadata\genvidbench_common1000.csv
+
+Feature:
+21-D temporal geometry vector
+NUM_FRAMES = 24
+WINDOW_SEC = 2.0
+
+Training:
+MLP hidden sizes: 64, 32
+Epochs = 20
+Learning rate = 0.001
+Train/test split = stratified 50/50
+Normalization = train-set mean/std only
+Best threshold selected on train set = 0.6450
+
+Threshold-free metrics on test set:
+ROC-AUC_fake = 0.9876
+AP_fake = 0.9897
+
+Threshold-based metrics on test set:
+Accuracy = 0.9500
+Precision_fake = 0.9668
+Recall_fake = 0.9320
+F1_fake = 0.9491
+MCC = 0.9006
+
+Confusion Matrix [[TN, FP], [FN, TP]]:
+[[242, 8],
+ [17, 233]]
+
+Prediction CSV:
+D:\HaitongNi\MEngProject\repos\ReStraV\results\genvidbench_common1000\restrav_genvidbench_common1000_predictions.csv
+
+Important note:
+ReStraV requires training a lightweight classifier on extracted temporal geometry features. Therefore, this result is a trained-on-subset evaluation rather than pure pretrained inference.

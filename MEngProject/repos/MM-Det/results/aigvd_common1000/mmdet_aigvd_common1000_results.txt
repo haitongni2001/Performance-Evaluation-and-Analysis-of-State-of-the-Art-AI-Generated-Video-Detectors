@@ -1,0 +1,32 @@
+MM-Det Evaluation Results
+Implementation: official customized-dataset pipeline with saved sample-level predictions
+Dataset: AIGVDBench all-open-source common-1000
+Samples: 500 real + 500 fake
+Checkpoint: weights\MM-Det\current_model.pth
+Cache MM: True
+
+Score note:
+Used original score as fake score.
+
+Valid samples: 1000
+Threshold: 0.5
+
+Threshold-free metrics:
+ROC_AUC_fake: 0.548444
+AP_fake: 0.527026
+
+Threshold-based metrics @ score_fake >= 0.5:
+Accuracy: 0.528000
+Precision_fake: 0.514925
+Recall_fake: 0.966000
+F1_fake: 0.671766
+MCC: 0.116108
+
+Confusion Matrix [[TN, FP], [FN, TP]]:
+[[45, 455], [17, 483]]
+
+Prediction CSV:
+D:\HaitongNi\MEngProject\results\mmdet_aigvd_common1000_predictions.csv
+
+Generator breakdown CSV:
+D:\HaitongNi\MEngProject\results\mmdet_aigvd_common1000_generator_breakdown.csv

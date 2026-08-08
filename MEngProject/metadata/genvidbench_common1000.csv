@@ -1,0 +1,1001 @@
+﻿path,rel_path,label,label_name,pair,generator_id,benchmark,missing
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\cogvideo\cogvideo\01698___a screen shot of an image in adobe illustrator.mp4,Pair2\cogvideo\cogvideo\01698___a screen shot of an image in adobe illustrator.mp4,1,fake,Pair2,cogvideo,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\musev\musev\10955___a news anchor is talking to a camera.mp4,Pair2\musev\musev\10955___a news anchor is talking to a camera.mp4,1,fake,Pair2,musev,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\musev\musev\01479___a group of police officers standing next to each other.mp4,Pair2\musev\musev\01479___a group of police officers standing next to each other.mp4,1,fake,Pair2,musev,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\ms\ms\ms-c9b2959a-0cce-5df3-90e3-e0a70895dd77.mp4,Pair1\ms\ms\ms-c9b2959a-0cce-5df3-90e3-e0a70895dd77.mp4,1,fake,Pair1,ms,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-4-C3-Af7V8-Scene-001.mp4,Pair1\vript\vript\-4-C3-Af7V8-Scene-001.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\ms\ms\ms-70d666ee-bd5d-5ade-b0d1-b5b9085d5ca5.mp4,Pair1\ms\ms\ms-70d666ee-bd5d-5ade-b0d1-b5b9085d5ca5.mp4,1,fake,Pair1,ms,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\ms\ms\ms-fd1c0be6-3ea0-504d-a8eb-3124d364ce30.mp4,Pair1\ms\ms\ms-fd1c0be6-3ea0-504d-a8eb-3124d364ce30.mp4,1,fake,Pair1,ms,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\cogvideo\cogvideo\03071___a shelf with a variety of metal items on it.mp4,Pair2\cogvideo\cogvideo\03071___a shelf with a variety of metal items on it.mp4,1,fake,Pair2,cogvideo,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\svd\svd\12738___a stop sign with a street sign on top of it.mp4,Pair2\svd\svd\12738___a stop sign with a street sign on top of it.mp4,1,fake,Pair2,svd,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\10945___EP24CfRpQyU.11_3.mp4,Pair2\hd_vg_130m\hd_vg_130m\10945___EP24CfRpQyU.11_3.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\pika\pika\pika-12576125-3471-5ed6-9be2-055b7a86f8ce.mp4,Pair1\pika\pika\pika-12576125-3471-5ed6-9be2-055b7a86f8ce.mp4,1,fake,Pair1,pika,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\01373___14ZZb-QvH5c.1_2.mp4,Pair2\hd_vg_130m\hd_vg_130m\01373___14ZZb-QvH5c.1_2.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\ms\ms\ms-38cf1d7c-c109-5d4c-aad6-d7638135a2b6.mp4,Pair1\ms\ms\ms-38cf1d7c-c109-5d4c-aad6-d7638135a2b6.mp4,1,fake,Pair1,ms,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vc2\vc2\vc-ba73da46-9e5c-5739-abef-c90fe2406aea.mp4,Pair1\vc2\vc2\vc-ba73da46-9e5c-5739-abef-c90fe2406aea.mp4,1,fake,Pair1,vc2,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vc2\vc2\vc-fd1c0be6-3ea0-504d-a8eb-3124d364ce30.mp4,Pair1\vc2\vc2\vc-fd1c0be6-3ea0-504d-a8eb-3124d364ce30.mp4,1,fake,Pair1,vc2,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\t2vz\t2vz\t2vz-560931d1-903d-56e8-87ac-149535967748.mp4,Pair1\t2vz\t2vz\t2vz-560931d1-903d-56e8-87ac-149535967748.mp4,1,fake,Pair1,t2vz,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\3C-vozLC-IM-Scene-038.mp4,Pair1\vript\vript\3C-vozLC-IM-Scene-038.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\t2vz\t2vz\t2vz-10f4cf37-bc88-59ab-a946-4fd0f3368410.mp4,Pair1\t2vz\t2vz\t2vz-10f4cf37-bc88-59ab-a946-4fd0f3368410.mp4,1,fake,Pair1,t2vz,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\pika\pika\pika-07de788b-da8a-5eba-b85c-7a3bb267ea0b.mp4,Pair1\pika\pika\pika-07de788b-da8a-5eba-b85c-7a3bb267ea0b.mp4,1,fake,Pair1,pika,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-L_VVyillvU-Scene-033.mp4,Pair1\vript\vript\-L_VVyillvU-Scene-033.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\cogvideo\cogvideo\03657___a computer screen showing a page with a picture on it.mp4,Pair2\cogvideo\cogvideo\03657___a computer screen showing a page with a picture on it.mp4,1,fake,Pair2,cogvideo,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\02086___2u4ZjOVLTqk.3_1.mp4,Pair2\hd_vg_130m\hd_vg_130m\02086___2u4ZjOVLTqk.3_1.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-gdaWqydHzk-Scene-050.mp4,Pair1\vript\vript\-gdaWqydHzk-Scene-050.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\cogvideo\cogvideo\07832___a white letter e on a purple background.mp4,Pair2\cogvideo\cogvideo\07832___a white letter e on a purple background.mp4,1,fake,Pair2,cogvideo,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\10833___Gsuz6Vs9azY.2_1.mp4,Pair2\hd_vg_130m\hd_vg_130m\10833___Gsuz6Vs9azY.2_1.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\01407___-NIP2zgVsRY.0_3.mp4,Pair2\hd_vg_130m\hd_vg_130m\01407___-NIP2zgVsRY.0_3.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\12847___DY-FIDOx3Ks.0_2.mp4,Pair2\hd_vg_130m\hd_vg_130m\12847___DY-FIDOx3Ks.0_2.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vc2\vc2\vc-0a0e36af-7512-5f96-b85a-5221fc0c267e.mp4,Pair1\vc2\vc2\vc-0a0e36af-7512-5f96-b85a-5221fc0c267e.mp4,1,fake,Pair1,vc2,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\t2vz\t2vz\t2vz-ed905ae2-ee34-529c-a804-3ce2d5e7e939.mp4,Pair1\t2vz\t2vz\t2vz-ed905ae2-ee34-529c-a804-3ce2d5e7e939.mp4,1,fake,Pair1,t2vz,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vc2\vc2\vc-07de788b-da8a-5eba-b85c-7a3bb267ea0b.mp4,Pair1\vc2\vc2\vc-07de788b-da8a-5eba-b85c-7a3bb267ea0b.mp4,1,fake,Pair1,vc2,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\3UHTQdotAzk-Scene-057.mp4,Pair1\vript\vript\3UHTQdotAzk-Scene-057.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\04154___44H2_zaW0sM.4_2.mp4,Pair2\hd_vg_130m\hd_vg_130m\04154___44H2_zaW0sM.4_2.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\mora\mora\03015___a box of a toy ice cream maker for kids.mp4,Pair2\mora\mora\03015___a box of a toy ice cream maker for kids.mp4,1,fake,Pair2,mora,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-qGozrMz4DM-Scene-073.mp4,Pair1\vript\vript\-qGozrMz4DM-Scene-073.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-CLU35KDfkI-Scene-014.mp4,Pair1\vript\vript\-CLU35KDfkI-Scene-014.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\07440___6z-J6edJvcA.3_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\07440___6z-J6edJvcA.3_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\ms\ms\ms-25580f7b-c375-508d-9bb3-0cb7e318744a.mp4,Pair1\ms\ms\ms-25580f7b-c375-508d-9bb3-0cb7e318744a.mp4,1,fake,Pair1,ms,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\mora\mora\01698___a screen shot of an image in adobe illustrator.mp4,Pair2\mora\mora\01698___a screen shot of an image in adobe illustrator.mp4,1,fake,Pair2,mora,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\t2vz\t2vz\t2vz-8eeeefe2-5303-5ec2-895d-394d73ded281.mp4,Pair1\t2vz\t2vz\t2vz-8eeeefe2-5303-5ec2-895d-394d73ded281.mp4,1,fake,Pair1,t2vz,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\06836___B5OaRWCofOE.0_3.mp4,Pair2\hd_vg_130m\hd_vg_130m\06836___B5OaRWCofOE.0_3.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-Tznlx878UU-Scene-493.mp4,Pair1\vript\vript\-Tznlx878UU-Scene-493.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\08321___9J7L4KG7JmI.2_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\08321___9J7L4KG7JmI.2_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-j8An5lGDt0-Scene-077.mp4,Pair1\vript\vript\-j8An5lGDt0-Scene-077.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vc2\vc2\vc-a48b75cf-0aba-57f5-99ec-7a8ca28edaee.mp4,Pair1\vc2\vc2\vc-a48b75cf-0aba-57f5-99ec-7a8ca28edaee.mp4,1,fake,Pair1,vc2,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-7BKjOyJrk8-Scene-059.mp4,Pair1\vript\vript\-7BKjOyJrk8-Scene-059.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-8D05dM6q7U-Scene-028.mp4,Pair1\vript\vript\-8D05dM6q7U-Scene-028.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\t2vz\t2vz\t2vz-0a0e36af-7512-5f96-b85a-5221fc0c267e.mp4,Pair1\t2vz\t2vz\t2vz-0a0e36af-7512-5f96-b85a-5221fc0c267e.mp4,1,fake,Pair1,t2vz,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\mora\mora\13433___a refrigerator filled with eggs and milk.mp4,Pair2\mora\mora\13433___a refrigerator filled with eggs and milk.mp4,1,fake,Pair2,mora,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-6iIC9iblj0-Scene-028.mp4,Pair1\vript\vript\-6iIC9iblj0-Scene-028.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\svd\svd\02120___a close up of the inside of a microwave.mp4,Pair2\svd\svd\02120___a close up of the inside of a microwave.mp4,1,fake,Pair2,svd,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\mora\mora\04343___a screenshot of a video game.mp4,Pair2\mora\mora\04343___a screenshot of a video game.mp4,1,fake,Pair2,mora,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\t2vz\t2vz\t2vz-7b1711ba-3c30-539f-8ba7-5dff10e848c6.mp4,Pair1\t2vz\t2vz\t2vz-7b1711ba-3c30-539f-8ba7-5dff10e848c6.mp4,1,fake,Pair1,t2vz,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\0MPSYshRlms-Scene-017.mp4,Pair1\vript\vript\0MPSYshRlms-Scene-017.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\mora\mora\07835___an iphone sitting on a table in a dark room.mp4,Pair2\mora\mora\07835___an iphone sitting on a table in a dark room.mp4,1,fake,Pair2,mora,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\02822___4ZeNq6s_aX4.0_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\02822___4ZeNq6s_aX4.0_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\09660___HXdDdnHBNfg.7_1.mp4,Pair2\hd_vg_130m\hd_vg_130m\09660___HXdDdnHBNfg.7_1.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\mora\mora\08566___a close up of a metal cylinder with a gauge on it.mp4,Pair2\mora\mora\08566___a close up of a metal cylinder with a gauge on it.mp4,1,fake,Pair2,mora,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\06296___6VGXxUfYRVc.15_4.mp4,Pair2\hd_vg_130m\hd_vg_130m\06296___6VGXxUfYRVc.15_4.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\00462___37lDTC7pDtg.11_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\00462___37lDTC7pDtg.11_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\svd\svd\00797___a close up of a bathroom sink.mp4,Pair2\svd\svd\00797___a close up of a bathroom sink.mp4,1,fake,Pair2,svd,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-hoUDV8bdpA-Scene-002.mp4,Pair1\vript\vript\-hoUDV8bdpA-Scene-002.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\08345___B8v4LobEdFQ.10_2.mp4,Pair2\hd_vg_130m\hd_vg_130m\08345___B8v4LobEdFQ.10_2.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\cogvideo\cogvideo\00400___a stone archway with a clock on it.mp4,Pair2\cogvideo\cogvideo\00400___a stone archway with a clock on it.mp4,1,fake,Pair2,cogvideo,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\08041___A17cnUV_AGI.13_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\08041___A17cnUV_AGI.13_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\mora\mora\09705___a screen shot of a character in a game.mp4,Pair2\mora\mora\09705___a screen shot of a character in a game.mp4,1,fake,Pair2,mora,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\musev\musev\03689___the reflection of a cat in the window of a car.mp4,Pair2\musev\musev\03689___the reflection of a cat in the window of a car.mp4,1,fake,Pair2,musev,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\ms\ms\ms-a48b75cf-0aba-57f5-99ec-7a8ca28edaee.mp4,Pair1\ms\ms\ms-a48b75cf-0aba-57f5-99ec-7a8ca28edaee.mp4,1,fake,Pair1,ms,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\svd\svd\10018___a black background with some logos on it.mp4,Pair2\svd\svd\10018___a black background with some logos on it.mp4,1,fake,Pair2,svd,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\01533___1T5KOtow1WU.0_2.mp4,Pair2\hd_vg_130m\hd_vg_130m\01533___1T5KOtow1WU.0_2.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\cogvideo\cogvideo\04455___a green plant growing inside of a cage.mp4,Pair2\cogvideo\cogvideo\04455___a green plant growing inside of a cage.mp4,1,fake,Pair2,cogvideo,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\09965___GfwQglHldVE.12_1.mp4,Pair2\hd_vg_130m\hd_vg_130m\09965___GfwQglHldVE.12_1.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-Xl33P57QOs-Scene-056.mp4,Pair1\vript\vript\-Xl33P57QOs-Scene-056.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\mora\mora\07832___a white letter e on a purple background.mp4,Pair2\mora\mora\07832___a white letter e on a purple background.mp4,1,fake,Pair2,mora,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\musev\musev\10018___a black background with some logos on it.mp4,Pair2\musev\musev\10018___a black background with some logos on it.mp4,1,fake,Pair2,musev,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\04zSZBpj4vs-Scene-008.mp4,Pair1\vript\vript\04zSZBpj4vs-Scene-008.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-GFt-X9J04U-Scene-006.mp4,Pair1\vript\vript\-GFt-X9J04U-Scene-006.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\ms\ms\ms-ed905ae2-ee34-529c-a804-3ce2d5e7e939.mp4,Pair1\ms\ms\ms-ed905ae2-ee34-529c-a804-3ce2d5e7e939.mp4,1,fake,Pair1,ms,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\07309___5w58rwwmKjg.0_1.mp4,Pair2\hd_vg_130m\hd_vg_130m\07309___5w58rwwmKjg.0_1.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\mora\mora\07294___four different colored dice with the words _playing the decks_.mp4,Pair2\mora\mora\07294___four different colored dice with the words _playing the decks_.mp4,1,fake,Pair2,mora,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\--FQi0TgjRU-Scene-042.mp4,Pair1\vript\vript\--FQi0TgjRU-Scene-042.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\ms\ms\ms-6836d5d3-0d92-5d85-a32b-b121f9ba9b04.mp4,Pair1\ms\ms\ms-6836d5d3-0d92-5d85-a32b-b121f9ba9b04.mp4,1,fake,Pair1,ms,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\09822___Er7jN4fRi14.1_1.mp4,Pair2\hd_vg_130m\hd_vg_130m\09822___Er7jN4fRi14.1_1.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-H22U5yUnqM-Scene-052.mp4,Pair1\vript\vript\-H22U5yUnqM-Scene-052.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\10710___D2cX-yme0gI.5_1.mp4,Pair2\hd_vg_130m\hd_vg_130m\10710___D2cX-yme0gI.5_1.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\0CnsW0ZK2Uo-Scene-010.mp4,Pair1\vript\vript\0CnsW0ZK2Uo-Scene-010.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\cogvideo\cogvideo\04924___a close up of a teddy bear sitting on a rock.mp4,Pair2\cogvideo\cogvideo\04924___a close up of a teddy bear sitting on a rock.mp4,1,fake,Pair2,cogvideo,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vc2\vc2\vc-4aef9374-9f2b-51a9-89d3-5d4be1f88f1b.mp4,Pair1\vc2\vc2\vc-4aef9374-9f2b-51a9-89d3-5d4be1f88f1b.mp4,1,fake,Pair1,vc2,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\musev\musev\13435___a large animal standing in the snow on a foggy day.mp4,Pair2\musev\musev\13435___a large animal standing in the snow on a foggy day.mp4,1,fake,Pair2,musev,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\pika\pika\pika-52085ef4-0f41-54af-a053-fa5dc9ede520.mp4,Pair1\pika\pika\pika-52085ef4-0f41-54af-a053-fa5dc9ede520.mp4,1,fake,Pair1,pika,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-JuE-FDLxXE-Scene-002.mp4,Pair1\vript\vript\-JuE-FDLxXE-Scene-002.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-1RsCsSKt7A-Scene-104.mp4,Pair1\vript\vript\-1RsCsSKt7A-Scene-104.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-48qmeLbPcw-Scene-022.mp4,Pair1\vript\vript\-48qmeLbPcw-Scene-022.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\cogvideo\cogvideo\03129___a picture of a window with rain drops on it.mp4,Pair2\cogvideo\cogvideo\03129___a picture of a window with rain drops on it.mp4,1,fake,Pair2,cogvideo,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\03363___4ABLs6ojxLU.1_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\03363___4ABLs6ojxLU.1_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\pika\pika\pika-ba73da46-9e5c-5739-abef-c90fe2406aea.mp4,Pair1\pika\pika\pika-ba73da46-9e5c-5739-abef-c90fe2406aea.mp4,1,fake,Pair1,pika,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-ubuwVaj9Ew-Scene-017.mp4,Pair1\vript\vript\-ubuwVaj9Ew-Scene-017.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\pika\pika\pika-3d912141-6b6e-5cfd-8c30-12bad1a64b89.mp4,Pair1\pika\pika\pika-3d912141-6b6e-5cfd-8c30-12bad1a64b89.mp4,1,fake,Pair1,pika,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\12066___CTATatgxb5U.3_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\12066___CTATatgxb5U.3_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\08011___9xEOLs910lg.1_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\08011___9xEOLs910lg.1_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\svd\svd\05471___a close up of a tree with leaves on it.mp4,Pair2\svd\svd\05471___a close up of a tree with leaves on it.mp4,1,fake,Pair2,svd,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\musev\musev\04325___a pink burner on top of a stove.mp4,Pair2\musev\musev\04325___a pink burner on top of a stove.mp4,1,fake,Pair2,musev,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-9OLmLzDvSo-Scene-007.mp4,Pair1\vript\vript\-9OLmLzDvSo-Scene-007.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\t2vz\t2vz\t2vz-4aef9374-9f2b-51a9-89d3-5d4be1f88f1b.mp4,Pair1\t2vz\t2vz\t2vz-4aef9374-9f2b-51a9-89d3-5d4be1f88f1b.mp4,1,fake,Pair1,t2vz,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-ZBbU-LbO1Y-Scene-002.mp4,Pair1\vript\vript\-ZBbU-LbO1Y-Scene-002.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\ms\ms\ms-07de788b-da8a-5eba-b85c-7a3bb267ea0b.mp4,Pair1\ms\ms\ms-07de788b-da8a-5eba-b85c-7a3bb267ea0b.mp4,1,fake,Pair1,ms,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\ms\ms\ms-807ec19f-d33e-5059-8aa2-877ca8f7c20f.mp4,Pair1\ms\ms\ms-807ec19f-d33e-5059-8aa2-877ca8f7c20f.mp4,1,fake,Pair1,ms,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\cogvideo\cogvideo\08566___a close up of a metal cylinder with a gauge on it.mp4,Pair2\cogvideo\cogvideo\08566___a close up of a metal cylinder with a gauge on it.mp4,1,fake,Pair2,cogvideo,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vc2\vc2\vc-3d22a760-43ce-5ddf-a6a6-2813cf54d6b7.mp4,Pair1\vc2\vc2\vc-3d22a760-43ce-5ddf-a6a6-2813cf54d6b7.mp4,1,fake,Pair1,vc2,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\07449___8ScN3EXd7yE.10_1.mp4,Pair2\hd_vg_130m\hd_vg_130m\07449___8ScN3EXd7yE.10_1.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\t2vz\t2vz\t2vz-2de502f9-15f8-5091-b937-972cf561c94a.mp4,Pair1\t2vz\t2vz\t2vz-2de502f9-15f8-5091-b937-972cf561c94a.mp4,1,fake,Pair1,t2vz,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\cogvideo\cogvideo\02320___a speedometer with the word scotty written on it.mp4,Pair2\cogvideo\cogvideo\02320___a speedometer with the word scotty written on it.mp4,1,fake,Pair2,cogvideo,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\svd\svd\03011___a car driving down a dark highway at night.mp4,Pair2\svd\svd\03011___a car driving down a dark highway at night.mp4,1,fake,Pair2,svd,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vc2\vc2\vc-ccb9b3b6-4648-507c-a041-71a022447232.mp4,Pair1\vc2\vc2\vc-ccb9b3b6-4648-507c-a041-71a022447232.mp4,1,fake,Pair1,vc2,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\svd\svd\05360___a car driving down a street with graffiti on a wall.mp4,Pair2\svd\svd\05360___a car driving down a street with graffiti on a wall.mp4,1,fake,Pair2,svd,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\13323___D6QL20dmmtQ.1_1.mp4,Pair2\hd_vg_130m\hd_vg_130m\13323___D6QL20dmmtQ.1_1.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-FjYy8xXm3w-Scene-074.mp4,Pair1\vript\vript\-FjYy8xXm3w-Scene-074.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\06545___8BJoT-j_6Ac.4_1.mp4,Pair2\hd_vg_130m\hd_vg_130m\06545___8BJoT-j_6Ac.4_1.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vc2\vc2\vc-ff2b6437-8e05-5974-948a-46e35895dc41.mp4,Pair1\vc2\vc2\vc-ff2b6437-8e05-5974-948a-46e35895dc41.mp4,1,fake,Pair1,vc2,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\cogvideo\cogvideo\05197___a child is kneading dough on a table.mp4,Pair2\cogvideo\cogvideo\05197___a child is kneading dough on a table.mp4,1,fake,Pair2,cogvideo,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\--CXWZW1Hjs-Scene-012.mp4,Pair1\vript\vript\--CXWZW1Hjs-Scene-012.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\t2vz\t2vz\t2vz-7aec879d-90c5-52e5-b196-bb3657575b82.mp4,Pair1\t2vz\t2vz\t2vz-7aec879d-90c5-52e5-b196-bb3657575b82.mp4,1,fake,Pair1,t2vz,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-3Ql-TiUSfk-Scene-031.mp4,Pair1\vript\vript\-3Ql-TiUSfk-Scene-031.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\musev\musev\09456___a screen shot of a computer with a large wave in the background.mp4,Pair2\musev\musev\09456___a screen shot of a computer with a large wave in the background.mp4,1,fake,Pair2,musev,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\4fb2THzyrT0-Scene-062.mp4,Pair1\vript\vript\4fb2THzyrT0-Scene-062.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\03993___4EnZuVca74Y.18_1.mp4,Pair2\hd_vg_130m\hd_vg_130m\03993___4EnZuVca74Y.18_1.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\cogvideo\cogvideo\11555___a girl sitting on the ground looking at her cell phone.mp4,Pair2\cogvideo\cogvideo\11555___a girl sitting on the ground looking at her cell phone.mp4,1,fake,Pair2,cogvideo,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\mora\mora\11890___a silver ford focus parked on the side of the road.mp4,Pair2\mora\mora\11890___a silver ford focus parked on the side of the road.mp4,1,fake,Pair2,mora,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-Z3priQFMeE-Scene-054.mp4,Pair1\vript\vript\-Z3priQFMeE-Scene-054.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\svd\svd\01843___a group of softball players talking to each other.mp4,Pair2\svd\svd\01843___a group of softball players talking to each other.mp4,1,fake,Pair2,svd,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\pika\pika\pika-0a0e36af-7512-5f96-b85a-5221fc0c267e.mp4,Pair1\pika\pika\pika-0a0e36af-7512-5f96-b85a-5221fc0c267e.mp4,1,fake,Pair1,pika,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\mora\mora\07451___a cartoon peppa pig dressed in a top hat and coat.mp4,Pair2\mora\mora\07451___a cartoon peppa pig dressed in a top hat and coat.mp4,1,fake,Pair2,mora,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\svd\svd\02737___a sign that says district warren news.mp4,Pair2\svd\svd\02737___a sign that says district warren news.mp4,1,fake,Pair2,svd,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-1xu0IP35FI-Scene-044.mp4,Pair1\vript\vript\-1xu0IP35FI-Scene-044.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vc2\vc2\vc-e35c583d-5dfe-5ba8-a937-5a1b5548a63f.mp4,Pair1\vc2\vc2\vc-e35c583d-5dfe-5ba8-a937-5a1b5548a63f.mp4,1,fake,Pair1,vc2,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\cogvideo\cogvideo\13222___an image of a green screen with letters on it.mp4,Pair2\cogvideo\cogvideo\13222___an image of a green screen with letters on it.mp4,1,fake,Pair2,cogvideo,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\03271___3veDkO8Fxn4.3_3.mp4,Pair2\hd_vg_130m\hd_vg_130m\03271___3veDkO8Fxn4.3_3.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\08395___AtQDdQA7rMo.0_2.mp4,Pair2\hd_vg_130m\hd_vg_130m\08395___AtQDdQA7rMo.0_2.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\03427___0ZKKTxq8IGM.18_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\03427___0ZKKTxq8IGM.18_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\12514___CiiPykPGJGU.3_1.mp4,Pair2\hd_vg_130m\hd_vg_130m\12514___CiiPykPGJGU.3_1.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\01564___-Zi3kyUC8cY.3_2.mp4,Pair2\hd_vg_130m\hd_vg_130m\01564___-Zi3kyUC8cY.3_2.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\01723___22afd8zGhWU.11_2.mp4,Pair2\hd_vg_130m\hd_vg_130m\01723___22afd8zGhWU.11_2.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\12226___EMYlVPjbIIM.0_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\12226___EMYlVPjbIIM.0_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\musev\musev\03751___a sign with a picture of a plant in a greenhouse.mp4,Pair2\musev\musev\03751___a sign with a picture of a plant in a greenhouse.mp4,1,fake,Pair2,musev,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-Tznlx878UU-Scene-462.mp4,Pair1\vript\vript\-Tznlx878UU-Scene-462.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\t2vz\t2vz\t2vz-27721ed0-d584-54e5-8d96-a411192695f6.mp4,Pair1\t2vz\t2vz\t2vz-27721ed0-d584-54e5-8d96-a411192695f6.mp4,1,fake,Pair1,t2vz,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\t2vz\t2vz\t2vz-08d9a859-f62c-59bc-9fe7-89464deaa706.mp4,Pair1\t2vz\t2vz\t2vz-08d9a859-f62c-59bc-9fe7-89464deaa706.mp4,1,fake,Pair1,t2vz,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\pika\pika\pika-3726faf1-874e-5a95-8b2f-87b7e04766a7.mp4,Pair1\pika\pika\pika-3726faf1-874e-5a95-8b2f-87b7e04766a7.mp4,1,fake,Pair1,pika,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\02539___1EgN0dChGv8.15_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\02539___1EgN0dChGv8.15_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\svd\svd\03014___the inside of a pharmacy store with lots of shelves.mp4,Pair2\svd\svd\03014___the inside of a pharmacy store with lots of shelves.mp4,1,fake,Pair2,svd,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-10AyOGp5Zg-Scene-014.mp4,Pair1\vript\vript\-10AyOGp5Zg-Scene-014.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\ms\ms\ms-27721ed0-d584-54e5-8d96-a411192695f6.mp4,Pair1\ms\ms\ms-27721ed0-d584-54e5-8d96-a411192695f6.mp4,1,fake,Pair1,ms,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\06779___AA1b6t7nWJw.0_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\06779___AA1b6t7nWJw.0_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vc2\vc2\vc-d1418574-5192-5596-96da-d1d5a308670a.mp4,Pair1\vc2\vc2\vc-d1418574-5192-5596-96da-d1d5a308670a.mp4,1,fake,Pair1,vc2,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-5kkT_RBHk8-Scene-068.mp4,Pair1\vript\vript\-5kkT_RBHk8-Scene-068.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vc2\vc2\vc-7b1711ba-3c30-539f-8ba7-5dff10e848c6.mp4,Pair1\vc2\vc2\vc-7b1711ba-3c30-539f-8ba7-5dff10e848c6.mp4,1,fake,Pair1,vc2,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-4exm90cQrw-Scene-008.mp4,Pair1\vript\vript\-4exm90cQrw-Scene-008.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-a_sh9HeAoE-Scene-002.mp4,Pair1\vript\vript\-a_sh9HeAoE-Scene-002.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\musev\musev\03014___the inside of a pharmacy store with lots of shelves.mp4,Pair2\musev\musev\03014___the inside of a pharmacy store with lots of shelves.mp4,1,fake,Pair2,musev,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\07142___8PFqVKR1PVI.15_1.mp4,Pair2\hd_vg_130m\hd_vg_130m\07142___8PFqVKR1PVI.15_1.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\t2vz\t2vz\t2vz-ff2c8815-2aff-5fdb-8394-1917fb571f42.mp4,Pair1\t2vz\t2vz\t2vz-ff2c8815-2aff-5fdb-8394-1917fb571f42.mp4,1,fake,Pair1,t2vz,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\mora\mora\00609___a couple of kids playing basketball on a court.mp4,Pair2\mora\mora\00609___a couple of kids playing basketball on a court.mp4,1,fake,Pair2,mora,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\pika\pika\pika-bd8392d9-8352-5800-b3bf-60139ab3acbb.mp4,Pair1\pika\pika\pika-bd8392d9-8352-5800-b3bf-60139ab3acbb.mp4,1,fake,Pair1,pika,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\ms\ms\ms-560931d1-903d-56e8-87ac-149535967748.mp4,Pair1\ms\ms\ms-560931d1-903d-56e8-87ac-149535967748.mp4,1,fake,Pair1,ms,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\ms\ms\ms-d5614d82-b71b-59a9-997f-6410624cb493.mp4,Pair1\ms\ms\ms-d5614d82-b71b-59a9-997f-6410624cb493.mp4,1,fake,Pair1,ms,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\svd\svd\01479___a group of police officers standing next to each other.mp4,Pair2\svd\svd\01479___a group of police officers standing next to each other.mp4,1,fake,Pair2,svd,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\ms\ms\ms-534de1b2-2307-5aaa-bc5b-cda0f4697261.mp4,Pair1\ms\ms\ms-534de1b2-2307-5aaa-bc5b-cda0f4697261.mp4,1,fake,Pair1,ms,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-A8LKuncijo-Scene-062.mp4,Pair1\vript\vript\-A8LKuncijo-Scene-062.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\musev\musev\02082___a young boy standing on a tiled floor.mp4,Pair2\musev\musev\02082___a young boy standing on a tiled floor.mp4,1,fake,Pair2,musev,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-Je5_YZjQbI-Scene-023.mp4,Pair1\vript\vript\-Je5_YZjQbI-Scene-023.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\073BMGVWan0-Scene-200.mp4,Pair1\vript\vript\073BMGVWan0-Scene-200.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\0-Wxeo4JfWU-Scene-001.mp4,Pair1\vript\vript\0-Wxeo4JfWU-Scene-001.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-jx2w2S0LMc-Scene-120.mp4,Pair1\vript\vript\-jx2w2S0LMc-Scene-120.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\01110___133FVf0XYdI.0_1.mp4,Pair2\hd_vg_130m\hd_vg_130m\01110___133FVf0XYdI.0_1.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vc2\vc2\vc-20ae02c0-bf3c-51f6-8382-5e54799ede52.mp4,Pair1\vc2\vc2\vc-20ae02c0-bf3c-51f6-8382-5e54799ede52.mp4,1,fake,Pair1,vc2,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-THy8MfI-aM-Scene-036.mp4,Pair1\vript\vript\-THy8MfI-aM-Scene-036.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-Tznlx878UU-Scene-068.mp4,Pair1\vript\vript\-Tznlx878UU-Scene-068.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-3XbGflMtF8-Scene-069.mp4,Pair1\vript\vript\-3XbGflMtF8-Scene-069.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-5kkT_RBHk8-Scene-123.mp4,Pair1\vript\vript\-5kkT_RBHk8-Scene-123.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\pika\pika\pika-2c48b7e5-b4e6-5152-83b8-287aa74afb8f.mp4,Pair1\pika\pika\pika-2c48b7e5-b4e6-5152-83b8-287aa74afb8f.mp4,1,fake,Pair1,pika,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\ms\ms\ms-20ae02c0-bf3c-51f6-8382-5e54799ede52.mp4,Pair1\ms\ms\ms-20ae02c0-bf3c-51f6-8382-5e54799ede52.mp4,1,fake,Pair1,ms,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-8D05dM6q7U-Scene-018.mp4,Pair1\vript\vript\-8D05dM6q7U-Scene-018.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\ms\ms\ms-e06925ad-b463-54de-b811-4986d1fe04fe.mp4,Pair1\ms\ms\ms-e06925ad-b463-54de-b811-4986d1fe04fe.mp4,1,fake,Pair1,ms,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-fBRN_pUYzk-Scene-004.mp4,Pair1\vript\vript\-fBRN_pUYzk-Scene-004.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\cogvideo\cogvideo\07294___four different colored dice with the words _playing the decks_.mp4,Pair2\cogvideo\cogvideo\07294___four different colored dice with the words _playing the decks_.mp4,1,fake,Pair2,cogvideo,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\svd\svd\07095___a blurry picture of some text on a screen.mp4,Pair2\svd\svd\07095___a blurry picture of some text on a screen.mp4,1,fake,Pair2,svd,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\08176___9PqCYf4Jz0Q.8_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\08176___9PqCYf4Jz0Q.8_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-HFo_GBrXX8-Scene-024.mp4,Pair1\vript\vript\-HFo_GBrXX8-Scene-024.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-4mPZVP6HfA-Scene-012.mp4,Pair1\vript\vript\-4mPZVP6HfA-Scene-012.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vc2\vc2\vc-d878522c-5d22-5769-a99d-8a03bdecf654.mp4,Pair1\vc2\vc2\vc-d878522c-5d22-5769-a99d-8a03bdecf654.mp4,1,fake,Pair1,vc2,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\musev\musev\08012___a sign for a restaurant that says chef kung.mp4,Pair2\musev\musev\08012___a sign for a restaurant that says chef kung.mp4,1,fake,Pair2,musev,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vc2\vc2\vc-38cf1d7c-c109-5d4c-aad6-d7638135a2b6.mp4,Pair1\vc2\vc2\vc-38cf1d7c-c109-5d4c-aad6-d7638135a2b6.mp4,1,fake,Pair1,vc2,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\svd\svd\05175___an amazon may enter home fitness biz.mp4,Pair2\svd\svd\05175___an amazon may enter home fitness biz.mp4,1,fake,Pair2,svd,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\ms\ms\ms-10ccb150-0997-5ceb-82f6-6705b4fd31aa.mp4,Pair1\ms\ms\ms-10ccb150-0997-5ceb-82f6-6705b4fd31aa.mp4,1,fake,Pair1,ms,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\12765___HbB9Xc_myZM.10_1.mp4,Pair2\hd_vg_130m\hd_vg_130m\12765___HbB9Xc_myZM.10_1.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\08298___BeGDFVrOQ_0.5_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\08298___BeGDFVrOQ_0.5_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-L95YoZnq1U-Scene-020.mp4,Pair1\vript\vript\-L95YoZnq1U-Scene-020.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-CVqAVX5aAc-Scene-001.mp4,Pair1\vript\vript\-CVqAVX5aAc-Scene-001.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\09254___5xAruNOMYEQ.1_1.mp4,Pair2\hd_vg_130m\hd_vg_130m\09254___5xAruNOMYEQ.1_1.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\mora\mora\05467___a map showing the locations of north korea and south korea.mp4,Pair2\mora\mora\05467___a map showing the locations of north korea and south korea.mp4,1,fake,Pair2,mora,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\13332___ByHcjOTuPI8.2_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\13332___ByHcjOTuPI8.2_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\09601___DgVQ4Pi5vo4.0_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\09601___DgVQ4Pi5vo4.0_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\cogvideo\cogvideo\12067___a cell phone with a cartoon game on it.mp4,Pair2\cogvideo\cogvideo\12067___a cell phone with a cartoon game on it.mp4,1,fake,Pair2,cogvideo,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\musev\musev\00797___a close up of a bathroom sink.mp4,Pair2\musev\musev\00797___a close up of a bathroom sink.mp4,1,fake,Pair2,musev,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\cogvideo\cogvideo\13288___a small animal inside of a glass enclosure.mp4,Pair2\cogvideo\cogvideo\13288___a small animal inside of a glass enclosure.mp4,1,fake,Pair2,cogvideo,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\svd\svd\12336___a close up of a bird in a cage.mp4,Pair2\svd\svd\12336___a close up of a bird in a cage.mp4,1,fake,Pair2,svd,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\mora\mora\00354___two pictures of a bird in a cage.mp4,Pair2\mora\mora\00354___two pictures of a bird in a cage.mp4,1,fake,Pair2,mora,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\05596___7g5d90xgSTk.17_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\05596___7g5d90xgSTk.17_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\t2vz\t2vz\t2vz-534de1b2-2307-5aaa-bc5b-cda0f4697261.mp4,Pair1\t2vz\t2vz\t2vz-534de1b2-2307-5aaa-bc5b-cda0f4697261.mp4,1,fake,Pair1,t2vz,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-HsVkwyi-mk-Scene-038.mp4,Pair1\vript\vript\-HsVkwyi-mk-Scene-038.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\svd\svd\10334___a large white building with several flags on it.mp4,Pair2\svd\svd\10334___a large white building with several flags on it.mp4,1,fake,Pair2,svd,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\01810___3EojkH43qno.15_1.mp4,Pair2\hd_vg_130m\hd_vg_130m\01810___3EojkH43qno.15_1.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\00417___-bZ2P98IoGg.3_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\00417___-bZ2P98IoGg.3_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\t2vz\t2vz\t2vz-70770d2b-1dab-5c0e-935c-12fc3779bf06.mp4,Pair1\t2vz\t2vz\t2vz-70770d2b-1dab-5c0e-935c-12fc3779bf06.mp4,1,fake,Pair1,t2vz,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\svd\svd\09152___a yellow gun in a video game.mp4,Pair2\svd\svd\09152___a yellow gun in a video game.mp4,1,fake,Pair2,svd,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\ms\ms\ms-1d8e9939-76eb-5dc8-aab3-a78612eceb41.mp4,Pair1\ms\ms\ms-1d8e9939-76eb-5dc8-aab3-a78612eceb41.mp4,1,fake,Pair1,ms,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-7TU0EcBQpQ-Scene-063.mp4,Pair1\vript\vript\-7TU0EcBQpQ-Scene-063.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\ms\ms\ms-08d9a859-f62c-59bc-9fe7-89464deaa706.mp4,Pair1\ms\ms\ms-08d9a859-f62c-59bc-9fe7-89464deaa706.mp4,1,fake,Pair1,ms,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\05675___6U_tv6BlIBA.3_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\05675___6U_tv6BlIBA.3_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\t2vz\t2vz\t2vz-828040e4-9aca-515d-a9bc-3dd881ef1ed7.mp4,Pair1\t2vz\t2vz\t2vz-828040e4-9aca-515d-a9bc-3dd881ef1ed7.mp4,1,fake,Pair1,t2vz,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\musev\musev\07170___a news anchor is standing in front of a plane.mp4,Pair2\musev\musev\07170___a news anchor is standing in front of a plane.mp4,1,fake,Pair2,musev,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-E2IPygbwJ4-Scene-050.mp4,Pair1\vript\vript\-E2IPygbwJ4-Scene-050.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\musev\musev\12738___a stop sign with a street sign on top of it.mp4,Pair2\musev\musev\12738___a stop sign with a street sign on top of it.mp4,1,fake,Pair2,musev,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vc2\vc2\vc-a6aa3db8-6774-54ed-abf8-89bb1a29dc4d.mp4,Pair1\vc2\vc2\vc-a6aa3db8-6774-54ed-abf8-89bb1a29dc4d.mp4,1,fake,Pair1,vc2,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\01118___0mHpPl2zXgY.0_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\01118___0mHpPl2zXgY.0_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\t2vz\t2vz\t2vz-6dad3ece-d203-551b-b5f0-9b8a4fa19024.mp4,Pair1\t2vz\t2vz\t2vz-6dad3ece-d203-551b-b5f0-9b8a4fa19024.mp4,1,fake,Pair1,t2vz,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\09027___9GKNYhd3LYY.1_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\09027___9GKNYhd3LYY.1_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\cogvideo\cogvideo\10934___three newspapers sitting on top of a table.mp4,Pair2\cogvideo\cogvideo\10934___three newspapers sitting on top of a table.mp4,1,fake,Pair2,cogvideo,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-ZRyNa57YeA-Scene-004.mp4,Pair1\vript\vript\-ZRyNa57YeA-Scene-004.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\t2vz\t2vz\t2vz-a8e00099-b278-55d0-bfff-0011efad5914.mp4,Pair1\t2vz\t2vz\t2vz-a8e00099-b278-55d0-bfff-0011efad5914.mp4,1,fake,Pair1,t2vz,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\cogvideo\cogvideo\07451___a cartoon peppa pig dressed in a top hat and coat.mp4,Pair2\cogvideo\cogvideo\07451___a cartoon peppa pig dressed in a top hat and coat.mp4,1,fake,Pair2,cogvideo,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-uyHPBbfN1Y-Scene-026.mp4,Pair1\vript\vript\-uyHPBbfN1Y-Scene-026.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vc2\vc2\vc-21a72913-48de-5e80-85bf-da10c639ab49.mp4,Pair1\vc2\vc2\vc-21a72913-48de-5e80-85bf-da10c639ab49.mp4,1,fake,Pair1,vc2,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-NIP2zgVsRY-Scene-036.mp4,Pair1\vript\vript\-NIP2zgVsRY-Scene-036.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\mora\mora\00469___a cartoon character standing next to a dog.mp4,Pair2\mora\mora\00469___a cartoon character standing next to a dog.mp4,1,fake,Pair2,mora,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\01616___2ORrNI7cop8.3_1.mp4,Pair2\hd_vg_130m\hd_vg_130m\01616___2ORrNI7cop8.3_1.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\09506___FhSRTcjcp2U.2_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\09506___FhSRTcjcp2U.2_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\03138___080W85QxpEU.12_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\03138___080W85QxpEU.12_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vc2\vc2\vc-8eeeefe2-5303-5ec2-895d-394d73ded281.mp4,Pair1\vc2\vc2\vc-8eeeefe2-5303-5ec2-895d-394d73ded281.mp4,1,fake,Pair1,vc2,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\02639___58EmJJ_f4as.15_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\02639___58EmJJ_f4as.15_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-Qzhy9pr_Kk-Scene-006.mp4,Pair1\vript\vript\-Qzhy9pr_Kk-Scene-006.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\10100___CfWdFTzqsnc.1_1.mp4,Pair2\hd_vg_130m\hd_vg_130m\10100___CfWdFTzqsnc.1_1.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\01177___1JU8cSIQ3ZI.3_2.mp4,Pair2\hd_vg_130m\hd_vg_130m\01177___1JU8cSIQ3ZI.3_2.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\cogvideo\cogvideo\03669___a screen shot of a website with a shopping cart.mp4,Pair2\cogvideo\cogvideo\03669___a screen shot of a website with a shopping cart.mp4,1,fake,Pair2,cogvideo,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\pika\pika\pika-ccb9b3b6-4648-507c-a041-71a022447232.mp4,Pair1\pika\pika\pika-ccb9b3b6-4648-507c-a041-71a022447232.mp4,1,fake,Pair1,pika,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-Tznlx878UU-Scene-557.mp4,Pair1\vript\vript\-Tznlx878UU-Scene-557.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\02192___3eex1P_a1rs.10_2.mp4,Pair2\hd_vg_130m\hd_vg_130m\02192___3eex1P_a1rs.10_2.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-PRRcoxSb94-Scene-015.mp4,Pair1\vript\vript\-PRRcoxSb94-Scene-015.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\10474___DagFak3Vsnw.0_1.mp4,Pair2\hd_vg_130m\hd_vg_130m\10474___DagFak3Vsnw.0_1.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\03722___19OgEsLAOO4.11_1.mp4,Pair2\hd_vg_130m\hd_vg_130m\03722___19OgEsLAOO4.11_1.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-AsjE601CYo-Scene-039.mp4,Pair1\vript\vript\-AsjE601CYo-Scene-039.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\11042___H8OfNfdKEls.10_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\11042___H8OfNfdKEls.10_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vc2\vc2\vc-6836d5d3-0d92-5d85-a32b-b121f9ba9b04.mp4,Pair1\vc2\vc2\vc-6836d5d3-0d92-5d85-a32b-b121f9ba9b04.mp4,1,fake,Pair1,vc2,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\pika\pika\pika-a6aa3db8-6774-54ed-abf8-89bb1a29dc4d.mp4,Pair1\pika\pika\pika-a6aa3db8-6774-54ed-abf8-89bb1a29dc4d.mp4,1,fake,Pair1,pika,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\t2vz\t2vz\t2vz-807ec19f-d33e-5059-8aa2-877ca8f7c20f.mp4,Pair1\t2vz\t2vz\t2vz-807ec19f-d33e-5059-8aa2-877ca8f7c20f.mp4,1,fake,Pair1,t2vz,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-NPDexE9me0-Scene-004.mp4,Pair1\vript\vript\-NPDexE9me0-Scene-004.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-DvrJYKZetE-Scene-022.mp4,Pair1\vript\vript\-DvrJYKZetE-Scene-022.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\cogvideo\cogvideo\08843___four different types of iphone iphone iphone iphone iphone iphone iphone iphone iph.mp4,Pair2\cogvideo\cogvideo\08843___four different types of iphone iphone iphone iphone iphone iphone iphone iphone iph.mp4,1,fake,Pair2,cogvideo,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\t2vz\t2vz\t2vz-ff2b6437-8e05-5974-948a-46e35895dc41.mp4,Pair1\t2vz\t2vz\t2vz-ff2b6437-8e05-5974-948a-46e35895dc41.mp4,1,fake,Pair1,t2vz,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\t2vz\t2vz\t2vz-015b6972-c260-5220-9166-33f0d10c2ce8.mp4,Pair1\t2vz\t2vz\t2vz-015b6972-c260-5220-9166-33f0d10c2ce8.mp4,1,fake,Pair1,t2vz,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\00903___3NfrRXjNr40.0_5.mp4,Pair2\hd_vg_130m\hd_vg_130m\00903___3NfrRXjNr40.0_5.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\musev\musev\13364___a cartoon character wearing a yellow shirt and red tie.mp4,Pair2\musev\musev\13364___a cartoon character wearing a yellow shirt and red tie.mp4,1,fake,Pair2,musev,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-nLkf7UJhZo-Scene-010.mp4,Pair1\vript\vript\-nLkf7UJhZo-Scene-010.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\08696___6qNJCfvMbyI.3_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\08696___6qNJCfvMbyI.3_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-B9cy8VnHSk-Scene-006.mp4,Pair1\vript\vript\-B9cy8VnHSk-Scene-006.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-6qN1b9ELQM-Scene-056.mp4,Pair1\vript\vript\-6qN1b9ELQM-Scene-056.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\svd\svd\01072___a baseball player wearing a chicago cubs uniform.mp4,Pair2\svd\svd\01072___a baseball player wearing a chicago cubs uniform.mp4,1,fake,Pair2,svd,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\pika\pika\pika-015b6972-c260-5220-9166-33f0d10c2ce8.mp4,Pair1\pika\pika\pika-015b6972-c260-5220-9166-33f0d10c2ce8.mp4,1,fake,Pair1,pika,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-SilAqrDTw8-Scene-041.mp4,Pair1\vript\vript\-SilAqrDTw8-Scene-041.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\ms\ms\ms-426d9667-3ab8-5792-9634-aa99a5c2be26.mp4,Pair1\ms\ms\ms-426d9667-3ab8-5792-9634-aa99a5c2be26.mp4,1,fake,Pair1,ms,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-DXCtGr0DVI-Scene-014.mp4,Pair1\vript\vript\-DXCtGr0DVI-Scene-014.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-XmegTG3YdY-Scene-018.mp4,Pair1\vript\vript\-XmegTG3YdY-Scene-018.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\04481___1QXPTEC1ITc.12_2.mp4,Pair2\hd_vg_130m\hd_vg_130m\04481___1QXPTEC1ITc.12_2.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\t2vz\t2vz\t2vz-d5614d82-b71b-59a9-997f-6410624cb493.mp4,Pair1\t2vz\t2vz\t2vz-d5614d82-b71b-59a9-997f-6410624cb493.mp4,1,fake,Pair1,t2vz,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-CgxuW203fk-Scene-033.mp4,Pair1\vript\vript\-CgxuW203fk-Scene-033.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\cogvideo\cogvideo\08787___a yellow school bus driving down a street.mp4,Pair2\cogvideo\cogvideo\08787___a yellow school bus driving down a street.mp4,1,fake,Pair2,cogvideo,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\12812___E4xoji0xGus.1_1.mp4,Pair2\hd_vg_130m\hd_vg_130m\12812___E4xoji0xGus.1_1.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\03632___3QWFk473SUI.7_1.mp4,Pair2\hd_vg_130m\hd_vg_130m\03632___3QWFk473SUI.7_1.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\mora\mora\10070___the back of a van filled with bags of drugs.mp4,Pair2\mora\mora\10070___the back of a van filled with bags of drugs.mp4,1,fake,Pair2,mora,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\06543___7xjYXaXhg6s.16_1.mp4,Pair2\hd_vg_130m\hd_vg_130m\06543___7xjYXaXhg6s.16_1.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\pika\pika\pika-828040e4-9aca-515d-a9bc-3dd881ef1ed7.mp4,Pair1\pika\pika\pika-828040e4-9aca-515d-a9bc-3dd881ef1ed7.mp4,1,fake,Pair1,pika,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\mora\mora\02778___a map of japan with a red face on it.mp4,Pair2\mora\mora\02778___a map of japan with a red face on it.mp4,1,fake,Pair2,mora,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\pika\pika\pika-b186afc4-3c50-566e-8091-11c41ac75c2b.mp4,Pair1\pika\pika\pika-b186afc4-3c50-566e-8091-11c41ac75c2b.mp4,1,fake,Pair1,pika,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\10508___EXeZyO9XCsE.6_5.mp4,Pair2\hd_vg_130m\hd_vg_130m\10508___EXeZyO9XCsE.6_5.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-Z3priQFMeE-Scene-066.mp4,Pair1\vript\vript\-Z3priQFMeE-Scene-066.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\08790___B4-1towx-tw.0_2.mp4,Pair2\hd_vg_130m\hd_vg_130m\08790___B4-1towx-tw.0_2.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\musev\musev\05668___a tractor driving down a dirt road.mp4,Pair2\musev\musev\05668___a tractor driving down a dirt road.mp4,1,fake,Pair2,musev,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-JzFLgHXyak-Scene-004.mp4,Pair1\vript\vript\-JzFLgHXyak-Scene-004.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-KWuh6hzi8E-Scene-007.mp4,Pair1\vript\vript\-KWuh6hzi8E-Scene-007.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\10779___EkiZT5v5c24.7_2.mp4,Pair2\hd_vg_130m\hd_vg_130m\10779___EkiZT5v5c24.7_2.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vc2\vc2\vc-3d912141-6b6e-5cfd-8c30-12bad1a64b89.mp4,Pair1\vc2\vc2\vc-3d912141-6b6e-5cfd-8c30-12bad1a64b89.mp4,1,fake,Pair1,vc2,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vc2\vc2\vc-ff2c8815-2aff-5fdb-8394-1917fb571f42.mp4,Pair1\vc2\vc2\vc-ff2c8815-2aff-5fdb-8394-1917fb571f42.mp4,1,fake,Pair1,vc2,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\pika\pika\pika-e06925ad-b463-54de-b811-4986d1fe04fe.mp4,Pair1\pika\pika\pika-e06925ad-b463-54de-b811-4986d1fe04fe.mp4,1,fake,Pair1,pika,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\cogvideo\cogvideo\05067___a lone skier in the middle of a snowy mountain.mp4,Pair2\cogvideo\cogvideo\05067___a lone skier in the middle of a snowy mountain.mp4,1,fake,Pair2,cogvideo,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-uyHPBbfN1Y-Scene-097.mp4,Pair1\vript\vript\-uyHPBbfN1Y-Scene-097.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-KMOH0xbUIs-Scene-012.mp4,Pair1\vript\vript\-KMOH0xbUIs-Scene-012.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-8JCVzvR560-Scene-089.mp4,Pair1\vript\vript\-8JCVzvR560-Scene-089.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\t2vz\t2vz\t2vz-12576125-3471-5ed6-9be2-055b7a86f8ce.mp4,Pair1\t2vz\t2vz\t2vz-12576125-3471-5ed6-9be2-055b7a86f8ce.mp4,1,fake,Pair1,t2vz,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-2NL1IFwtS8-Scene-062.mp4,Pair1\vript\vript\-2NL1IFwtS8-Scene-062.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\02397___-PWE9sLkSLY.3_1.mp4,Pair2\hd_vg_130m\hd_vg_130m\02397___-PWE9sLkSLY.3_1.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\01071___1Dfwqzh5VME.35_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\01071___1Dfwqzh5VME.35_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\cogvideo\cogvideo\09705___a screen shot of a character in a game.mp4,Pair2\cogvideo\cogvideo\09705___a screen shot of a character in a game.mp4,1,fake,Pair2,cogvideo,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-5ReoIc3C_o-Scene-073.mp4,Pair1\vript\vript\-5ReoIc3C_o-Scene-073.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-ELZ6vigbxo-Scene-005.mp4,Pair1\vript\vript\-ELZ6vigbxo-Scene-005.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-pbPgOKDy-Y-Scene-076.mp4,Pair1\vript\vript\-pbPgOKDy-Y-Scene-076.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\pika\pika\pika-ed905ae2-ee34-529c-a804-3ce2d5e7e939.mp4,Pair1\pika\pika\pika-ed905ae2-ee34-529c-a804-3ce2d5e7e939.mp4,1,fake,Pair1,pika,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vc2\vc2\vc-af7aa6cd-c500-5cc9-bb3a-27e557edeb6c.mp4,Pair1\vc2\vc2\vc-af7aa6cd-c500-5cc9-bb3a-27e557edeb6c.mp4,1,fake,Pair1,vc2,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\3O7icCqFfEo-Scene-002.mp4,Pair1\vript\vript\3O7icCqFfEo-Scene-002.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\mora\mora\03071___a shelf with a variety of metal items on it.mp4,Pair2\mora\mora\03071___a shelf with a variety of metal items on it.mp4,1,fake,Pair2,mora,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\t2vz\t2vz\t2vz-3726faf1-874e-5a95-8b2f-87b7e04766a7.mp4,Pair1\t2vz\t2vz\t2vz-3726faf1-874e-5a95-8b2f-87b7e04766a7.mp4,1,fake,Pair1,t2vz,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\mora\mora\02141___a building with a fire hydrant on the side of it.mp4,Pair2\mora\mora\02141___a building with a fire hydrant on the side of it.mp4,1,fake,Pair2,mora,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\mora\mora\06848___a coach being carried on the shoulders of his players.mp4,Pair2\mora\mora\06848___a coach being carried on the shoulders of his players.mp4,1,fake,Pair2,mora,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\cogvideo\cogvideo\10264___two stuffed animals standing next to a desk.mp4,Pair2\cogvideo\cogvideo\10264___two stuffed animals standing next to a desk.mp4,1,fake,Pair2,cogvideo,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\mora\mora\08595___a picture of a motorcycle with a light on it.mp4,Pair2\mora\mora\08595___a picture of a motorcycle with a light on it.mp4,1,fake,Pair2,mora,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\musev\musev\11382___a wooden chest of drawers sitting on top of a counter.mp4,Pair2\musev\musev\11382___a wooden chest of drawers sitting on top of a counter.mp4,1,fake,Pair2,musev,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-QtO4Z2zH2Y-Scene-002.mp4,Pair1\vript\vript\-QtO4Z2zH2Y-Scene-002.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-CFnpUuy9MM-Scene-018.mp4,Pair1\vript\vript\-CFnpUuy9MM-Scene-018.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\05949___6NyRMkQmezM.1_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\05949___6NyRMkQmezM.1_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-CDAG1CTjLo-Scene-078.mp4,Pair1\vript\vript\-CDAG1CTjLo-Scene-078.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\musev\musev\02476___a park that is flooded with water.mp4,Pair2\musev\musev\02476___a park that is flooded with water.mp4,1,fake,Pair2,musev,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\10638___EhFCnA0EPFo.1_4.mp4,Pair2\hd_vg_130m\hd_vg_130m\10638___EhFCnA0EPFo.1_4.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\06925___B3E8wGfVk7w.4_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\06925___B3E8wGfVk7w.4_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\00968___0EXb0-eUDDk.12_2.mp4,Pair2\hd_vg_130m\hd_vg_130m\00968___0EXb0-eUDDk.12_2.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-1RsCsSKt7A-Scene-086.mp4,Pair1\vript\vript\-1RsCsSKt7A-Scene-086.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\ms\ms\ms-15d13bf9-a053-5dfe-a244-32086ec1c77b.mp4,Pair1\ms\ms\ms-15d13bf9-a053-5dfe-a244-32086ec1c77b.mp4,1,fake,Pair1,ms,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\pika\pika\pika-8eeeefe2-5303-5ec2-895d-394d73ded281.mp4,Pair1\pika\pika\pika-8eeeefe2-5303-5ec2-895d-394d73ded281.mp4,1,fake,Pair1,pika,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\cogvideo\cogvideo\06819___a table topped with ingredients for a cake.mp4,Pair2\cogvideo\cogvideo\06819___a table topped with ingredients for a cake.mp4,1,fake,Pair2,cogvideo,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\--amuSGpp94-Scene-011.mp4,Pair1\vript\vript\--amuSGpp94-Scene-011.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-ZxpBUbhvQM-Scene-071.mp4,Pair1\vript\vript\-ZxpBUbhvQM-Scene-071.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\musev\musev\12336___a close up of a bird in a cage.mp4,Pair2\musev\musev\12336___a close up of a bird in a cage.mp4,1,fake,Pair2,musev,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\05213___9wA0Xe76aSk.28_1.mp4,Pair2\hd_vg_130m\hd_vg_130m\05213___9wA0Xe76aSk.28_1.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\musev\musev\08003___an airplane flying through a clear blue sky.mp4,Pair2\musev\musev\08003___an airplane flying through a clear blue sky.mp4,1,fake,Pair2,musev,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-JYuGS4buzs-Scene-047.mp4,Pair1\vript\vript\-JYuGS4buzs-Scene-047.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\musev\musev\06329___a brown and white bird sitting in a tree.mp4,Pair2\musev\musev\06329___a brown and white bird sitting in a tree.mp4,1,fake,Pair2,musev,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\ms\ms\ms-7b1711ba-3c30-539f-8ba7-5dff10e848c6.mp4,Pair1\ms\ms\ms-7b1711ba-3c30-539f-8ba7-5dff10e848c6.mp4,1,fake,Pair1,ms,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\12797___CRdy1e-k-tk.9_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\12797___CRdy1e-k-tk.9_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-NmJouiMnaM-Scene-004.mp4,Pair1\vript\vript\-NmJouiMnaM-Scene-004.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\musev\musev\01857___a young boy sitting at a counter with a bowl of food.mp4,Pair2\musev\musev\01857___a young boy sitting at a counter with a bowl of food.mp4,1,fake,Pair2,musev,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\cogvideo\cogvideo\06831___a weather map with snow on it.mp4,Pair2\cogvideo\cogvideo\06831___a weather map with snow on it.mp4,1,fake,Pair2,cogvideo,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\svd\svd\08583___a computer screen showing a drawing of a horse.mp4,Pair2\svd\svd\08583___a computer screen showing a drawing of a horse.mp4,1,fake,Pair2,svd,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\cogvideo\cogvideo\00609___a couple of kids playing basketball on a court.mp4,Pair2\cogvideo\cogvideo\00609___a couple of kids playing basketball on a court.mp4,1,fake,Pair2,cogvideo,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-OgDFzqzjpE-Scene-053.mp4,Pair1\vript\vript\-OgDFzqzjpE-Scene-053.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\0JMLUdQG9FQ-Scene-098.mp4,Pair1\vript\vript\0JMLUdQG9FQ-Scene-098.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\09868___CaSTlTXG-90.26_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\09868___CaSTlTXG-90.26_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\09067___6uHjLgR68LA.1_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\09067___6uHjLgR68LA.1_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-_Ch9H2JzIM-Scene-008.mp4,Pair1\vript\vript\-_Ch9H2JzIM-Scene-008.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-8vE8JrxABo-Scene-064.mp4,Pair1\vript\vript\-8vE8JrxABo-Scene-064.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\cogvideo\cogvideo\12577___the cbs logo on a blue background.mp4,Pair2\cogvideo\cogvideo\12577___the cbs logo on a blue background.mp4,1,fake,Pair2,cogvideo,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\t2vz\t2vz\t2vz-a91ce67d-d3cc-5c0b-a386-21036e392c74.mp4,Pair1\t2vz\t2vz\t2vz-a91ce67d-d3cc-5c0b-a386-21036e392c74.mp4,1,fake,Pair1,t2vz,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\11225___G0Mydde4QI8.10_1.mp4,Pair2\hd_vg_130m\hd_vg_130m\11225___G0Mydde4QI8.10_1.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vc2\vc2\vc-52085ef4-0f41-54af-a053-fa5dc9ede520.mp4,Pair1\vc2\vc2\vc-52085ef4-0f41-54af-a053-fa5dc9ede520.mp4,1,fake,Pair1,vc2,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\11415___E0rMcADCSWw.4_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\11415___E0rMcADCSWw.4_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-OdWi5yyDRg-Scene-005.mp4,Pair1\vript\vript\-OdWi5yyDRg-Scene-005.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\t2vz\t2vz\t2vz-89ed5c66-7b9e-5447-ae61-2e8f9ce6a9a9.mp4,Pair1\t2vz\t2vz\t2vz-89ed5c66-7b9e-5447-ae61-2e8f9ce6a9a9.mp4,1,fake,Pair1,t2vz,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\06240___9wEQ4FwtsHQ.18_1.mp4,Pair2\hd_vg_130m\hd_vg_130m\06240___9wEQ4FwtsHQ.18_1.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\0ErVpaTWRFM-Scene-040.mp4,Pair1\vript\vript\0ErVpaTWRFM-Scene-040.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\07012___8hN-ytS_zCw.8_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\07012___8hN-ytS_zCw.8_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-8DcaBhYbHI-Scene-068.mp4,Pair1\vript\vript\-8DcaBhYbHI-Scene-068.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-8QN_w1MhmM-Scene-071.mp4,Pair1\vript\vript\-8QN_w1MhmM-Scene-071.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-5ajPCpJl-c-Scene-028.mp4,Pair1\vript\vript\-5ajPCpJl-c-Scene-028.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\09061___BV3p_aYvArQ.40_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\09061___BV3p_aYvArQ.40_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-YIl2latzhY-Scene-063.mp4,Pair1\vript\vript\-YIl2latzhY-Scene-063.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\mora\mora\03690___a row of bottles of milk sitting on a shelf.mp4,Pair2\mora\mora\03690___a row of bottles of milk sitting on a shelf.mp4,1,fake,Pair2,mora,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\01780___4Ec0AKuS8ms.0_2.mp4,Pair2\hd_vg_130m\hd_vg_130m\01780___4Ec0AKuS8ms.0_2.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-KB3YUUz38c-Scene-082.mp4,Pair1\vript\vript\-KB3YUUz38c-Scene-082.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\11974___F7gDC_jUjKs.15_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\11974___F7gDC_jUjKs.15_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\01582___02ZEJR8WDfk.13_3.mp4,Pair2\hd_vg_130m\hd_vg_130m\01582___02ZEJR8WDfk.13_3.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\pika\pika\pika-3d22a760-43ce-5ddf-a6a6-2813cf54d6b7.mp4,Pair1\pika\pika\pika-3d22a760-43ce-5ddf-a6a6-2813cf54d6b7.mp4,1,fake,Pair1,pika,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\10510___F1RuTpHgsAc.3_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\10510___F1RuTpHgsAc.3_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-0xMfZOYTcU-Scene-049.mp4,Pair1\vript\vript\-0xMfZOYTcU-Scene-049.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\svd\svd\12192___a close up of a doll laying on a bed.mp4,Pair2\svd\svd\12192___a close up of a doll laying on a bed.mp4,1,fake,Pair2,svd,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\01832___06XJHOYANcQ.14_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\01832___06XJHOYANcQ.14_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\musev\musev\06882___a group of basketball players posing for a picture.mp4,Pair2\musev\musev\06882___a group of basketball players posing for a picture.mp4,1,fake,Pair2,musev,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\09964___GgwrKSMqlsg.1_6.mp4,Pair2\hd_vg_130m\hd_vg_130m\09964___GgwrKSMqlsg.1_6.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\11825___Di9Ch4_Xu9g.16_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\11825___Di9Ch4_Xu9g.16_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\02485___0YOsJk4OKzU.23_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\02485___0YOsJk4OKzU.23_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\musev\musev\09691___a group of geisha dolls sitting on a bamboo pole.mp4,Pair2\musev\musev\09691___a group of geisha dolls sitting on a bamboo pole.mp4,1,fake,Pair2,musev,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-5_jTyh-3Ng-Scene-013.mp4,Pair1\vript\vript\-5_jTyh-3Ng-Scene-013.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\10934___ByyiUEpm3No.12_1.mp4,Pair2\hd_vg_130m\hd_vg_130m\10934___ByyiUEpm3No.12_1.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\t2vz\t2vz\t2vz-c9b2959a-0cce-5df3-90e3-e0a70895dd77.mp4,Pair1\t2vz\t2vz\t2vz-c9b2959a-0cce-5df3-90e3-e0a70895dd77.mp4,1,fake,Pair1,t2vz,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\pika\pika\pika-25580f7b-c375-508d-9bb3-0cb7e318744a.mp4,Pair1\pika\pika\pika-25580f7b-c375-508d-9bb3-0cb7e318744a.mp4,1,fake,Pair1,pika,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\13764___HM5DFTU1GRg.0_7.mp4,Pair2\hd_vg_130m\hd_vg_130m\13764___HM5DFTU1GRg.0_7.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\04140___1APDfJVmf1M.14_3.mp4,Pair2\hd_vg_130m\hd_vg_130m\04140___1APDfJVmf1M.14_3.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\pika\pika\pika-ff2b6437-8e05-5974-948a-46e35895dc41.mp4,Pair1\pika\pika\pika-ff2b6437-8e05-5974-948a-46e35895dc41.mp4,1,fake,Pair1,pika,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\08326___9KqISPT5NWk.0_3.mp4,Pair2\hd_vg_130m\hd_vg_130m\08326___9KqISPT5NWk.0_3.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\12715___CsK4eNtTTMo.10_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\12715___CsK4eNtTTMo.10_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\t2vz\t2vz\t2vz-ccb9b3b6-4648-507c-a041-71a022447232.mp4,Pair1\t2vz\t2vz\t2vz-ccb9b3b6-4648-507c-a041-71a022447232.mp4,1,fake,Pair1,t2vz,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\cogvideo\cogvideo\12030___a young boy standing in the grass with a sign that says $ 200.mp4,Pair2\cogvideo\cogvideo\12030___a young boy standing in the grass with a sign that says $ 200.mp4,1,fake,Pair2,cogvideo,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\01664___-7UBuZqP-Bc.0_1.mp4,Pair2\hd_vg_130m\hd_vg_130m\01664___-7UBuZqP-Bc.0_1.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vc2\vc2\vc-70d666ee-bd5d-5ade-b0d1-b5b9085d5ca5.mp4,Pair1\vc2\vc2\vc-70d666ee-bd5d-5ade-b0d1-b5b9085d5ca5.mp4,1,fake,Pair1,vc2,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\pika\pika\pika-ed3a73af-7a1d-529c-9cd3-a6d5a43e06d1.mp4,Pair1\pika\pika\pika-ed3a73af-7a1d-529c-9cd3-a6d5a43e06d1.mp4,1,fake,Pair1,pika,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\04179___5Cn8BGeAy-0.18_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\04179___5Cn8BGeAy-0.18_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\10774___DUa3AUBhD1k.1_1.mp4,Pair2\hd_vg_130m\hd_vg_130m\10774___DUa3AUBhD1k.1_1.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\musev\musev\13849___a tree branch with ants crawling on it.mp4,Pair2\musev\musev\13849___a tree branch with ants crawling on it.mp4,1,fake,Pair2,musev,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\09169___6aWOAgf_jZk.12_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\09169___6aWOAgf_jZk.12_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\mora\mora\01040___a close up of a pair of scissors.mp4,Pair2\mora\mora\01040___a close up of a pair of scissors.mp4,1,fake,Pair2,mora,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\06335___7DxLWrzgfFk.103_3.mp4,Pair2\hd_vg_130m\hd_vg_130m\06335___7DxLWrzgfFk.103_3.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-Nwg8U3jmlw-Scene-001.mp4,Pair1\vript\vript\-Nwg8U3jmlw-Scene-001.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-fikrO9_aRc-Scene-039.mp4,Pair1\vript\vript\-fikrO9_aRc-Scene-039.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\pika\pika\pika-426d9667-3ab8-5792-9634-aa99a5c2be26.mp4,Pair1\pika\pika\pika-426d9667-3ab8-5792-9634-aa99a5c2be26.mp4,1,fake,Pair1,pika,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vc2\vc2\vc-12576125-3471-5ed6-9be2-055b7a86f8ce.mp4,Pair1\vc2\vc2\vc-12576125-3471-5ed6-9be2-055b7a86f8ce.mp4,1,fake,Pair1,vc2,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\01038___0WctBTVPyps.26_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\01038___0WctBTVPyps.26_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-c88ZCPF10M-Scene-167.mp4,Pair1\vript\vript\-c88ZCPF10M-Scene-167.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\cogvideo\cogvideo\11137___a clock with the words amazon's uniform design for echo echo echo echo echo echo echo echo echo echo echo echo echo echo echo echo echo echo echo.mp4,Pair2\cogvideo\cogvideo\11137___a clock with the words amazon's uniform design for echo echo echo echo echo echo echo echo echo echo echo echo echo echo echo echo echo echo echo.mp4,1,fake,Pair2,cogvideo,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\cogvideo\cogvideo\06848___a coach being carried on the shoulders of his players.mp4,Pair2\cogvideo\cogvideo\06848___a coach being carried on the shoulders of his players.mp4,1,fake,Pair2,cogvideo,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\mora\mora\05529___a boat floating in the middle of a body of water.mp4,Pair2\mora\mora\05529___a boat floating in the middle of a body of water.mp4,1,fake,Pair2,mora,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\musev\musev\04273___a red rectangle with a white background.mp4,Pair2\musev\musev\04273___a red rectangle with a white background.mp4,1,fake,Pair2,musev,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\t2vz\t2vz\t2vz-2c48b7e5-b4e6-5152-83b8-287aa74afb8f.mp4,Pair1\t2vz\t2vz\t2vz-2c48b7e5-b4e6-5152-83b8-287aa74afb8f.mp4,1,fake,Pair1,t2vz,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-ClQTAGJ0yI-Scene-026.mp4,Pair1\vript\vript\-ClQTAGJ0yI-Scene-026.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\06565___BCI2hqvpqkA.1_2.mp4,Pair2\hd_vg_130m\hd_vg_130m\06565___BCI2hqvpqkA.1_2.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\cogvideo\cogvideo\04343___a screenshot of a video game.mp4,Pair2\cogvideo\cogvideo\04343___a screenshot of a video game.mp4,1,fake,Pair2,cogvideo,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\cogvideo\cogvideo\07591___a picture of an egg on a blue background.mp4,Pair2\cogvideo\cogvideo\07591___a picture of an egg on a blue background.mp4,1,fake,Pair2,cogvideo,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\t2vz\t2vz\t2vz-e06925ad-b463-54de-b811-4986d1fe04fe.mp4,Pair1\t2vz\t2vz\t2vz-e06925ad-b463-54de-b811-4986d1fe04fe.mp4,1,fake,Pair1,t2vz,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\pika\pika\pika-1d8e9939-76eb-5dc8-aab3-a78612eceb41.mp4,Pair1\pika\pika\pika-1d8e9939-76eb-5dc8-aab3-a78612eceb41.mp4,1,fake,Pair1,pika,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-yQ34T8gXGg-Scene-015.mp4,Pair1\vript\vript\-yQ34T8gXGg-Scene-015.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\svd\svd\03689___the reflection of a cat in the window of a car.mp4,Pair2\svd\svd\03689___the reflection of a cat in the window of a car.mp4,1,fake,Pair2,svd,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\musev\musev\00321___a piece of paper sitting on top of a wooden table.mp4,Pair2\musev\musev\00321___a piece of paper sitting on top of a wooden table.mp4,1,fake,Pair2,musev,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\ms\ms\ms-21a72913-48de-5e80-85bf-da10c639ab49.mp4,Pair1\ms\ms\ms-21a72913-48de-5e80-85bf-da10c639ab49.mp4,1,fake,Pair1,ms,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\svd\svd\11382___a wooden chest of drawers sitting on top of a counter.mp4,Pair2\svd\svd\11382___a wooden chest of drawers sitting on top of a counter.mp4,1,fake,Pair2,svd,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\cogvideo\cogvideo\08595___a picture of a motorcycle with a light on it.mp4,Pair2\cogvideo\cogvideo\08595___a picture of a motorcycle with a light on it.mp4,1,fake,Pair2,cogvideo,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-41qhay-Zzg-Scene-017.mp4,Pair1\vript\vript\-41qhay-Zzg-Scene-017.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\09732___C8kdm32B8XA.16_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\09732___C8kdm32B8XA.16_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\musev\musev\01482___a long hallway with numbers on the walls.mp4,Pair2\musev\musev\01482___a long hallway with numbers on the walls.mp4,1,fake,Pair2,musev,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-Y7E_C3yd4Q-Scene-016.mp4,Pair1\vript\vript\-Y7E_C3yd4Q-Scene-016.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\mora\mora\01784___president barack obama giving a speech in front of an american flag.mp4,Pair2\mora\mora\01784___president barack obama giving a speech in front of an american flag.mp4,1,fake,Pair2,mora,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-X8FNyBD8O8-Scene-056.mp4,Pair1\vript\vript\-X8FNyBD8O8-Scene-056.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-L95YoZnq1U-Scene-016.mp4,Pair1\vript\vript\-L95YoZnq1U-Scene-016.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\06209___A9hVKgVCepM.4_2.mp4,Pair2\hd_vg_130m\hd_vg_130m\06209___A9hVKgVCepM.4_2.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\02763___4PlWTGYtv2Y.3_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\02763___4PlWTGYtv2Y.3_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\ms\ms\ms-3d912141-6b6e-5cfd-8c30-12bad1a64b89.mp4,Pair1\ms\ms\ms-3d912141-6b6e-5cfd-8c30-12bad1a64b89.mp4,1,fake,Pair1,ms,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-HsVkwyi-mk-Scene-044.mp4,Pair1\vript\vript\-HsVkwyi-mk-Scene-044.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-CgxuW203fk-Scene-064.mp4,Pair1\vript\vript\-CgxuW203fk-Scene-064.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-D3qsFC0E0E-Scene-005.mp4,Pair1\vript\vript\-D3qsFC0E0E-Scene-005.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-THy8MfI-aM-Scene-034.mp4,Pair1\vript\vript\-THy8MfI-aM-Scene-034.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-liMa4Ve-_8-Scene-038.mp4,Pair1\vript\vript\-liMa4Ve-_8-Scene-038.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-Xe9ATwapx8-Scene-113.mp4,Pair1\vript\vript\-Xe9ATwapx8-Scene-113.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\02384___0xRkyu_39UE.17_1.mp4,Pair2\hd_vg_130m\hd_vg_130m\02384___0xRkyu_39UE.17_1.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\08363___6bUDjs73UZg.33_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\08363___6bUDjs73UZg.33_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-7rMo-TJCbI-Scene-148.mp4,Pair1\vript\vript\-7rMo-TJCbI-Scene-148.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\t2vz\t2vz\t2vz-426d9667-3ab8-5792-9634-aa99a5c2be26.mp4,Pair1\t2vz\t2vz\t2vz-426d9667-3ab8-5792-9634-aa99a5c2be26.mp4,1,fake,Pair1,t2vz,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\mora\mora\12577___the cbs logo on a blue background.mp4,Pair2\mora\mora\12577___the cbs logo on a blue background.mp4,1,fake,Pair2,mora,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\09333___C7qG7sRKa-0.0_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\09333___C7qG7sRKa-0.0_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\mora\mora\11461___a potted plant with a bottle of liquid next to it.mp4,Pair2\mora\mora\11461___a potted plant with a bottle of liquid next to it.mp4,1,fake,Pair2,mora,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vc2\vc2\vc-e1653180-f281-52be-b6ff-1fd19ded0d5b.mp4,Pair1\vc2\vc2\vc-e1653180-f281-52be-b6ff-1fd19ded0d5b.mp4,1,fake,Pair1,vc2,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\ms\ms\ms-a91ce67d-d3cc-5c0b-a386-21036e392c74.mp4,Pair1\ms\ms\ms-a91ce67d-d3cc-5c0b-a386-21036e392c74.mp4,1,fake,Pair1,ms,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\cogvideo\cogvideo\00901___two cars are parked in front of a house.mp4,Pair2\cogvideo\cogvideo\00901___two cars are parked in front of a house.mp4,1,fake,Pair2,cogvideo,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\mora\mora\08843___four different types of iphone iphone iphone iphone iphone iphone iphone iphone iph.mp4,Pair2\mora\mora\08843___four different types of iphone iphone iphone iphone iphone iphone iphone iphone iph.mp4,1,fake,Pair2,mora,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\ms\ms\ms-10f4cf37-bc88-59ab-a946-4fd0f3368410.mp4,Pair1\ms\ms\ms-10f4cf37-bc88-59ab-a946-4fd0f3368410.mp4,1,fake,Pair1,ms,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\13233___EflFM6MhhYQ.12_2.mp4,Pair2\hd_vg_130m\hd_vg_130m\13233___EflFM6MhhYQ.12_2.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\ms\ms\ms-d1418574-5192-5596-96da-d1d5a308670a.mp4,Pair1\ms\ms\ms-d1418574-5192-5596-96da-d1d5a308670a.mp4,1,fake,Pair1,ms,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\ms\ms\ms-ccb9b3b6-4648-507c-a041-71a022447232.mp4,Pair1\ms\ms\ms-ccb9b3b6-4648-507c-a041-71a022447232.mp4,1,fake,Pair1,ms,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\mora\mora\03129___a picture of a window with rain drops on it.mp4,Pair2\mora\mora\03129___a picture of a window with rain drops on it.mp4,1,fake,Pair2,mora,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\svd\svd\04212___a view of the interior of an auditorium.mp4,Pair2\svd\svd\04212___a view of the interior of an auditorium.mp4,1,fake,Pair2,svd,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-TT_Igi7gME-Scene-018.mp4,Pair1\vript\vript\-TT_Igi7gME-Scene-018.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\00317___-NKrNpQ7ZeY.20_2.mp4,Pair2\hd_vg_130m\hd_vg_130m\00317___-NKrNpQ7ZeY.20_2.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\08798___BhHnVz4jDN8.1_5.mp4,Pair2\hd_vg_130m\hd_vg_130m\08798___BhHnVz4jDN8.1_5.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\ms\ms\ms-ff2c8815-2aff-5fdb-8394-1917fb571f42.mp4,Pair1\ms\ms\ms-ff2c8815-2aff-5fdb-8394-1917fb571f42.mp4,1,fake,Pair1,ms,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\t2vz\t2vz\t2vz-07de788b-da8a-5eba-b85c-7a3bb267ea0b.mp4,Pair1\t2vz\t2vz\t2vz-07de788b-da8a-5eba-b85c-7a3bb267ea0b.mp4,1,fake,Pair1,t2vz,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\ms\ms\ms-f2af67e1-56fb-530e-9719-0dc5887becd9.mp4,Pair1\ms\ms\ms-f2af67e1-56fb-530e-9719-0dc5887becd9.mp4,1,fake,Pair1,ms,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-5kkT_RBHk8-Scene-111.mp4,Pair1\vript\vript\-5kkT_RBHk8-Scene-111.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\04pOrJ3GnOM-Scene-018.mp4,Pair1\vript\vript\04pOrJ3GnOM-Scene-018.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\06444___BC2fZVcB9ww.1_2.mp4,Pair2\hd_vg_130m\hd_vg_130m\06444___BC2fZVcB9ww.1_2.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\07553___6jhuSjAHRlI.16_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\07553___6jhuSjAHRlI.16_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\mora\mora\12067___a cell phone with a cartoon game on it.mp4,Pair2\mora\mora\12067___a cell phone with a cartoon game on it.mp4,1,fake,Pair2,mora,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vc2\vc2\vc-560931d1-903d-56e8-87ac-149535967748.mp4,Pair1\vc2\vc2\vc-560931d1-903d-56e8-87ac-149535967748.mp4,1,fake,Pair1,vc2,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-b9sTS7kcC4-Scene-017.mp4,Pair1\vript\vript\-b9sTS7kcC4-Scene-017.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\02637___25yquwhDIzg.0_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\02637___25yquwhDIzg.0_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\03026___-ZEGPQAOn7I.25_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\03026___-ZEGPQAOn7I.25_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-F3jb9eoKS8-Scene-033.mp4,Pair1\vript\vript\-F3jb9eoKS8-Scene-033.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\cogvideo\cogvideo\01040___a close up of a pair of scissors.mp4,Pair2\cogvideo\cogvideo\01040___a close up of a pair of scissors.mp4,1,fake,Pair2,cogvideo,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-6iIC9iblj0-Scene-026.mp4,Pair1\vript\vript\-6iIC9iblj0-Scene-026.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-IBSPylJNR4-Scene-019.mp4,Pair1\vript\vript\-IBSPylJNR4-Scene-019.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\12625___GAKUeQsM_Vg.3_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\12625___GAKUeQsM_Vg.3_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\t2vz\t2vz\t2vz-4b8e1b54-4f2b-59ec-ad4e-f60c6d6639ce.mp4,Pair1\t2vz\t2vz\t2vz-4b8e1b54-4f2b-59ec-ad4e-f60c6d6639ce.mp4,1,fake,Pair1,t2vz,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\07413___BHNfCZFJ8hg.13_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\07413___BHNfCZFJ8hg.13_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-8upat2I7as-Scene-003.mp4,Pair1\vript\vript\-8upat2I7as-Scene-003.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vc2\vc2\vc-2c48b7e5-b4e6-5152-83b8-287aa74afb8f.mp4,Pair1\vc2\vc2\vc-2c48b7e5-b4e6-5152-83b8-287aa74afb8f.mp4,1,fake,Pair1,vc2,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\t2vz\t2vz\t2vz-b186afc4-3c50-566e-8091-11c41ac75c2b.mp4,Pair1\t2vz\t2vz\t2vz-b186afc4-3c50-566e-8091-11c41ac75c2b.mp4,1,fake,Pair1,t2vz,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\t2vz\t2vz\t2vz-e35c583d-5dfe-5ba8-a937-5a1b5548a63f.mp4,Pair1\t2vz\t2vz\t2vz-e35c583d-5dfe-5ba8-a937-5a1b5548a63f.mp4,1,fake,Pair1,t2vz,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\mora\mora\00400___a stone archway with a clock on it.mp4,Pair2\mora\mora\00400___a stone archway with a clock on it.mp4,1,fake,Pair2,mora,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\mora\mora\10264___two stuffed animals standing next to a desk.mp4,Pair2\mora\mora\10264___two stuffed animals standing next to a desk.mp4,1,fake,Pair2,mora,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\mora\mora\04924___a close up of a teddy bear sitting on a rock.mp4,Pair2\mora\mora\04924___a close up of a teddy bear sitting on a rock.mp4,1,fake,Pair2,mora,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\00171___-ozYm2_O1mQ.1_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\00171___-ozYm2_O1mQ.1_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\02854___1xmHHboQDfg.19_2.mp4,Pair2\hd_vg_130m\hd_vg_130m\02854___1xmHHboQDfg.19_2.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-L7T3aHyVBY-Scene-028.mp4,Pair1\vript\vript\-L7T3aHyVBY-Scene-028.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\cogvideo\cogvideo\00354___two pictures of a bird in a cage.mp4,Pair2\cogvideo\cogvideo\00354___two pictures of a bird in a cage.mp4,1,fake,Pair2,cogvideo,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\02272___1CYJHlEMFD4.1_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\02272___1CYJHlEMFD4.1_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\13727___GnIaOWhMfG8.0_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\13727___GnIaOWhMfG8.0_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\0FSHBq27aWg-Scene-001.mp4,Pair1\vript\vript\0FSHBq27aWg-Scene-001.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\00500___4tHUGF2EEpI.26_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\00500___4tHUGF2EEpI.26_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-fcVoEd8_y4-Scene-015.mp4,Pair1\vript\vript\-fcVoEd8_y4-Scene-015.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\t2vz\t2vz\t2vz-fd1c0be6-3ea0-504d-a8eb-3124d364ce30.mp4,Pair1\t2vz\t2vz\t2vz-fd1c0be6-3ea0-504d-a8eb-3124d364ce30.mp4,1,fake,Pair1,t2vz,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\mora\mora\05197___a child is kneading dough on a table.mp4,Pair2\mora\mora\05197___a child is kneading dough on a table.mp4,1,fake,Pair2,mora,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\pika\pika\pika-d878522c-5d22-5769-a99d-8a03bdecf654.mp4,Pair1\pika\pika\pika-d878522c-5d22-5769-a99d-8a03bdecf654.mp4,1,fake,Pair1,pika,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\00391___48JTh6ZStfI.18_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\00391___48JTh6ZStfI.18_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-RY8EuEgedY-Scene-024.mp4,Pair1\vript\vript\-RY8EuEgedY-Scene-024.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\00548___3fioM7OJbHM.6_2.mp4,Pair2\hd_vg_130m\hd_vg_130m\00548___3fioM7OJbHM.6_2.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-wBRFI1bqXE-Scene-062.mp4,Pair1\vript\vript\-wBRFI1bqXE-Scene-062.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-SilAqrDTw8-Scene-062.mp4,Pair1\vript\vript\-SilAqrDTw8-Scene-062.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\svd\svd\09691___a group of geisha dolls sitting on a bamboo pole.mp4,Pair2\svd\svd\09691___a group of geisha dolls sitting on a bamboo pole.mp4,1,fake,Pair2,svd,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\t2vz\t2vz\t2vz-7510c4f9-8079-571a-b400-71e6e82a225b.mp4,Pair1\t2vz\t2vz\t2vz-7510c4f9-8079-571a-b400-71e6e82a225b.mp4,1,fake,Pair1,t2vz,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\ms\ms\ms-4b8e1b54-4f2b-59ec-ad4e-f60c6d6639ce.mp4,Pair1\ms\ms\ms-4b8e1b54-4f2b-59ec-ad4e-f60c6d6639ce.mp4,1,fake,Pair1,ms,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\11424___EZr_THYPtXU.1_1.mp4,Pair2\hd_vg_130m\hd_vg_130m\11424___EZr_THYPtXU.1_1.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-c88ZCPF10M-Scene-232.mp4,Pair1\vript\vript\-c88ZCPF10M-Scene-232.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\t2vz\t2vz\t2vz-ba73da46-9e5c-5739-abef-c90fe2406aea.mp4,Pair1\t2vz\t2vz\t2vz-ba73da46-9e5c-5739-abef-c90fe2406aea.mp4,1,fake,Pair1,t2vz,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\pika\pika\pika-2de502f9-15f8-5091-b937-972cf561c94a.mp4,Pair1\pika\pika\pika-2de502f9-15f8-5091-b937-972cf561c94a.mp4,1,fake,Pair1,pika,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vc2\vc2\vc-ed3a73af-7a1d-529c-9cd3-a6d5a43e06d1.mp4,Pair1\vc2\vc2\vc-ed3a73af-7a1d-529c-9cd3-a6d5a43e06d1.mp4,1,fake,Pair1,vc2,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\ms\ms\ms-3726faf1-874e-5a95-8b2f-87b7e04766a7.mp4,Pair1\ms\ms\ms-3726faf1-874e-5a95-8b2f-87b7e04766a7.mp4,1,fake,Pair1,ms,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-TPF9fnqZXk-Scene-037.mp4,Pair1\vript\vript\-TPF9fnqZXk-Scene-037.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vc2\vc2\vc-807ec19f-d33e-5059-8aa2-877ca8f7c20f.mp4,Pair1\vc2\vc2\vc-807ec19f-d33e-5059-8aa2-877ca8f7c20f.mp4,1,fake,Pair1,vc2,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\musev\musev\01415___a news anchor is standing in front of a set of stairs.mp4,Pair2\musev\musev\01415___a news anchor is standing in front of a set of stairs.mp4,1,fake,Pair2,musev,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-8DcaBhYbHI-Scene-077.mp4,Pair1\vript\vript\-8DcaBhYbHI-Scene-077.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\cogvideo\cogvideo\13433___a refrigerator filled with eggs and milk.mp4,Pair2\cogvideo\cogvideo\13433___a refrigerator filled with eggs and milk.mp4,1,fake,Pair2,cogvideo,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-9IXrnrORYU-Scene-039.mp4,Pair1\vript\vript\-9IXrnrORYU-Scene-039.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\03205___-oOTYyny5VI.21_1.mp4,Pair2\hd_vg_130m\hd_vg_130m\03205___-oOTYyny5VI.21_1.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-1RsCsSKt7A-Scene-067.mp4,Pair1\vript\vript\-1RsCsSKt7A-Scene-067.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\pika\pika\pika-7510c4f9-8079-571a-b400-71e6e82a225b.mp4,Pair1\pika\pika\pika-7510c4f9-8079-571a-b400-71e6e82a225b.mp4,1,fake,Pair1,pika,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\11426___Hc6FBa0EWp8.4_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\11426___Hc6FBa0EWp8.4_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\08801___5afrtpsmz5M.16_1.mp4,Pair2\hd_vg_130m\hd_vg_130m\08801___5afrtpsmz5M.16_1.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vc2\vc2\vc-b186afc4-3c50-566e-8091-11c41ac75c2b.mp4,Pair1\vc2\vc2\vc-b186afc4-3c50-566e-8091-11c41ac75c2b.mp4,1,fake,Pair1,vc2,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\13739___DfCaemLAfVE.18_1.mp4,Pair2\hd_vg_130m\hd_vg_130m\13739___DfCaemLAfVE.18_1.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-C1-SRVKuBg-Scene-005.mp4,Pair1\vript\vript\-C1-SRVKuBg-Scene-005.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\ms\ms\ms-ff2b6437-8e05-5974-948a-46e35895dc41.mp4,Pair1\ms\ms\ms-ff2b6437-8e05-5974-948a-46e35895dc41.mp4,1,fake,Pair1,ms,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\svd\svd\07648___a fire pit that is on the ground.mp4,Pair2\svd\svd\07648___a fire pit that is on the ground.mp4,1,fake,Pair2,svd,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-tD02vztV6g-Scene-061.mp4,Pair1\vript\vript\-tD02vztV6g-Scene-061.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-T8OEzoW-Aw-Scene-128.mp4,Pair1\vript\vript\-T8OEzoW-Aw-Scene-128.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\cogvideo\cogvideo\12970___a close up of a bunch of craft supplies.mp4,Pair2\cogvideo\cogvideo\12970___a close up of a bunch of craft supplies.mp4,1,fake,Pair2,cogvideo,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\svd\svd\07170___a news anchor is standing in front of a plane.mp4,Pair2\svd\svd\07170___a news anchor is standing in front of a plane.mp4,1,fake,Pair2,svd,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\07235___A6wZq_PeD4Y.11_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\07235___A6wZq_PeD4Y.11_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\ms\ms\ms-d878522c-5d22-5769-a99d-8a03bdecf654.mp4,Pair1\ms\ms\ms-d878522c-5d22-5769-a99d-8a03bdecf654.mp4,1,fake,Pair1,ms,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\08731___6owe8huyFS0.0_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\08731___6owe8huyFS0.0_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\cogvideo\cogvideo\03015___a box of a toy ice cream maker for kids.mp4,Pair2\cogvideo\cogvideo\03015___a box of a toy ice cream maker for kids.mp4,1,fake,Pair2,cogvideo,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\03835___0UsIv4bnX5M.6_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\03835___0UsIv4bnX5M.6_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\mora\mora\11555___a girl sitting on the ground looking at her cell phone.mp4,Pair2\mora\mora\11555___a girl sitting on the ground looking at her cell phone.mp4,1,fake,Pair2,mora,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-Hpg214Kk_U-Scene-012.mp4,Pair1\vript\vript\-Hpg214Kk_U-Scene-012.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\svd\svd\07924___a large group of fish swimming in a blue ocean.mp4,Pair2\svd\svd\07924___a large group of fish swimming in a blue ocean.mp4,1,fake,Pair2,svd,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-8vE8JrxABo-Scene-035.mp4,Pair1\vript\vript\-8vE8JrxABo-Scene-035.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\06502___8_PcURNK_ss.19_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\06502___8_PcURNK_ss.19_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\03114___1Oupzn1YvAE.14_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\03114___1Oupzn1YvAE.14_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\musev\musev\08151___a picture of a tall building with a blue sky in the background.mp4,Pair2\musev\musev\08151___a picture of a tall building with a blue sky in the background.mp4,1,fake,Pair2,musev,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-P2rqYVqLhM-Scene-037.mp4,Pair1\vript\vript\-P2rqYVqLhM-Scene-037.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\10898___EVfpBLsXM9g.4_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\10898___EVfpBLsXM9g.4_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-NRpuiOcclo-Scene-035.mp4,Pair1\vript\vript\-NRpuiOcclo-Scene-035.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\04974___AZD64PPFkn0.25_1.mp4,Pair2\hd_vg_130m\hd_vg_130m\04974___AZD64PPFkn0.25_1.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\04pOrJ3GnOM-Scene-022.mp4,Pair1\vript\vript\04pOrJ3GnOM-Scene-022.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\03457___4NGA1cLWqzQ.10_4.mp4,Pair2\hd_vg_130m\hd_vg_130m\03457___4NGA1cLWqzQ.10_4.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vc2\vc2\vc-426d9667-3ab8-5792-9634-aa99a5c2be26.mp4,Pair1\vc2\vc2\vc-426d9667-3ab8-5792-9634-aa99a5c2be26.mp4,1,fake,Pair1,vc2,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\cogvideo\cogvideo\00469___a cartoon character standing next to a dog.mp4,Pair2\cogvideo\cogvideo\00469___a cartoon character standing next to a dog.mp4,1,fake,Pair2,cogvideo,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\svd\svd\08954___a news story about a church in north austin.mp4,Pair2\svd\svd\08954___a news story about a church in north austin.mp4,1,fake,Pair2,svd,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\mora\mora\02320___a speedometer with the word scotty written on it.mp4,Pair2\mora\mora\02320___a speedometer with the word scotty written on it.mp4,1,fake,Pair2,mora,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\07076___6HJCB2sU69w.17_3.mp4,Pair2\hd_vg_130m\hd_vg_130m\07076___6HJCB2sU69w.17_3.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\08531___Bf-DNUSv2NM.5_1.mp4,Pair2\hd_vg_130m\hd_vg_130m\08531___Bf-DNUSv2NM.5_1.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-Tznlx878UU-Scene-288.mp4,Pair1\vript\vript\-Tznlx878UU-Scene-288.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\musev\musev\07001___a close up of a white umbrella.mp4,Pair2\musev\musev\07001___a close up of a white umbrella.mp4,1,fake,Pair2,musev,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\00065___2PCwnCC5Sw0.1_3.mp4,Pair2\hd_vg_130m\hd_vg_130m\00065___2PCwnCC5Sw0.1_3.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\svd\svd\03042___a couple of speed boats in the ocean.mp4,Pair2\svd\svd\03042___a couple of speed boats in the ocean.mp4,1,fake,Pair2,svd,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\t2vz\t2vz\t2vz-a48b75cf-0aba-57f5-99ec-7a8ca28edaee.mp4,Pair1\t2vz\t2vz\t2vz-a48b75cf-0aba-57f5-99ec-7a8ca28edaee.mp4,1,fake,Pair1,t2vz,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-gwzJWXvJuo-Scene-010.mp4,Pair1\vript\vript\-gwzJWXvJuo-Scene-010.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-9LBAHo_5Zc-Scene-020.mp4,Pair1\vript\vript\-9LBAHo_5Zc-Scene-020.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\07171___7h31FF5lbWw.1_1.mp4,Pair2\hd_vg_130m\hd_vg_130m\07171___7h31FF5lbWw.1_1.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-BDQmaMlb2g-Scene-014.mp4,Pair1\vript\vript\-BDQmaMlb2g-Scene-014.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\00184___2-UK61Str2w.14_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\00184___2-UK61Str2w.14_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vc2\vc2\vc-25580f7b-c375-508d-9bb3-0cb7e318744a.mp4,Pair1\vc2\vc2\vc-25580f7b-c375-508d-9bb3-0cb7e318744a.mp4,1,fake,Pair1,vc2,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\svd\svd\07585___a doll sitting on a chair in a room.mp4,Pair2\svd\svd\07585___a doll sitting on a chair in a room.mp4,1,fake,Pair2,svd,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\musev\musev\07648___a fire pit that is on the ground.mp4,Pair2\musev\musev\07648___a fire pit that is on the ground.mp4,1,fake,Pair2,musev,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-bvYuskY0ZQ-Scene-014.mp4,Pair1\vript\vript\-bvYuskY0ZQ-Scene-014.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-1o0lgzDaig-Scene-046.mp4,Pair1\vript\vript\-1o0lgzDaig-Scene-046.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\ms\ms\ms-70770d2b-1dab-5c0e-935c-12fc3779bf06.mp4,Pair1\ms\ms\ms-70770d2b-1dab-5c0e-935c-12fc3779bf06.mp4,1,fake,Pair1,ms,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\007EvOaWFOA-Scene-005.mp4,Pair1\vript\vript\007EvOaWFOA-Scene-005.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-3UrpyzrrB8-Scene-019.mp4,Pair1\vript\vript\-3UrpyzrrB8-Scene-019.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vc2\vc2\vc-a8e00099-b278-55d0-bfff-0011efad5914.mp4,Pair1\vc2\vc2\vc-a8e00099-b278-55d0-bfff-0011efad5914.mp4,1,fake,Pair1,vc2,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\13026___CYYAIeG_DiY.0_1.mp4,Pair2\hd_vg_130m\hd_vg_130m\13026___CYYAIeG_DiY.0_1.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\11079___FU0gjrzvGbs.7_2.mp4,Pair2\hd_vg_130m\hd_vg_130m\11079___FU0gjrzvGbs.7_2.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\pika\pika\pika-c9b2959a-0cce-5df3-90e3-e0a70895dd77.mp4,Pair1\pika\pika\pika-c9b2959a-0cce-5df3-90e3-e0a70895dd77.mp4,1,fake,Pair1,pika,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\10869___EOIkR5KZnWc.14_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\10869___EOIkR5KZnWc.14_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\073BMGVWan0-Scene-061.mp4,Pair1\vript\vript\073BMGVWan0-Scene-061.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\t2vz\t2vz\t2vz-20ae02c0-bf3c-51f6-8382-5e54799ede52.mp4,Pair1\t2vz\t2vz\t2vz-20ae02c0-bf3c-51f6-8382-5e54799ede52.mp4,1,fake,Pair1,t2vz,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\11161___ExP65Wf15AY.5_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\11161___ExP65Wf15AY.5_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-c88ZCPF10M-Scene-023.mp4,Pair1\vript\vript\-c88ZCPF10M-Scene-023.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-Tznlx878UU-Scene-388.mp4,Pair1\vript\vript\-Tznlx878UU-Scene-388.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\mora\mora\12332___an empty aquarium with three lights on it.mp4,Pair2\mora\mora\12332___an empty aquarium with three lights on it.mp4,1,fake,Pair2,mora,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\047cdginMOo-Scene-010.mp4,Pair1\vript\vript\047cdginMOo-Scene-010.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\03162___1ADYm5M9bUA.4_4.mp4,Pair2\hd_vg_130m\hd_vg_130m\03162___1ADYm5M9bUA.4_4.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\pika\pika\pika-e35c583d-5dfe-5ba8-a937-5a1b5548a63f.mp4,Pair1\pika\pika\pika-e35c583d-5dfe-5ba8-a937-5a1b5548a63f.mp4,1,fake,Pair1,pika,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\pika\pika\pika-08d9a859-f62c-59bc-9fe7-89464deaa706.mp4,Pair1\pika\pika\pika-08d9a859-f62c-59bc-9fe7-89464deaa706.mp4,1,fake,Pair1,pika,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\pika\pika\pika-21a72913-48de-5e80-85bf-da10c639ab49.mp4,Pair1\pika\pika\pika-21a72913-48de-5e80-85bf-da10c639ab49.mp4,1,fake,Pair1,pika,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-gPTO0COLL4-Scene-030.mp4,Pair1\vript\vript\-gPTO0COLL4-Scene-030.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\cogvideo\cogvideo\11771___a close up of the front wheel of a silver car.mp4,Pair2\cogvideo\cogvideo\11771___a close up of the front wheel of a silver car.mp4,1,fake,Pair2,cogvideo,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\mora\mora\13288___a small animal inside of a glass enclosure.mp4,Pair2\mora\mora\13288___a small animal inside of a glass enclosure.mp4,1,fake,Pair2,mora,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\04197___4M9BITr1zhg.0_1.mp4,Pair2\hd_vg_130m\hd_vg_130m\04197___4M9BITr1zhg.0_1.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\00646___3UkkuZ_tl-M.1_3.mp4,Pair2\hd_vg_130m\hd_vg_130m\00646___3UkkuZ_tl-M.1_3.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\08927___9TeGPKAhJNc.3_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\08927___9TeGPKAhJNc.3_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\svd\svd\08003___an airplane flying through a clear blue sky.mp4,Pair2\svd\svd\08003___an airplane flying through a clear blue sky.mp4,1,fake,Pair2,svd,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\ms\ms\ms-2de502f9-15f8-5091-b937-972cf561c94a.mp4,Pair1\ms\ms\ms-2de502f9-15f8-5091-b937-972cf561c94a.mp4,1,fake,Pair1,ms,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\pika\pika\pika-15d13bf9-a053-5dfe-a244-32086ec1c77b.mp4,Pair1\pika\pika\pika-15d13bf9-a053-5dfe-a244-32086ec1c77b.mp4,1,fake,Pair1,pika,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\svd\svd\13629___a sign on top of a pile of wood.mp4,Pair2\svd\svd\13629___a sign on top of a pile of wood.mp4,1,fake,Pair2,svd,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\13793___ClZUa-Eo4CI.0_6.mp4,Pair2\hd_vg_130m\hd_vg_130m\13793___ClZUa-Eo4CI.0_6.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-H22U5yUnqM-Scene-046.mp4,Pair1\vript\vript\-H22U5yUnqM-Scene-046.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\mora\mora\11137___a clock with the words amazon's uniform design for echo echo echo echo echo echo echo echo echo echo echo echo echo echo echo echo echo echo echo.mp4,Pair2\mora\mora\11137___a clock with the words amazon's uniform design for echo echo echo echo echo echo echo echo echo echo echo echo echo echo echo echo echo echo echo.mp4,1,fake,Pair2,mora,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\mora\mora\06819___a table topped with ingredients for a cake.mp4,Pair2\mora\mora\06819___a table topped with ingredients for a cake.mp4,1,fake,Pair2,mora,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\musev\musev\01072___a baseball player wearing a chicago cubs uniform.mp4,Pair2\musev\musev\01072___a baseball player wearing a chicago cubs uniform.mp4,1,fake,Pair2,musev,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\06697___8l03LGSaOdQ.1_3.mp4,Pair2\hd_vg_130m\hd_vg_130m\06697___8l03LGSaOdQ.1_3.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\02576___3BMFb2gc6Ac.4_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\02576___3BMFb2gc6Ac.4_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-kCIAWaqThs-Scene-036.mp4,Pair1\vript\vript\-kCIAWaqThs-Scene-036.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-J74zMyUAno-Scene-005.mp4,Pair1\vript\vript\-J74zMyUAno-Scene-005.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\ms\ms\ms-828040e4-9aca-515d-a9bc-3dd881ef1ed7.mp4,Pair1\ms\ms\ms-828040e4-9aca-515d-a9bc-3dd881ef1ed7.mp4,1,fake,Pair1,ms,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vc2\vc2\vc-ed905ae2-ee34-529c-a804-3ce2d5e7e939.mp4,Pair1\vc2\vc2\vc-ed905ae2-ee34-529c-a804-3ce2d5e7e939.mp4,1,fake,Pair1,vc2,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\13187___GqypISP-XEI.13_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\13187___GqypISP-XEI.13_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\06344___B9fvzDMC3oQ.6_5.mp4,Pair2\hd_vg_130m\hd_vg_130m\06344___B9fvzDMC3oQ.6_5.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\mora\mora\02929___a group of football players standing together on a field.mp4,Pair2\mora\mora\02929___a group of football players standing together on a field.mp4,1,fake,Pair2,mora,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\mora\mora\04455___a green plant growing inside of a cage.mp4,Pair2\mora\mora\04455___a green plant growing inside of a cage.mp4,1,fake,Pair2,mora,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\03982___3T_ONJvHlFo.12_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\03982___3T_ONJvHlFo.12_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-9SP-lyKWNQ-Scene-015.mp4,Pair1\vript\vript\-9SP-lyKWNQ-Scene-015.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\pika\pika\pika-10f4cf37-bc88-59ab-a946-4fd0f3368410.mp4,Pair1\pika\pika\pika-10f4cf37-bc88-59ab-a946-4fd0f3368410.mp4,1,fake,Pair1,pika,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\musev\musev\02120___a close up of the inside of a microwave.mp4,Pair2\musev\musev\02120___a close up of the inside of a microwave.mp4,1,fake,Pair2,musev,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\musev\musev\10737___a bedroom with a bed and a lamp next to it.mp4,Pair2\musev\musev\10737___a bedroom with a bed and a lamp next to it.mp4,1,fake,Pair2,musev,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\ms\ms\ms-12576125-3471-5ed6-9be2-055b7a86f8ce.mp4,Pair1\ms\ms\ms-12576125-3471-5ed6-9be2-055b7a86f8ce.mp4,1,fake,Pair1,ms,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vc2\vc2\vc-2de502f9-15f8-5091-b937-972cf561c94a.mp4,Pair1\vc2\vc2\vc-2de502f9-15f8-5091-b937-972cf561c94a.mp4,1,fake,Pair1,vc2,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\cogvideo\cogvideo\03690___a row of bottles of milk sitting on a shelf.mp4,Pair2\cogvideo\cogvideo\03690___a row of bottles of milk sitting on a shelf.mp4,1,fake,Pair2,cogvideo,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vc2\vc2\vc-015b6972-c260-5220-9166-33f0d10c2ce8.mp4,Pair1\vc2\vc2\vc-015b6972-c260-5220-9166-33f0d10c2ce8.mp4,1,fake,Pair1,vc2,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\10149___BzApShlUaPI.1_4.mp4,Pair2\hd_vg_130m\hd_vg_130m\10149___BzApShlUaPI.1_4.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\t2vz\t2vz\t2vz-583bc44d-675d-5eec-bd37-21f879d7269a.mp4,Pair1\t2vz\t2vz\t2vz-583bc44d-675d-5eec-bd37-21f879d7269a.mp4,1,fake,Pair1,t2vz,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\08980___BRNIBbiFFXQ.7_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\08980___BRNIBbiFFXQ.7_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\svd\svd\13407___three bars of soap sitting on a wire rack.mp4,Pair2\svd\svd\13407___three bars of soap sitting on a wire rack.mp4,1,fake,Pair2,svd,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\10236___CpgJyaRq1GA.27_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\10236___CpgJyaRq1GA.27_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\09500___GqXnQ4yAyLI.5_1.mp4,Pair2\hd_vg_130m\hd_vg_130m\09500___GqXnQ4yAyLI.5_1.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\cogvideo\cogvideo\12708___a cat sitting on top of a flat screen tv.mp4,Pair2\cogvideo\cogvideo\12708___a cat sitting on top of a flat screen tv.mp4,1,fake,Pair2,cogvideo,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\08796___9hYq1QuzB7c.21_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\08796___9hYq1QuzB7c.21_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vc2\vc2\vc-583bc44d-675d-5eec-bd37-21f879d7269a.mp4,Pair1\vc2\vc2\vc-583bc44d-675d-5eec-bd37-21f879d7269a.mp4,1,fake,Pair1,vc2,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vc2\vc2\vc-15d13bf9-a053-5dfe-a244-32086ec1c77b.mp4,Pair1\vc2\vc2\vc-15d13bf9-a053-5dfe-a244-32086ec1c77b.mp4,1,fake,Pair1,vc2,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\cogvideo\cogvideo\07835___an iphone sitting on a table in a dark room.mp4,Pair2\cogvideo\cogvideo\07835___an iphone sitting on a table in a dark room.mp4,1,fake,Pair2,cogvideo,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vc2\vc2\vc-f36b292c-0950-50ea-bbf7-dd0a5d5e63fe.mp4,Pair1\vc2\vc2\vc-f36b292c-0950-50ea-bbf7-dd0a5d5e63fe.mp4,1,fake,Pair1,vc2,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-KOiDt2AOBU-Scene-073.mp4,Pair1\vript\vript\-KOiDt2AOBU-Scene-073.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-c88ZCPF10M-Scene-015.mp4,Pair1\vript\vript\-c88ZCPF10M-Scene-015.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\musev\musev\02942___cars driving down a busy street in the city.mp4,Pair2\musev\musev\02942___cars driving down a busy street in the city.mp4,1,fake,Pair2,musev,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\t2vz\t2vz\t2vz-52085ef4-0f41-54af-a053-fa5dc9ede520.mp4,Pair1\t2vz\t2vz\t2vz-52085ef4-0f41-54af-a053-fa5dc9ede520.mp4,1,fake,Pair1,t2vz,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\11034___DGt6AUCBG0k.3_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\11034___DGt6AUCBG0k.3_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\03035___1zrpaSDJHgo.12_2.mp4,Pair2\hd_vg_130m\hd_vg_130m\03035___1zrpaSDJHgo.12_2.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vc2\vc2\vc-7aec879d-90c5-52e5-b196-bb3657575b82.mp4,Pair1\vc2\vc2\vc-7aec879d-90c5-52e5-b196-bb3657575b82.mp4,1,fake,Pair1,vc2,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\--tLYgJgFS4-Scene-004.mp4,Pair1\vript\vript\--tLYgJgFS4-Scene-004.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vc2\vc2\vc-ac7cdff6-76a4-5c2a-ba41-3033afcea9b6.mp4,Pair1\vc2\vc2\vc-ac7cdff6-76a4-5c2a-ba41-3033afcea9b6.mp4,1,fake,Pair1,vc2,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-A8LKuncijo-Scene-086.mp4,Pair1\vript\vript\-A8LKuncijo-Scene-086.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\01269___44pzE00hdPA.2_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\01269___44pzE00hdPA.2_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\01025___2UVDYQfMC-E.1_1.mp4,Pair2\hd_vg_130m\hd_vg_130m\01025___2UVDYQfMC-E.1_1.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vc2\vc2\vc-a91ce67d-d3cc-5c0b-a386-21036e392c74.mp4,Pair1\vc2\vc2\vc-a91ce67d-d3cc-5c0b-a386-21036e392c74.mp4,1,fake,Pair1,vc2,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-BDQmaMlb2g-Scene-090.mp4,Pair1\vript\vript\-BDQmaMlb2g-Scene-090.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-48qmeLbPcw-Scene-070.mp4,Pair1\vript\vript\-48qmeLbPcw-Scene-070.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vc2\vc2\vc-1d8e9939-76eb-5dc8-aab3-a78612eceb41.mp4,Pair1\vc2\vc2\vc-1d8e9939-76eb-5dc8-aab3-a78612eceb41.mp4,1,fake,Pair1,vc2,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\svd\svd\02837___a close up of a nigerian id card.mp4,Pair2\svd\svd\02837___a close up of a nigerian id card.mp4,1,fake,Pair2,svd,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\musev\musev\05175___an amazon may enter home fitness biz.mp4,Pair2\musev\musev\05175___an amazon may enter home fitness biz.mp4,1,fake,Pair2,musev,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\svd\svd\04325___a pink burner on top of a stove.mp4,Pair2\svd\svd\04325___a pink burner on top of a stove.mp4,1,fake,Pair2,svd,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\10459___Bs0bXbOv6L8.0_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\10459___Bs0bXbOv6L8.0_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\svd\svd\07576___a red tractor in the middle of a lush green field.mp4,Pair2\svd\svd\07576___a red tractor in the middle of a lush green field.mp4,1,fake,Pair2,svd,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\svd\svd\07899___a baby and a doll sitting on the floor.mp4,Pair2\svd\svd\07899___a baby and a doll sitting on the floor.mp4,1,fake,Pair2,svd,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\cogvideo\cogvideo\01612___a weather screen showing the 7 day forecast.mp4,Pair2\cogvideo\cogvideo\01612___a weather screen showing the 7 day forecast.mp4,1,fake,Pair2,cogvideo,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vc2\vc2\vc-828040e4-9aca-515d-a9bc-3dd881ef1ed7.mp4,Pair1\vc2\vc2\vc-828040e4-9aca-515d-a9bc-3dd881ef1ed7.mp4,1,fake,Pair1,vc2,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\svd\svd\06882___a group of basketball players posing for a picture.mp4,Pair2\svd\svd\06882___a group of basketball players posing for a picture.mp4,1,fake,Pair2,svd,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\mora\mora\07591___a picture of an egg on a blue background.mp4,Pair2\mora\mora\07591___a picture of an egg on a blue background.mp4,1,fake,Pair2,mora,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vc2\vc2\vc-10ccb150-0997-5ceb-82f6-6705b4fd31aa.mp4,Pair1\vc2\vc2\vc-10ccb150-0997-5ceb-82f6-6705b4fd31aa.mp4,1,fake,Pair1,vc2,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\02937___2QgIQZprmiM.21_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\02937___2QgIQZprmiM.21_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\t2vz\t2vz\t2vz-e1653180-f281-52be-b6ff-1fd19ded0d5b.mp4,Pair1\t2vz\t2vz\t2vz-e1653180-f281-52be-b6ff-1fd19ded0d5b.mp4,1,fake,Pair1,t2vz,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\01199___55nMpX7dCac.13_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\01199___55nMpX7dCac.13_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\pika\pika\pika-70770d2b-1dab-5c0e-935c-12fc3779bf06.mp4,Pair1\pika\pika\pika-70770d2b-1dab-5c0e-935c-12fc3779bf06.mp4,1,fake,Pair1,pika,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vc2\vc2\vc-59c0e702-22bd-5c63-9579-6ed5a4344d4c.mp4,Pair1\vc2\vc2\vc-59c0e702-22bd-5c63-9579-6ed5a4344d4c.mp4,1,fake,Pair1,vc2,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\pika\pika\pika-7b1711ba-3c30-539f-8ba7-5dff10e848c6.mp4,Pair1\pika\pika\pika-7b1711ba-3c30-539f-8ba7-5dff10e848c6.mp4,1,fake,Pair1,pika,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\01534___0uf1cWmJ5ig.15_1.mp4,Pair2\hd_vg_130m\hd_vg_130m\01534___0uf1cWmJ5ig.15_1.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\00009___1xYC9nHL3q0.100_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\00009___1xYC9nHL3q0.100_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\ms\ms\ms-b3731741-7cdc-5075-869b-e5557825a304.mp4,Pair1\ms\ms\ms-b3731741-7cdc-5075-869b-e5557825a304.mp4,1,fake,Pair1,ms,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\03574___4Bm0Xy6lFGc.17_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\03574___4Bm0Xy6lFGc.17_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\1LerlDIC2bY-Scene-025.mp4,Pair1\vript\vript\1LerlDIC2bY-Scene-025.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-NeUQWAPnMk-Scene-019.mp4,Pair1\vript\vript\-NeUQWAPnMk-Scene-019.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\musev\musev\05351___a video game character standing in front of a screen.mp4,Pair2\musev\musev\05351___a video game character standing in front of a screen.mp4,1,fake,Pair2,musev,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\mora\mora\08787___a yellow school bus driving down a street.mp4,Pair2\mora\mora\08787___a yellow school bus driving down a street.mp4,1,fake,Pair2,mora,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\pika\pika\pika-a8e00099-b278-55d0-bfff-0011efad5914.mp4,Pair1\pika\pika\pika-a8e00099-b278-55d0-bfff-0011efad5914.mp4,1,fake,Pair1,pika,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\ms\ms\ms-015b6972-c260-5220-9166-33f0d10c2ce8.mp4,Pair1\ms\ms\ms-015b6972-c260-5220-9166-33f0d10c2ce8.mp4,1,fake,Pair1,ms,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\10170___EaZI2NWAu5w.3_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\10170___EaZI2NWAu5w.3_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\05994___Af2N3HYHXcQ.28_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\05994___Af2N3HYHXcQ.28_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\01306___-k_O6wvEzZU.11_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\01306___-k_O6wvEzZU.11_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-HsVkwyi-mk-Scene-033.mp4,Pair1\vript\vript\-HsVkwyi-mk-Scene-033.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vc2\vc2\vc-10f4cf37-bc88-59ab-a946-4fd0f3368410.mp4,Pair1\vc2\vc2\vc-10f4cf37-bc88-59ab-a946-4fd0f3368410.mp4,1,fake,Pair1,vc2,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\03431___4dQO4u3O2Fs.3_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\03431___4dQO4u3O2Fs.3_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\ms\ms\ms-e1653180-f281-52be-b6ff-1fd19ded0d5b.mp4,Pair1\ms\ms\ms-e1653180-f281-52be-b6ff-1fd19ded0d5b.mp4,1,fake,Pair1,ms,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\svd\svd\02942___cars driving down a busy street in the city.mp4,Pair2\svd\svd\02942___cars driving down a busy street in the city.mp4,1,fake,Pair2,svd,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\pika\pika\pika-38cf1d7c-c109-5d4c-aad6-d7638135a2b6.mp4,Pair1\pika\pika\pika-38cf1d7c-c109-5d4c-aad6-d7638135a2b6.mp4,1,fake,Pair1,pika,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\11504___CwjH9MX5i5s.5_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\11504___CwjH9MX5i5s.5_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\pika\pika\pika-59c0e702-22bd-5c63-9579-6ed5a4344d4c.mp4,Pair1\pika\pika\pika-59c0e702-22bd-5c63-9579-6ed5a4344d4c.mp4,1,fake,Pair1,pika,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\08664___BB8-eufSEj8.14_2.mp4,Pair2\hd_vg_130m\hd_vg_130m\08664___BB8-eufSEj8.14_2.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\04dXPkQov_k-Scene-088.mp4,Pair1\vript\vript\04dXPkQov_k-Scene-088.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\ms\ms\ms-8eeeefe2-5303-5ec2-895d-394d73ded281.mp4,Pair1\ms\ms\ms-8eeeefe2-5303-5ec2-895d-394d73ded281.mp4,1,fake,Pair1,ms,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-jx2w2S0LMc-Scene-073.mp4,Pair1\vript\vript\-jx2w2S0LMc-Scene-073.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-FMRUGGgHyI-Scene-003.mp4,Pair1\vript\vript\-FMRUGGgHyI-Scene-003.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\musev\musev\11975___a bunk bed in a room with wooden walls.mp4,Pair2\musev\musev\11975___a bunk bed in a room with wooden walls.mp4,1,fake,Pair2,musev,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\mora\mora\07277___a close up of the exhaust pipe on a red car.mp4,Pair2\mora\mora\07277___a close up of the exhaust pipe on a red car.mp4,1,fake,Pair2,mora,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\mora\mora\11925___a green background with a clock on it.mp4,Pair2\mora\mora\11925___a green background with a clock on it.mp4,1,fake,Pair2,mora,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\musev\musev\13425___a news screen with a picture of a child abuse scandal.mp4,Pair2\musev\musev\13425___a news screen with a picture of a child abuse scandal.mp4,1,fake,Pair2,musev,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\t2vz\t2vz\t2vz-bd8392d9-8352-5800-b3bf-60139ab3acbb.mp4,Pair1\t2vz\t2vz\t2vz-bd8392d9-8352-5800-b3bf-60139ab3acbb.mp4,1,fake,Pair1,t2vz,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-C09dP2d2mo-Scene-004.mp4,Pair1\vript\vript\-C09dP2d2mo-Scene-004.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\mora\mora\06831___a weather map with snow on it.mp4,Pair2\mora\mora\06831___a weather map with snow on it.mp4,1,fake,Pair2,mora,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-EZSbbCQie0-Scene-001.mp4,Pair1\vript\vript\-EZSbbCQie0-Scene-001.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-7ZsH3f29GM-Scene-006.mp4,Pair1\vript\vript\-7ZsH3f29GM-Scene-006.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\08653___8iRz9sXynjQ.20_1.mp4,Pair2\hd_vg_130m\hd_vg_130m\08653___8iRz9sXynjQ.20_1.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\pika\pika\pika-a48b75cf-0aba-57f5-99ec-7a8ca28edaee.mp4,Pair1\pika\pika\pika-a48b75cf-0aba-57f5-99ec-7a8ca28edaee.mp4,1,fake,Pair1,pika,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\ms\ms\ms-f36b292c-0950-50ea-bbf7-dd0a5d5e63fe.mp4,Pair1\ms\ms\ms-f36b292c-0950-50ea-bbf7-dd0a5d5e63fe.mp4,1,fake,Pair1,ms,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\t2vz\t2vz\t2vz-ac7cdff6-76a4-5c2a-ba41-3033afcea9b6.mp4,Pair1\t2vz\t2vz\t2vz-ac7cdff6-76a4-5c2a-ba41-3033afcea9b6.mp4,1,fake,Pair1,t2vz,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\cogvideo\cogvideo\05467___a map showing the locations of north korea and south korea.mp4,Pair2\cogvideo\cogvideo\05467___a map showing the locations of north korea and south korea.mp4,1,fake,Pair2,cogvideo,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\t2vz\t2vz\t2vz-38cf1d7c-c109-5d4c-aad6-d7638135a2b6.mp4,Pair1\t2vz\t2vz\t2vz-38cf1d7c-c109-5d4c-aad6-d7638135a2b6.mp4,1,fake,Pair1,t2vz,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-Xl33P57QOs-Scene-088.mp4,Pair1\vript\vript\-Xl33P57QOs-Scene-088.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\03639___0MH8xf0k-rk.21_1.mp4,Pair2\hd_vg_130m\hd_vg_130m\03639___0MH8xf0k-rk.21_1.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\03556___0TSV6cnBYjs.2_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\03556___0TSV6cnBYjs.2_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\musev\musev\07095___a blurry picture of some text on a screen.mp4,Pair2\musev\musev\07095___a blurry picture of some text on a screen.mp4,1,fake,Pair2,musev,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\t2vz\t2vz\t2vz-59c0e702-22bd-5c63-9579-6ed5a4344d4c.mp4,Pair1\t2vz\t2vz\t2vz-59c0e702-22bd-5c63-9579-6ed5a4344d4c.mp4,1,fake,Pair1,t2vz,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\musev\musev\07899___a baby and a doll sitting on the floor.mp4,Pair2\musev\musev\07899___a baby and a doll sitting on the floor.mp4,1,fake,Pair2,musev,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\ms\ms\ms-583bc44d-675d-5eec-bd37-21f879d7269a.mp4,Pair1\ms\ms\ms-583bc44d-675d-5eec-bd37-21f879d7269a.mp4,1,fake,Pair1,ms,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\--XjtHv9tM4-Scene-057.mp4,Pair1\vript\vript\--XjtHv9tM4-Scene-057.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-13Asaa-7KE-Scene-041.mp4,Pair1\vript\vript\-13Asaa-7KE-Scene-041.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-3CXhx0Mj-Y-Scene-037.mp4,Pair1\vript\vript\-3CXhx0Mj-Y-Scene-037.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\05133___A9IwuLfLKjM.0_4.mp4,Pair2\hd_vg_130m\hd_vg_130m\05133___A9IwuLfLKjM.0_4.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\02330___1vARdf0tK1A.0_2.mp4,Pair2\hd_vg_130m\hd_vg_130m\02330___1vARdf0tK1A.0_2.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\svd\svd\02476___a park that is flooded with water.mp4,Pair2\svd\svd\02476___a park that is flooded with water.mp4,1,fake,Pair2,svd,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\mora\mora\00901___two cars are parked in front of a house.mp4,Pair2\mora\mora\00901___two cars are parked in front of a house.mp4,1,fake,Pair2,mora,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\07002___9sCbm63-nqE.6_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\07002___9sCbm63-nqE.6_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vc2\vc2\vc-6dad3ece-d203-551b-b5f0-9b8a4fa19024.mp4,Pair1\vc2\vc2\vc-6dad3ece-d203-551b-b5f0-9b8a4fa19024.mp4,1,fake,Pair1,vc2,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\07294___8mxvVvgfxtA.6_1.mp4,Pair2\hd_vg_130m\hd_vg_130m\07294___8mxvVvgfxtA.6_1.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\mora\mora\10686___the front door of a house with a sign on it.mp4,Pair2\mora\mora\10686___the front door of a house with a sign on it.mp4,1,fake,Pair2,mora,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-XmegTG3YdY-Scene-047.mp4,Pair1\vript\vript\-XmegTG3YdY-Scene-047.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-bzVYVwBjs0-Scene-042.mp4,Pair1\vript\vript\-bzVYVwBjs0-Scene-042.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-6FvAU9H98w-Scene-034.mp4,Pair1\vript\vript\-6FvAU9H98w-Scene-034.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\09922___DbVYUMstNhk.1_3.mp4,Pair2\hd_vg_130m\hd_vg_130m\09922___DbVYUMstNhk.1_3.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\05639___AdIGR5_R0hY.2_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\05639___AdIGR5_R0hY.2_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\12152___DiEPboB_7OQ.12_1.mp4,Pair2\hd_vg_130m\hd_vg_130m\12152___DiEPboB_7OQ.12_1.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-A8LKuncijo-Scene-121.mp4,Pair1\vript\vript\-A8LKuncijo-Scene-121.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\06884___9h7DSJVeSG8.15_2.mp4,Pair2\hd_vg_130m\hd_vg_130m\06884___9h7DSJVeSG8.15_2.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-y_mlO5P-d4-Scene-002.mp4,Pair1\vript\vript\-y_mlO5P-d4-Scene-002.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\t2vz\t2vz\t2vz-21a72913-48de-5e80-85bf-da10c639ab49.mp4,Pair1\t2vz\t2vz\t2vz-21a72913-48de-5e80-85bf-da10c639ab49.mp4,1,fake,Pair1,t2vz,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\pika\pika\pika-ac7cdff6-76a4-5c2a-ba41-3033afcea9b6.mp4,Pair1\pika\pika\pika-ac7cdff6-76a4-5c2a-ba41-3033afcea9b6.mp4,1,fake,Pair1,pika,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\t2vz\t2vz\t2vz-10ccb150-0997-5ceb-82f6-6705b4fd31aa.mp4,Pair1\t2vz\t2vz\t2vz-10ccb150-0997-5ceb-82f6-6705b4fd31aa.mp4,1,fake,Pair1,t2vz,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\svd\svd\00321___a piece of paper sitting on top of a wooden table.mp4,Pair2\svd\svd\00321___a piece of paper sitting on top of a wooden table.mp4,1,fake,Pair2,svd,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\t2vz\t2vz\t2vz-af7aa6cd-c500-5cc9-bb3a-27e557edeb6c.mp4,Pair1\t2vz\t2vz\t2vz-af7aa6cd-c500-5cc9-bb3a-27e557edeb6c.mp4,1,fake,Pair1,t2vz,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\11279___CmsOOA4JuVg.12_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\11279___CmsOOA4JuVg.12_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\ms\ms\ms-af7aa6cd-c500-5cc9-bb3a-27e557edeb6c.mp4,Pair1\ms\ms\ms-af7aa6cd-c500-5cc9-bb3a-27e557edeb6c.mp4,1,fake,Pair1,ms,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-aid2jMEbXw-Scene-013.mp4,Pair1\vript\vript\-aid2jMEbXw-Scene-013.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\pika\pika\pika-e1653180-f281-52be-b6ff-1fd19ded0d5b.mp4,Pair1\pika\pika\pika-e1653180-f281-52be-b6ff-1fd19ded0d5b.mp4,1,fake,Pair1,pika,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\pika\pika\pika-807ec19f-d33e-5059-8aa2-877ca8f7c20f.mp4,Pair1\pika\pika\pika-807ec19f-d33e-5059-8aa2-877ca8f7c20f.mp4,1,fake,Pair1,pika,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\musev\musev\13818___a black leather case laying on a bed.mp4,Pair2\musev\musev\13818___a black leather case laying on a bed.mp4,1,fake,Pair2,musev,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\t2vz\t2vz\t2vz-a6aa3db8-6774-54ed-abf8-89bb1a29dc4d.mp4,Pair1\t2vz\t2vz\t2vz-a6aa3db8-6774-54ed-abf8-89bb1a29dc4d.mp4,1,fake,Pair1,t2vz,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\00406___-9az5_MIS9s.1_2.mp4,Pair2\hd_vg_130m\hd_vg_130m\00406___-9az5_MIS9s.1_2.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\ms\ms\ms-bd8392d9-8352-5800-b3bf-60139ab3acbb.mp4,Pair1\ms\ms\ms-bd8392d9-8352-5800-b3bf-60139ab3acbb.mp4,1,fake,Pair1,ms,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\t2vz\t2vz\t2vz-d1418574-5192-5596-96da-d1d5a308670a.mp4,Pair1\t2vz\t2vz\t2vz-d1418574-5192-5596-96da-d1d5a308670a.mp4,1,fake,Pair1,t2vz,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\pika\pika\pika-fd1c0be6-3ea0-504d-a8eb-3124d364ce30.mp4,Pair1\pika\pika\pika-fd1c0be6-3ea0-504d-a8eb-3124d364ce30.mp4,1,fake,Pair1,pika,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\pika\pika\pika-4b8e1b54-4f2b-59ec-ad4e-f60c6d6639ce.mp4,Pair1\pika\pika\pika-4b8e1b54-4f2b-59ec-ad4e-f60c6d6639ce.mp4,1,fake,Pair1,pika,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\t2vz\t2vz\t2vz-f2af67e1-56fb-530e-9719-0dc5887becd9.mp4,Pair1\t2vz\t2vz\t2vz-f2af67e1-56fb-530e-9719-0dc5887becd9.mp4,1,fake,Pair1,t2vz,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\mora\mora\13565___a close up of a piece of broccoli.mp4,Pair2\mora\mora\13565___a close up of a piece of broccoli.mp4,1,fake,Pair2,mora,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\svd\svd\08012___a sign for a restaurant that says chef kung.mp4,Pair2\svd\svd\08012___a sign for a restaurant that says chef kung.mp4,1,fake,Pair2,svd,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\pika\pika\pika-ff2c8815-2aff-5fdb-8394-1917fb571f42.mp4,Pair1\pika\pika\pika-ff2c8815-2aff-5fdb-8394-1917fb571f42.mp4,1,fake,Pair1,pika,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-J_y--NmhP8-Scene-028.mp4,Pair1\vript\vript\-J_y--NmhP8-Scene-028.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vc2\vc2\vc-c9b2959a-0cce-5df3-90e3-e0a70895dd77.mp4,Pair1\vc2\vc2\vc-c9b2959a-0cce-5df3-90e3-e0a70895dd77.mp4,1,fake,Pair1,vc2,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\cogvideo\cogvideo\11461___a potted plant with a bottle of liquid next to it.mp4,Pair2\cogvideo\cogvideo\11461___a potted plant with a bottle of liquid next to it.mp4,1,fake,Pair2,cogvideo,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-HVSYKb3UVw-Scene-003.mp4,Pair1\vript\vript\-HVSYKb3UVw-Scene-003.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\svd\svd\04273___a red rectangle with a white background.mp4,Pair2\svd\svd\04273___a red rectangle with a white background.mp4,1,fake,Pair2,svd,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-4ukRF34UFk-Scene-019.mp4,Pair1\vript\vript\-4ukRF34UFk-Scene-019.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-On8a0PsDyY-Scene-001.mp4,Pair1\vript\vript\-On8a0PsDyY-Scene-001.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\11184___Gm2DfEeGoZ4.17_3.mp4,Pair2\hd_vg_130m\hd_vg_130m\11184___Gm2DfEeGoZ4.17_3.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\musev\musev\05360___a car driving down a street with graffiti on a wall.mp4,Pair2\musev\musev\05360___a car driving down a street with graffiti on a wall.mp4,1,fake,Pair2,musev,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\02260___35E2mS0s6Ho.14_2.mp4,Pair2\hd_vg_130m\hd_vg_130m\02260___35E2mS0s6Ho.14_2.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\svd\svd\10255___a close up of a laptop computer screen.mp4,Pair2\svd\svd\10255___a close up of a laptop computer screen.mp4,1,fake,Pair2,svd,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\mora\mora\10934___three newspapers sitting on top of a table.mp4,Pair2\mora\mora\10934___three newspapers sitting on top of a table.mp4,1,fake,Pair2,mora,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\ms\ms\ms-b186afc4-3c50-566e-8091-11c41ac75c2b.mp4,Pair1\ms\ms\ms-b186afc4-3c50-566e-8091-11c41ac75c2b.mp4,1,fake,Pair1,ms,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-bNL86bJrD8-Scene-006.mp4,Pair1\vript\vript\-bNL86bJrD8-Scene-006.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vc2\vc2\vc-f2af67e1-56fb-530e-9719-0dc5887becd9.mp4,Pair1\vc2\vc2\vc-f2af67e1-56fb-530e-9719-0dc5887becd9.mp4,1,fake,Pair1,vc2,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\svd\svd\05668___a tractor driving down a dirt road.mp4,Pair2\svd\svd\05668___a tractor driving down a dirt road.mp4,1,fake,Pair2,svd,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\05640___Bmv5g5CvkHk.1_3.mp4,Pair2\hd_vg_130m\hd_vg_130m\05640___Bmv5g5CvkHk.1_3.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\pika\pika\pika-583bc44d-675d-5eec-bd37-21f879d7269a.mp4,Pair1\pika\pika\pika-583bc44d-675d-5eec-bd37-21f879d7269a.mp4,1,fake,Pair1,pika,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\ms\ms\ms-2c48b7e5-b4e6-5152-83b8-287aa74afb8f.mp4,Pair1\ms\ms\ms-2c48b7e5-b4e6-5152-83b8-287aa74afb8f.mp4,1,fake,Pair1,ms,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-10AyOGp5Zg-Scene-021.mp4,Pair1\vript\vript\-10AyOGp5Zg-Scene-021.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\ms\ms\ms-ed3a73af-7a1d-529c-9cd3-a6d5a43e06d1.mp4,Pair1\ms\ms\ms-ed3a73af-7a1d-529c-9cd3-a6d5a43e06d1.mp4,1,fake,Pair1,ms,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-dPloZL2_zE-Scene-030.mp4,Pair1\vript\vript\-dPloZL2_zE-Scene-030.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\t2vz\t2vz\t2vz-ed3a73af-7a1d-529c-9cd3-a6d5a43e06d1.mp4,Pair1\t2vz\t2vz\t2vz-ed3a73af-7a1d-529c-9cd3-a6d5a43e06d1.mp4,1,fake,Pair1,t2vz,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\musev\musev\07585___a doll sitting on a chair in a room.mp4,Pair2\musev\musev\07585___a doll sitting on a chair in a room.mp4,1,fake,Pair2,musev,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-FioietmGSQ-Scene-019.mp4,Pair1\vript\vript\-FioietmGSQ-Scene-019.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-By0QtiVqcw-Scene-036.mp4,Pair1\vript\vript\-By0QtiVqcw-Scene-036.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\musev\musev\10255___a close up of a laptop computer screen.mp4,Pair2\musev\musev\10255___a close up of a laptop computer screen.mp4,1,fake,Pair2,musev,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\ms\ms\ms-52085ef4-0f41-54af-a053-fa5dc9ede520.mp4,Pair1\ms\ms\ms-52085ef4-0f41-54af-a053-fa5dc9ede520.mp4,1,fake,Pair1,ms,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\ms\ms\ms-7510c4f9-8079-571a-b400-71e6e82a225b.mp4,Pair1\ms\ms\ms-7510c4f9-8079-571a-b400-71e6e82a225b.mp4,1,fake,Pair1,ms,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-jx2w2S0LMc-Scene-087.mp4,Pair1\vript\vript\-jx2w2S0LMc-Scene-087.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-8QN_w1MhmM-Scene-002.mp4,Pair1\vript\vript\-8QN_w1MhmM-Scene-002.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-3-5Y7u2xqI-Scene-025.mp4,Pair1\vript\vript\-3-5Y7u2xqI-Scene-025.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\04261___2ptkVx3IH5c.23_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\04261___2ptkVx3IH5c.23_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vc2\vc2\vc-bd8392d9-8352-5800-b3bf-60139ab3acbb.mp4,Pair1\vc2\vc2\vc-bd8392d9-8352-5800-b3bf-60139ab3acbb.mp4,1,fake,Pair1,vc2,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\svd\svd\02082___a young boy standing on a tiled floor.mp4,Pair2\svd\svd\02082___a young boy standing on a tiled floor.mp4,1,fake,Pair2,svd,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-BDQmaMlb2g-Scene-042.mp4,Pair1\vript\vript\-BDQmaMlb2g-Scene-042.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-AxBXLwxZNU-Scene-050.mp4,Pair1\vript\vript\-AxBXLwxZNU-Scene-050.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\cogvideo\cogvideo\01784___president barack obama giving a speech in front of an american flag.mp4,Pair2\cogvideo\cogvideo\01784___president barack obama giving a speech in front of an american flag.mp4,1,fake,Pair2,cogvideo,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\ms\ms\ms-ac7cdff6-76a4-5c2a-ba41-3033afcea9b6.mp4,Pair1\ms\ms\ms-ac7cdff6-76a4-5c2a-ba41-3033afcea9b6.mp4,1,fake,Pair1,ms,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vc2\vc2\vc-70770d2b-1dab-5c0e-935c-12fc3779bf06.mp4,Pair1\vc2\vc2\vc-70770d2b-1dab-5c0e-935c-12fc3779bf06.mp4,1,fake,Pair1,vc2,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\t2vz\t2vz\t2vz-70d666ee-bd5d-5ade-b0d1-b5b9085d5ca5.mp4,Pair1\t2vz\t2vz\t2vz-70d666ee-bd5d-5ade-b0d1-b5b9085d5ca5.mp4,1,fake,Pair1,t2vz,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\t2vz\t2vz\t2vz-1d8e9939-76eb-5dc8-aab3-a78612eceb41.mp4,Pair1\t2vz\t2vz\t2vz-1d8e9939-76eb-5dc8-aab3-a78612eceb41.mp4,1,fake,Pair1,t2vz,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\mora\mora\13790___a building with a kite flying in the sky.mp4,Pair2\mora\mora\13790___a building with a kite flying in the sky.mp4,1,fake,Pair2,mora,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\svd\svd\08151___a picture of a tall building with a blue sky in the background.mp4,Pair2\svd\svd\08151___a picture of a tall building with a blue sky in the background.mp4,1,fake,Pair2,svd,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\pika\pika\pika-20ae02c0-bf3c-51f6-8382-5e54799ede52.mp4,Pair1\pika\pika\pika-20ae02c0-bf3c-51f6-8382-5e54799ede52.mp4,1,fake,Pair1,pika,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\ms\ms\ms-89ed5c66-7b9e-5447-ae61-2e8f9ce6a9a9.mp4,Pair1\ms\ms\ms-89ed5c66-7b9e-5447-ae61-2e8f9ce6a9a9.mp4,1,fake,Pair1,ms,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\svd\svd\03751___a sign with a picture of a plant in a greenhouse.mp4,Pair2\svd\svd\03751___a sign with a picture of a plant in a greenhouse.mp4,1,fake,Pair2,svd,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\cogvideo\cogvideo\13790___a building with a kite flying in the sky.mp4,Pair2\cogvideo\cogvideo\13790___a building with a kite flying in the sky.mp4,1,fake,Pair2,cogvideo,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vc2\vc2\vc-89ed5c66-7b9e-5447-ae61-2e8f9ce6a9a9.mp4,Pair1\vc2\vc2\vc-89ed5c66-7b9e-5447-ae61-2e8f9ce6a9a9.mp4,1,fake,Pair1,vc2,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\mora\mora\03669___a screen shot of a website with a shopping cart.mp4,Pair2\mora\mora\03669___a screen shot of a website with a shopping cart.mp4,1,fake,Pair2,mora,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\pika\pika\pika-f2af67e1-56fb-530e-9719-0dc5887becd9.mp4,Pair1\pika\pika\pika-f2af67e1-56fb-530e-9719-0dc5887becd9.mp4,1,fake,Pair1,pika,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\12574___CcJjPP-6vlg.10_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\12574___CcJjPP-6vlg.10_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\09688___EFoYzBmcHhI.2_3.mp4,Pair2\hd_vg_130m\hd_vg_130m\09688___EFoYzBmcHhI.2_3.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\musev\musev\03011___a car driving down a dark highway at night.mp4,Pair2\musev\musev\03011___a car driving down a dark highway at night.mp4,1,fake,Pair2,musev,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\01142___2e9rD_36oQ4.0_6.mp4,Pair2\hd_vg_130m\hd_vg_130m\01142___2e9rD_36oQ4.0_6.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\cogvideo\cogvideo\02778___a map of japan with a red face on it.mp4,Pair2\cogvideo\cogvideo\02778___a map of japan with a red face on it.mp4,1,fake,Pair2,cogvideo,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\07465___BdNQE-GAq1o.1_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\07465___BdNQE-GAq1o.1_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\cogvideo\cogvideo\10070___the back of a van filled with bags of drugs.mp4,Pair2\cogvideo\cogvideo\10070___the back of a van filled with bags of drugs.mp4,1,fake,Pair2,cogvideo,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\09471___E1_pYFlkBCw.16_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\09471___E1_pYFlkBCw.16_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\ms\ms\ms-a8e00099-b278-55d0-bfff-0011efad5914.mp4,Pair1\ms\ms\ms-a8e00099-b278-55d0-bfff-0011efad5914.mp4,1,fake,Pair1,ms,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\t2vz\t2vz\t2vz-f36b292c-0950-50ea-bbf7-dd0a5d5e63fe.mp4,Pair1\t2vz\t2vz\t2vz-f36b292c-0950-50ea-bbf7-dd0a5d5e63fe.mp4,1,fake,Pair1,t2vz,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\svd\svd\13425___a news screen with a picture of a child abuse scandal.mp4,Pair2\svd\svd\13425___a news screen with a picture of a child abuse scandal.mp4,1,fake,Pair2,svd,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\svd\svd\06329___a brown and white bird sitting in a tree.mp4,Pair2\svd\svd\06329___a brown and white bird sitting in a tree.mp4,1,fake,Pair2,svd,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vc2\vc2\vc-7510c4f9-8079-571a-b400-71e6e82a225b.mp4,Pair1\vc2\vc2\vc-7510c4f9-8079-571a-b400-71e6e82a225b.mp4,1,fake,Pair1,vc2,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\musev\musev\13629___a sign on top of a pile of wood.mp4,Pair2\musev\musev\13629___a sign on top of a pile of wood.mp4,1,fake,Pair2,musev,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\01281___-M5YkXpMWUk.3_3.mp4,Pair2\hd_vg_130m\hd_vg_130m\01281___-M5YkXpMWUk.3_3.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\mora\mora\12030___a young boy standing in the grass with a sign that says $ 200.mp4,Pair2\mora\mora\12030___a young boy standing in the grass with a sign that says $ 200.mp4,1,fake,Pair2,mora,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\01067___3z6I_YK7fQ4.4_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\01067___3z6I_YK7fQ4.4_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\musev\musev\01843___a group of softball players talking to each other.mp4,Pair2\musev\musev\01843___a group of softball players talking to each other.mp4,1,fake,Pair2,musev,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\mora\mora\12708___a cat sitting on top of a flat screen tv.mp4,Pair2\mora\mora\12708___a cat sitting on top of a flat screen tv.mp4,1,fake,Pair2,mora,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\musev\musev\13725___a close up of a vehicle's undercarriage.mp4,Pair2\musev\musev\13725___a close up of a vehicle's undercarriage.mp4,1,fake,Pair2,musev,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\047cdginMOo-Scene-064.mp4,Pair1\vript\vript\047cdginMOo-Scene-064.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\cogvideo\cogvideo\02929___a group of football players standing together on a field.mp4,Pair2\cogvideo\cogvideo\02929___a group of football players standing together on a field.mp4,1,fake,Pair2,cogvideo,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\t2vz\t2vz\t2vz-3d912141-6b6e-5cfd-8c30-12bad1a64b89.mp4,Pair1\t2vz\t2vz\t2vz-3d912141-6b6e-5cfd-8c30-12bad1a64b89.mp4,1,fake,Pair1,t2vz,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\13118___GEPR55iId0o.6_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\13118___GEPR55iId0o.6_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-c88ZCPF10M-Scene-043.mp4,Pair1\vript\vript\-c88ZCPF10M-Scene-043.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\pika\pika\pika-534de1b2-2307-5aaa-bc5b-cda0f4697261.mp4,Pair1\pika\pika\pika-534de1b2-2307-5aaa-bc5b-cda0f4697261.mp4,1,fake,Pair1,pika,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-c88ZCPF10M-Scene-034.mp4,Pair1\vript\vript\-c88ZCPF10M-Scene-034.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\pika\pika\pika-f36b292c-0950-50ea-bbf7-dd0a5d5e63fe.mp4,Pair1\pika\pika\pika-f36b292c-0950-50ea-bbf7-dd0a5d5e63fe.mp4,1,fake,Pair1,pika,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\svd\svd\10737___a bedroom with a bed and a lamp next to it.mp4,Pair2\svd\svd\10737___a bedroom with a bed and a lamp next to it.mp4,1,fake,Pair2,svd,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\12402___HrfR2DPmEbY.7_1.mp4,Pair2\hd_vg_130m\hd_vg_130m\12402___HrfR2DPmEbY.7_1.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\11163___EgcMERrT23M.17_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\11163___EgcMERrT23M.17_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\pika\pika\pika-7aec879d-90c5-52e5-b196-bb3657575b82.mp4,Pair1\pika\pika\pika-7aec879d-90c5-52e5-b196-bb3657575b82.mp4,1,fake,Pair1,pika,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\ms\ms\ms-7aec879d-90c5-52e5-b196-bb3657575b82.mp4,Pair1\ms\ms\ms-7aec879d-90c5-52e5-b196-bb3657575b82.mp4,1,fake,Pair1,ms,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\t2vz\t2vz\t2vz-6836d5d3-0d92-5d85-a32b-b121f9ba9b04.mp4,Pair1\t2vz\t2vz\t2vz-6836d5d3-0d92-5d85-a32b-b121f9ba9b04.mp4,1,fake,Pair1,t2vz,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\mora\mora\03657___a computer screen showing a page with a picture on it.mp4,Pair2\mora\mora\03657___a computer screen showing a page with a picture on it.mp4,1,fake,Pair2,mora,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\musev\musev\03042___a couple of speed boats in the ocean.mp4,Pair2\musev\musev\03042___a couple of speed boats in the ocean.mp4,1,fake,Pair2,musev,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\cogvideo\cogvideo\10686___the front door of a house with a sign on it.mp4,Pair2\cogvideo\cogvideo\10686___the front door of a house with a sign on it.mp4,1,fake,Pair2,cogvideo,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\musev\musev\02837___a close up of a nigerian id card.mp4,Pair2\musev\musev\02837___a close up of a nigerian id card.mp4,1,fake,Pair2,musev,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\ms\ms\ms-e35c583d-5dfe-5ba8-a937-5a1b5548a63f.mp4,Pair1\ms\ms\ms-e35c583d-5dfe-5ba8-a937-5a1b5548a63f.mp4,1,fake,Pair1,ms,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\06266___65OWmnuKLWo.7_1.mp4,Pair2\hd_vg_130m\hd_vg_130m\06266___65OWmnuKLWo.7_1.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\pika\pika\pika-70d666ee-bd5d-5ade-b0d1-b5b9085d5ca5.mp4,Pair1\pika\pika\pika-70d666ee-bd5d-5ade-b0d1-b5b9085d5ca5.mp4,1,fake,Pair1,pika,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\musev\musev\12192___a close up of a doll laying on a bed.mp4,Pair2\musev\musev\12192___a close up of a doll laying on a bed.mp4,1,fake,Pair2,musev,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\mora\mora\06904___a picture of a machine that is making something.mp4,Pair2\mora\mora\06904___a picture of a machine that is making something.mp4,1,fake,Pair2,mora,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-VZe8x1URyY-Scene-003.mp4,Pair1\vript\vript\-VZe8x1URyY-Scene-003.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\cogvideo\cogvideo\10095___a young boy sitting at a table eating a piece of pizza.mp4,Pair2\cogvideo\cogvideo\10095___a young boy sitting at a table eating a piece of pizza.mp4,1,fake,Pair2,cogvideo,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\02812___1pNCoJnfZZY.16_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\02812___1pNCoJnfZZY.16_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\07110___6BMoNyRos9M.10_1.mp4,Pair2\hd_vg_130m\hd_vg_130m\07110___6BMoNyRos9M.10_1.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\pika\pika\pika-a91ce67d-d3cc-5c0b-a386-21036e392c74.mp4,Pair1\pika\pika\pika-a91ce67d-d3cc-5c0b-a386-21036e392c74.mp4,1,fake,Pair1,pika,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\svd\svd\13435___a large animal standing in the snow on a foggy day.mp4,Pair2\svd\svd\13435___a large animal standing in the snow on a foggy day.mp4,1,fake,Pair2,svd,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\06142___6lky0qZc9Vk.3_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\06142___6lky0qZc9Vk.3_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\02628___0v1_kuQl74g.17_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\02628___0v1_kuQl74g.17_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\13441___Cl4Ekmzbq1E.11_1.mp4,Pair2\hd_vg_130m\hd_vg_130m\13441___Cl4Ekmzbq1E.11_1.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\t2vz\t2vz\t2vz-d878522c-5d22-5769-a99d-8a03bdecf654.mp4,Pair1\t2vz\t2vz\t2vz-d878522c-5d22-5769-a99d-8a03bdecf654.mp4,1,fake,Pair1,t2vz,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\08394___B3tJNHBUlCI.10_1.mp4,Pair2\hd_vg_130m\hd_vg_130m\08394___B3tJNHBUlCI.10_1.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\022hQ9mesig-Scene-034.mp4,Pair1\vript\vript\022hQ9mesig-Scene-034.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\pika\pika\pika-6dad3ece-d203-551b-b5f0-9b8a4fa19024.mp4,Pair1\pika\pika\pika-6dad3ece-d203-551b-b5f0-9b8a4fa19024.mp4,1,fake,Pair1,pika,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-EIekauI_hc-Scene-009.mp4,Pair1\vript\vript\-EIekauI_hc-Scene-009.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-5ReoIc3C_o-Scene-096.mp4,Pair1\vript\vript\-5ReoIc3C_o-Scene-096.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-6_SVE43AL4-Scene-035.mp4,Pair1\vript\vript\-6_SVE43AL4-Scene-035.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\ms\ms\ms-0a0e36af-7512-5f96-b85a-5221fc0c267e.mp4,Pair1\ms\ms\ms-0a0e36af-7512-5f96-b85a-5221fc0c267e.mp4,1,fake,Pair1,ms,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-3u2xpZF2h4-Scene-020.mp4,Pair1\vript\vript\-3u2xpZF2h4-Scene-020.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\mora\mora\13222___an image of a green screen with letters on it.mp4,Pair2\mora\mora\13222___an image of a green screen with letters on it.mp4,1,fake,Pair2,mora,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-DUQqI8FfQA-Scene-006.mp4,Pair1\vript\vript\-DUQqI8FfQA-Scene-006.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\02881___32Si2qsL-L8.1_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\02881___32Si2qsL-L8.1_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\02552___4WNAs36-F6U.0_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\02552___4WNAs36-F6U.0_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-MyRjBSFZPg-Scene-017.mp4,Pair1\vript\vript\-MyRjBSFZPg-Scene-017.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\ms\ms\ms-3d22a760-43ce-5ddf-a6a6-2813cf54d6b7.mp4,Pair1\ms\ms\ms-3d22a760-43ce-5ddf-a6a6-2813cf54d6b7.mp4,1,fake,Pair1,ms,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\00961___4qktAEp7-X8.14_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\00961___4qktAEp7-X8.14_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vc2\vc2\vc-08d9a859-f62c-59bc-9fe7-89464deaa706.mp4,Pair1\vc2\vc2\vc-08d9a859-f62c-59bc-9fe7-89464deaa706.mp4,1,fake,Pair1,vc2,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\cogvideo\cogvideo\11890___a silver ford focus parked on the side of the road.mp4,Pair2\cogvideo\cogvideo\11890___a silver ford focus parked on the side of the road.mp4,1,fake,Pair2,cogvideo,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\svd\svd\09456___a screen shot of a computer with a large wave in the background.mp4,Pair2\svd\svd\09456___a screen shot of a computer with a large wave in the background.mp4,1,fake,Pair2,svd,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vc2\vc2\vc-d5614d82-b71b-59a9-997f-6410624cb493.mp4,Pair1\vc2\vc2\vc-d5614d82-b71b-59a9-997f-6410624cb493.mp4,1,fake,Pair1,vc2,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\01149___4n4ZJPfdyPc.1_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\01149___4n4ZJPfdyPc.1_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\pika\pika\pika-4aef9374-9f2b-51a9-89d3-5d4be1f88f1b.mp4,Pair1\pika\pika\pika-4aef9374-9f2b-51a9-89d3-5d4be1f88f1b.mp4,1,fake,Pair1,pika,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\12231___E0wIS2N2y6M.0_5.mp4,Pair2\hd_vg_130m\hd_vg_130m\12231___E0wIS2N2y6M.0_5.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\06973___84i_zViaQxg.1_1.mp4,Pair2\hd_vg_130m\hd_vg_130m\06973___84i_zViaQxg.1_1.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\02442___45O-obZTk1c.30_1.mp4,Pair2\hd_vg_130m\hd_vg_130m\02442___45O-obZTk1c.30_1.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-GAtUjgJpEA-Scene-007.mp4,Pair1\vript\vript\-GAtUjgJpEA-Scene-007.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-OlWvcbV0Ro-Scene-012.mp4,Pair1\vript\vript\-OlWvcbV0Ro-Scene-012.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\06115___8srcm5bBgNo.1_2.mp4,Pair2\hd_vg_130m\hd_vg_130m\06115___8srcm5bBgNo.1_2.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\pika\pika\pika-af7aa6cd-c500-5cc9-bb3a-27e557edeb6c.mp4,Pair1\pika\pika\pika-af7aa6cd-c500-5cc9-bb3a-27e557edeb6c.mp4,1,fake,Pair1,pika,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\07750___6RCY4t-Qhsw.3_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\07750___6RCY4t-Qhsw.3_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\pika\pika\pika-d1418574-5192-5596-96da-d1d5a308670a.mp4,Pair1\pika\pika\pika-d1418574-5192-5596-96da-d1d5a308670a.mp4,1,fake,Pair1,pika,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\03194___3JzwZ4wUNzo.0_3.mp4,Pair2\hd_vg_130m\hd_vg_130m\03194___3JzwZ4wUNzo.0_3.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\t2vz\t2vz\t2vz-15d13bf9-a053-5dfe-a244-32086ec1c77b.mp4,Pair1\t2vz\t2vz\t2vz-15d13bf9-a053-5dfe-a244-32086ec1c77b.mp4,1,fake,Pair1,t2vz,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-ZCBEZBmHIQ-Scene-034.mp4,Pair1\vript\vript\-ZCBEZBmHIQ-Scene-034.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\musev\musev\04212___a view of the interior of an auditorium.mp4,Pair2\musev\musev\04212___a view of the interior of an auditorium.mp4,1,fake,Pair2,musev,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\musev\musev\07924___a large group of fish swimming in a blue ocean.mp4,Pair2\musev\musev\07924___a large group of fish swimming in a blue ocean.mp4,1,fake,Pair2,musev,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\musev\musev\02737___a sign that says district warren news.mp4,Pair2\musev\musev\02737___a sign that says district warren news.mp4,1,fake,Pair2,musev,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-NIP2zgVsRY-Scene-028.mp4,Pair1\vript\vript\-NIP2zgVsRY-Scene-028.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\musev\musev\05471___a close up of a tree with leaves on it.mp4,Pair2\musev\musev\05471___a close up of a tree with leaves on it.mp4,1,fake,Pair2,musev,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-k1wvoMPlWw-Scene-107.mp4,Pair1\vript\vript\-k1wvoMPlWw-Scene-107.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\musev\musev\13407___three bars of soap sitting on a wire rack.mp4,Pair2\musev\musev\13407___three bars of soap sitting on a wire rack.mp4,1,fake,Pair2,musev,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-bNL86bJrD8-Scene-143.mp4,Pair1\vript\vript\-bNL86bJrD8-Scene-143.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-UWQuj6J8tQ-Scene-101.mp4,Pair1\vript\vript\-UWQuj6J8tQ-Scene-101.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vc2\vc2\vc-3726faf1-874e-5a95-8b2f-87b7e04766a7.mp4,Pair1\vc2\vc2\vc-3726faf1-874e-5a95-8b2f-87b7e04766a7.mp4,1,fake,Pair1,vc2,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\svd\svd\13725___a close up of a vehicle's undercarriage.mp4,Pair2\svd\svd\13725___a close up of a vehicle's undercarriage.mp4,1,fake,Pair2,svd,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\svd\svd\10955___a news anchor is talking to a camera.mp4,Pair2\svd\svd\10955___a news anchor is talking to a camera.mp4,1,fake,Pair2,svd,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-4JeJ5Cm5Mw-Scene-047.mp4,Pair1\vript\vript\-4JeJ5Cm5Mw-Scene-047.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\05858___8M-SM1dp3Lg.3_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\05858___8M-SM1dp3Lg.3_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\10685___CMj9TK7HCdo.13_1.mp4,Pair2\hd_vg_130m\hd_vg_130m\10685___CMj9TK7HCdo.13_1.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\cogvideo\cogvideo\05529___a boat floating in the middle of a body of water.mp4,Pair2\cogvideo\cogvideo\05529___a boat floating in the middle of a body of water.mp4,1,fake,Pair2,cogvideo,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\musev\musev\07576___a red tractor in the middle of a lush green field.mp4,Pair2\musev\musev\07576___a red tractor in the middle of a lush green field.mp4,1,fake,Pair2,musev,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-W50LiPBXu0-Scene-028.mp4,Pair1\vript\vript\-W50LiPBXu0-Scene-028.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\musev\musev\09152___a yellow gun in a video game.mp4,Pair2\musev\musev\09152___a yellow gun in a video game.mp4,1,fake,Pair2,musev,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-F3M2EGP_C4-Scene-011.mp4,Pair1\vript\vript\-F3M2EGP_C4-Scene-011.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\svd\svd\13849___a tree branch with ants crawling on it.mp4,Pair2\svd\svd\13849___a tree branch with ants crawling on it.mp4,1,fake,Pair2,svd,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\pika\pika\pika-89ed5c66-7b9e-5447-ae61-2e8f9ce6a9a9.mp4,Pair1\pika\pika\pika-89ed5c66-7b9e-5447-ae61-2e8f9ce6a9a9.mp4,1,fake,Pair1,pika,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\05604___5Zso0z2ag-U.13_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\05604___5Zso0z2ag-U.13_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\mora\mora\10095___a young boy sitting at a table eating a piece of pizza.mp4,Pair2\mora\mora\10095___a young boy sitting at a table eating a piece of pizza.mp4,1,fake,Pair2,mora,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\2xbkjGSOEJY-Scene-126.mp4,Pair1\vript\vript\2xbkjGSOEJY-Scene-126.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\10990___FuiN4ytWTVg.10_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\10990___FuiN4ytWTVg.10_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\t2vz\t2vz\t2vz-25580f7b-c375-508d-9bb3-0cb7e318744a.mp4,Pair1\t2vz\t2vz\t2vz-25580f7b-c375-508d-9bb3-0cb7e318744a.mp4,1,fake,Pair1,t2vz,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vc2\vc2\vc-e06925ad-b463-54de-b811-4986d1fe04fe.mp4,Pair1\vc2\vc2\vc-e06925ad-b463-54de-b811-4986d1fe04fe.mp4,1,fake,Pair1,vc2,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\cogvideo\cogvideo\13565___a close up of a piece of broccoli.mp4,Pair2\cogvideo\cogvideo\13565___a close up of a piece of broccoli.mp4,1,fake,Pair2,cogvideo,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\04016___0Z-psrunei8.11_2.mp4,Pair2\hd_vg_130m\hd_vg_130m\04016___0Z-psrunei8.11_2.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\04418___4p4lpo8GrlI.2_5.mp4,Pair2\hd_vg_130m\hd_vg_130m\04418___4p4lpo8GrlI.2_5.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\05702___9JGGbudSDrA.0_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\05702___9JGGbudSDrA.0_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\pika\pika\pika-560931d1-903d-56e8-87ac-149535967748.mp4,Pair1\pika\pika\pika-560931d1-903d-56e8-87ac-149535967748.mp4,1,fake,Pair1,pika,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\cogvideo\cogvideo\07277___a close up of the exhaust pipe on a red car.mp4,Pair2\cogvideo\cogvideo\07277___a close up of the exhaust pipe on a red car.mp4,1,fake,Pair2,cogvideo,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-SQcOG-QvOw-Scene-009.mp4,Pair1\vript\vript\-SQcOG-QvOw-Scene-009.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-AEboTH-SR0-Scene-014.mp4,Pair1\vript\vript\-AEboTH-SR0-Scene-014.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-t5fzGI1oWk-Scene-008.mp4,Pair1\vript\vript\-t5fzGI1oWk-Scene-008.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\09774___Ggpn-6WPakQ.1_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\09774___Ggpn-6WPakQ.1_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-dLPEvcnUYM-Scene-016.mp4,Pair1\vript\vript\-dLPEvcnUYM-Scene-016.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\t2vz\t2vz\t2vz-3d22a760-43ce-5ddf-a6a6-2813cf54d6b7.mp4,Pair1\t2vz\t2vz\t2vz-3d22a760-43ce-5ddf-a6a6-2813cf54d6b7.mp4,1,fake,Pair1,t2vz,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\mora\mora\05067___a lone skier in the middle of a snowy mountain.mp4,Pair2\mora\mora\05067___a lone skier in the middle of a snowy mountain.mp4,1,fake,Pair2,mora,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-6DJRy5VOfg-Scene-011.mp4,Pair1\vript\vript\-6DJRy5VOfg-Scene-011.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\pika\pika\pika-d5614d82-b71b-59a9-997f-6410624cb493.mp4,Pair1\pika\pika\pika-d5614d82-b71b-59a9-997f-6410624cb493.mp4,1,fake,Pair1,pika,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\02626___4qVKo4ByO6c.0_2.mp4,Pair2\hd_vg_130m\hd_vg_130m\02626___4qVKo4ByO6c.0_2.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\05102___94IukpmqOg0.5_1.mp4,Pair2\hd_vg_130m\hd_vg_130m\05102___94IukpmqOg0.5_1.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-f36JGmgiiw-Scene-002.mp4,Pair1\vript\vript\-f36JGmgiiw-Scene-002.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\mora\mora\11771___a close up of the front wheel of a silver car.mp4,Pair2\mora\mora\11771___a close up of the front wheel of a silver car.mp4,1,fake,Pair2,mora,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\5DqLEsXFy4s-Scene-013.mp4,Pair1\vript\vript\5DqLEsXFy4s-Scene-013.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-j8An5lGDt0-Scene-083.mp4,Pair1\vript\vript\-j8An5lGDt0-Scene-083.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\03102___-6HwAFo44QA.1_2.mp4,Pair2\hd_vg_130m\hd_vg_130m\03102___-6HwAFo44QA.1_2.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\svd\svd\01482___a long hallway with numbers on the walls.mp4,Pair2\svd\svd\01482___a long hallway with numbers on the walls.mp4,1,fake,Pair2,svd,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vc2\vc2\vc-4b8e1b54-4f2b-59ec-ad4e-f60c6d6639ce.mp4,Pair1\vc2\vc2\vc-4b8e1b54-4f2b-59ec-ad4e-f60c6d6639ce.mp4,1,fake,Pair1,vc2,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\ms\ms\ms-6dad3ece-d203-551b-b5f0-9b8a4fa19024.mp4,Pair1\ms\ms\ms-6dad3ece-d203-551b-b5f0-9b8a4fa19024.mp4,1,fake,Pair1,ms,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\svd\svd\07001___a close up of a white umbrella.mp4,Pair2\svd\svd\07001___a close up of a white umbrella.mp4,1,fake,Pair2,svd,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-CwJBYXS1-Q-Scene-018.mp4,Pair1\vript\vript\-CwJBYXS1-Q-Scene-018.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vc2\vc2\vc-534de1b2-2307-5aaa-bc5b-cda0f4697261.mp4,Pair1\vc2\vc2\vc-534de1b2-2307-5aaa-bc5b-cda0f4697261.mp4,1,fake,Pair1,vc2,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\cogvideo\cogvideo\02141___a building with a fire hydrant on the side of it.mp4,Pair2\cogvideo\cogvideo\02141___a building with a fire hydrant on the side of it.mp4,1,fake,Pair2,cogvideo,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\svd\svd\01857___a young boy sitting at a counter with a bowl of food.mp4,Pair2\svd\svd\01857___a young boy sitting at a counter with a bowl of food.mp4,1,fake,Pair2,svd,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\05318___9qR4aLByAR0.5_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\05318___9qR4aLByAR0.5_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\mora\mora\01612___a weather screen showing the 7 day forecast.mp4,Pair2\mora\mora\01612___a weather screen showing the 7 day forecast.mp4,1,fake,Pair2,mora,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\svd\svd\05351___a video game character standing in front of a screen.mp4,Pair2\svd\svd\05351___a video game character standing in front of a screen.mp4,1,fake,Pair2,svd,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\cogvideo\cogvideo\12332___an empty aquarium with three lights on it.mp4,Pair2\cogvideo\cogvideo\12332___an empty aquarium with three lights on it.mp4,1,fake,Pair2,cogvideo,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\ms\ms\ms-4aef9374-9f2b-51a9-89d3-5d4be1f88f1b.mp4,Pair1\ms\ms\ms-4aef9374-9f2b-51a9-89d3-5d4be1f88f1b.mp4,1,fake,Pair1,ms,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\10217___GsRYs-USdnk.19_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\10217___GsRYs-USdnk.19_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\pika\pika\pika-10ccb150-0997-5ceb-82f6-6705b4fd31aa.mp4,Pair1\pika\pika\pika-10ccb150-0997-5ceb-82f6-6705b4fd31aa.mp4,1,fake,Pair1,pika,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\musev\musev\10334___a large white building with several flags on it.mp4,Pair2\musev\musev\10334___a large white building with several flags on it.mp4,1,fake,Pair2,musev,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-9leP3nbaXc-Scene-042.mp4,Pair1\vript\vript\-9leP3nbaXc-Scene-042.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\ms\ms\ms-59c0e702-22bd-5c63-9579-6ed5a4344d4c.mp4,Pair1\ms\ms\ms-59c0e702-22bd-5c63-9579-6ed5a4344d4c.mp4,1,fake,Pair1,ms,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\cogvideo\cogvideo\06904___a picture of a machine that is making something.mp4,Pair2\cogvideo\cogvideo\06904___a picture of a machine that is making something.mp4,1,fake,Pair2,cogvideo,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\01791___4kq5DlZ6pnc.32_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\01791___4kq5DlZ6pnc.32_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-Xl33P57QOs-Scene-018.mp4,Pair1\vript\vript\-Xl33P57QOs-Scene-018.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\cogvideo\cogvideo\11925___a green background with a clock on it.mp4,Pair2\cogvideo\cogvideo\11925___a green background with a clock on it.mp4,1,fake,Pair2,cogvideo,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\svd\svd\13364___a cartoon character wearing a yellow shirt and red tie.mp4,Pair2\svd\svd\13364___a cartoon character wearing a yellow shirt and red tie.mp4,1,fake,Pair2,svd,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\musev\musev\08583___a computer screen showing a drawing of a horse.mp4,Pair2\musev\musev\08583___a computer screen showing a drawing of a horse.mp4,1,fake,Pair2,musev,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\073BMGVWan0-Scene-035.mp4,Pair1\vript\vript\073BMGVWan0-Scene-035.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\11347___GxBmX2-TYaQ.10_1.mp4,Pair2\hd_vg_130m\hd_vg_130m\11347___GxBmX2-TYaQ.10_1.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-3u2xpZF2h4-Scene-004.mp4,Pair1\vript\vript\-3u2xpZF2h4-Scene-004.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-N8FhPulgOk-Scene-007.mp4,Pair1\vript\vript\-N8FhPulgOk-Scene-007.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\05626___7V0gUR6BiLs.12_1.mp4,Pair2\hd_vg_130m\hd_vg_130m\05626___7V0gUR6BiLs.12_1.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-Vv3pnGt9Dc-Scene-002.mp4,Pair1\vript\vript\-Vv3pnGt9Dc-Scene-002.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vc2\vc2\vc-27721ed0-d584-54e5-8d96-a411192695f6.mp4,Pair1\vc2\vc2\vc-27721ed0-d584-54e5-8d96-a411192695f6.mp4,1,fake,Pair1,vc2,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\08624___8H7bPBivkK8.29_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\08624___8H7bPBivkK8.29_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\26IdxneZ1xQ-Scene-031.mp4,Pair1\vript\vript\26IdxneZ1xQ-Scene-031.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\pika\pika\pika-6836d5d3-0d92-5d85-a32b-b121f9ba9b04.mp4,Pair1\pika\pika\pika-6836d5d3-0d92-5d85-a32b-b121f9ba9b04.mp4,1,fake,Pair1,pika,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-YrzhjsISkE-Scene-008.mp4,Pair1\vript\vript\-YrzhjsISkE-Scene-008.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-uyHPBbfN1Y-Scene-009.mp4,Pair1\vript\vript\-uyHPBbfN1Y-Scene-009.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-HsVkwyi-mk-Scene-018.mp4,Pair1\vript\vript\-HsVkwyi-mk-Scene-018.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\pika\pika\pika-27721ed0-d584-54e5-8d96-a411192695f6.mp4,Pair1\pika\pika\pika-27721ed0-d584-54e5-8d96-a411192695f6.mp4,1,fake,Pair1,pika,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\0Jr3IYhTLDw-Scene-131.mp4,Pair1\vript\vript\0Jr3IYhTLDw-Scene-131.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\ms\ms\ms-ba73da46-9e5c-5739-abef-c90fe2406aea.mp4,Pair1\ms\ms\ms-ba73da46-9e5c-5739-abef-c90fe2406aea.mp4,1,fake,Pair1,ms,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\06134___7LEeWeL0sNg.17_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\06134___7LEeWeL0sNg.17_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\ms\ms\ms-a6aa3db8-6774-54ed-abf8-89bb1a29dc4d.mp4,Pair1\ms\ms\ms-a6aa3db8-6774-54ed-abf8-89bb1a29dc4d.mp4,1,fake,Pair1,ms,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\svd\svd\11975___a bunk bed in a room with wooden walls.mp4,Pair2\svd\svd\11975___a bunk bed in a room with wooden walls.mp4,1,fake,Pair2,svd,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\12372___DLRFNALhVok.7_1.mp4,Pair2\hd_vg_130m\hd_vg_130m\12372___DLRFNALhVok.7_1.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-OpwdHZfCtU-Scene-018.mp4,Pair1\vript\vript\-OpwdHZfCtU-Scene-018.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\12295___Fr5s3Ccj8YA.0_1.mp4,Pair2\hd_vg_130m\hd_vg_130m\12295___Fr5s3Ccj8YA.0_1.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-EPekCveFHQ-Scene-006.mp4,Pair1\vript\vript\-EPekCveFHQ-Scene-006.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\06vbPIJlkZU-Scene-042.mp4,Pair1\vript\vript\06vbPIJlkZU-Scene-042.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\07604___6Z0ianECwPI.2_3.mp4,Pair2\hd_vg_130m\hd_vg_130m\07604___6Z0ianECwPI.2_3.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-velT2AhY_s-Scene-018.mp4,Pair1\vript\vript\-velT2AhY_s-Scene-018.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\01042___0oE0qEgh66c.2_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\01042___0oE0qEgh66c.2_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\mora\mora\12970___a close up of a bunch of craft supplies.mp4,Pair2\mora\mora\12970___a close up of a bunch of craft supplies.mp4,1,fake,Pair2,mora,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\01759___-1aUbNddVj0.15_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\01759___-1aUbNddVj0.15_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\musev\musev\08954___a news story about a church in north austin.mp4,Pair2\musev\musev\08954___a news story about a church in north austin.mp4,1,fake,Pair2,musev,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\08505___83Hj1zfeKnw.10_2.mp4,Pair2\hd_vg_130m\hd_vg_130m\08505___83Hj1zfeKnw.10_2.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\10212___DaOVGPN98Ow.12_0.mp4,Pair2\hd_vg_130m\hd_vg_130m\10212___DaOVGPN98Ow.12_0.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-6cAazniJAc-Scene-084.mp4,Pair1\vript\vript\-6cAazniJAc-Scene-084.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\svd\svd\13818___a black leather case laying on a bed.mp4,Pair2\svd\svd\13818___a black leather case laying on a bed.mp4,1,fake,Pair2,svd,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair1\vript\vript\-6cAazniJAc-Scene-060.mp4,Pair1\vript\vript\-6cAazniJAc-Scene-060.mp4,0,real,Pair1,vript,GenVidBench,False
+F:\MEngDatasets\GenVidBench\GenVidBench\Pair2\hd_vg_130m\hd_vg_130m\03689___-wsuV2-xmpo.10_2.mp4,Pair2\hd_vg_130m\hd_vg_130m\03689___-wsuV2-xmpo.10_2.mp4,0,real,Pair2,hd_vg_130m,GenVidBench,False

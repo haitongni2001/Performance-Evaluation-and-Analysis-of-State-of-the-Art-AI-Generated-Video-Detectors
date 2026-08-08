@@ -1,0 +1,14 @@
+datasets/ 
+*.pptx 
+*.docx 
+*.pth 
+*.mp4 
+*.jpg 
+*.npy 
+*.ckpt 
+*.pt 
+*.npz 
+*.pkl 
+*.pyc 
+*.png 
+*.json 

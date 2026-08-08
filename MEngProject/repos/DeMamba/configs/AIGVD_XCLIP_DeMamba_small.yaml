@@ -1,0 +1,13 @@
+model: 'XCLIP_DeMamba'
+tuning_mode: 'sft'
+task: 'many2many'
+
+save_dir: './results/AIGVD_XCLIP_DeMamba_small'
+
+max_epoch: 20
+bath_per_epoch: 100
+
+train_batch_size: 4
+val_batch_size: 4
+num_workers: 0
+lr: 0.000001

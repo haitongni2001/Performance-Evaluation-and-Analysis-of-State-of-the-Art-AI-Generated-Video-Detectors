@@ -1,0 +1,12 @@
+Epoch: 4
+Train Loss: 0.405199
+Accuracy: 0.554000
+Precision_fake: 0.575419
+Recall_fake: 0.412000
+F1_fake: 0.480186
+MCC: 0.112638
+ROC_AUC_fake: 0.583952
+AP_fake: 0.593695
+Confusion Matrix [[TN, FP], [FN, TP]]:
+[[174, 76], [147, 103]]
+Prediction CSV: ./results/genvidbench_common1000/GenVidBench_XCLIP_DeMamba_small\Epoch_4_predictions.csv

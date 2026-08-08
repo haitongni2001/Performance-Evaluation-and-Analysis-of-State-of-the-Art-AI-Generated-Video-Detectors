@@ -1,0 +1,35 @@
+AIGVDet Evaluation Results
+Implementation: pretrained inference with RGB branch + optical-flow branch
+Dataset: AIGVDBench all-open-source common subset
+Input CSV: D:\HaitongNi\MEngProject_SecondBench\metadata\genvidbench_common1000.csv
+Samples requested: 1000
+Valid samples: 1000
+
+Weights:
+Original branch: checkpoints\original_aug.pth
+Optical branch: checkpoints\optical_aug.pth
+RAFT: raft_model\raft-things.pth
+
+Frame setting:
+num_frames per video: 16
+final_score = 0.5 * original_score + 0.5 * optical_score
+
+Threshold-free metrics:
+ROC_AUC_fake: 0.802876
+AP_fake: 0.820968
+
+Threshold-based metrics @ final_score >= 0.5:
+Accuracy: 0.728000
+Precision_fake: 0.904255
+Recall_fake: 0.510000
+F1_fake: 0.652174
+MCC: 0.506697
+
+Confusion Matrix [[TN, FP], [FN, TP]]:
+[[473, 27], [245, 255]]
+
+Prediction CSV:
+D:\HaitongNi\MEngProject\repos\AIGVDet\results\genvidbench_common1000\aigvdet_genvidbench_common1000_predictions.csv
+
+Generator breakdown CSV:
+D:\HaitongNi\MEngProject\repos\AIGVDet\results\genvidbench_common1000\aigvdet_genvidbench_common1000_generator_breakdown.csv

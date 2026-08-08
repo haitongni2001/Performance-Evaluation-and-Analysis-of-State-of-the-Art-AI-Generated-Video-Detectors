@@ -1,0 +1,48 @@
+ReStraV Evaluation Results
+Implementation: DINOv2 temporal geometry feature extraction + MLP training
+Dataset: GenVidBench common-1000
+Input CSV: D:\HaitongNi\MEngProject_SecondBench\metadata\genvidbench_common1000.csv
+Feature cache: D:\HaitongNi\MEngProject\repos\ReStraV\results\genvidbench_common1000\restrav_genvidbench_common1000_features.npz
+
+Valid samples: 1000
+Train samples: 500
+Test samples: 500
+Positive class: fake = 1, real = 0
+
+Feature:
+21-D temporal geometry vector
+NUM_FRAMES = 24
+WINDOW_SEC = 2.0
+
+Training:
+MLP hidden sizes: 64, 32
+Epochs: 20
+Learning rate: 0.001
+Train/test split: stratified 50/50
+Normalization: train-set mean/std only
+Best threshold selected on train set: 0.6450
+
+Threshold-free metrics on test set:
+ROC_AUC_fake: 0.9876
+AP_fake: 0.9897
+
+Threshold-based metrics on test set:
+Accuracy: 0.9500
+Precision_fake: 0.9668
+Recall_fake: 0.9320
+F1_fake: 0.9491
+MCC: 0.9006
+
+Confusion Matrix [[TN, FP], [FN, TP]]:
+[[242   8]
+ [ 17 233]]
+
+Prediction CSV: D:\HaitongNi\MEngProject\repos\ReStraV\results\genvidbench_common1000\restrav_genvidbench_common1000_predictions.csv
+Model: D:\HaitongNi\MEngProject\repos\ReStraV\results\genvidbench_common1000\restrav_genvidbench_common1000_model.pt
+Mean: D:\HaitongNi\MEngProject\repos\ReStraV\results\genvidbench_common1000\restrav_genvidbench_common1000_mean.npy
+Std: D:\HaitongNi\MEngProject\repos\ReStraV\results\genvidbench_common1000\restrav_genvidbench_common1000_std.npy
+Best threshold: D:\HaitongNi\MEngProject\repos\ReStraV\results\genvidbench_common1000\restrav_genvidbench_common1000_best_tau.npy
+
+Important note:
+ReStraV requires training a lightweight classifier on extracted temporal geometry features.
+Therefore, this result is a trained-on-subset evaluation rather than pure pretrained inference.

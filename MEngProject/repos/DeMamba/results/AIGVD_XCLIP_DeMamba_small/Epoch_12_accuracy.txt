@@ -1,0 +1,12 @@
+Epoch: 12
+Train Loss: 0.117877
+Accuracy: 0.884000
+Precision_fake: 0.860902
+Recall_fake: 0.916000
+F1_fake: 0.887597
+MCC: 0.769578
+ROC_AUC_fake: 0.954272
+AP_fake: 0.940513
+Confusion Matrix [[TN, FP], [FN, TP]]:
+[[213, 37], [21, 229]]
+Prediction CSV: ./results/AIGVD_XCLIP_DeMamba_small\Epoch_12_predictions.csv

@@ -1,0 +1,20 @@
+WaveRep Evaluation Results
+Dataset: AIGVDBench all-open-source common-1000
+Weights: D:\HaitongNi\MEngProject\repos\WaveRep-SyntheticVideoDetection\demo\weights\weights_dinov2_G4.ckpt
+Valid samples: 1000
+Invalid samples: 0
+
+Threshold-free metrics:
+ROC_AUC_fake: 0.9953
+AP_fake: 0.9956
+
+Threshold @ prob_fake >= 0.5:
+Accuracy: 0.9600
+Precision_fake: 0.9694
+Recall_fake: 0.9500
+F1_fake: 0.9596
+MCC: 0.9202
+Confusion Matrix [[TN, FP], [FN, TP]]:
+[[485  15]
+ [ 25 475]]
+Prediction CSV: D:\HaitongNi\MEngProject_SecondBench\01_WaveRep\results\waverep_genvidbench_common1000_predictions.csv

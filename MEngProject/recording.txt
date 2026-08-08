@@ -1,0 +1,446 @@
+Method: VidGuard-R1-style evaluation / Qwen2.5-VL-7B-Instruct
+Implementation: transformers inference, not vLLM
+Dataset: AIGVDBench all-open-source common-1000
+Samples: 500 real + 500 fake
+Valid samples: 1000
+Invalid predictions: 0
+
+Accuracy: 0.5540
+Precision_fake: 0.6205
+Recall_fake: 0.2780
+F1_fake: 0.3840
+MCC: 0.1295
+Confusion Matrix [[TN, FP], [FN, TP]]:
+[[415, 85],
+ [361, 139]]
+
+                                n  recall
+generator_id
+OpenSource_T2V_Open-Sora     25.0    0.16
+OpenSource_I2V_EasyAnimate   25.0    0.20
+OpenSource_T2V_AccVideo      25.0    0.20
+OpenSource_I2V_Pyramid-Flow  25.0    0.20
+OpenSource_T2V_EasyAnimate   25.0    0.20
+OpenSource_T2V_Wan2.1        25.0    0.20
+OpenSource_V2V_LTX           25.0    0.20
+OpenSource_T2V_IPOC          25.0    0.24
+OpenSource_I2V_LTX           25.0    0.24
+OpenSource_V2V_Cogvideox1.5  25.0    0.24
+OpenSource_T2V_HunyuanVideo  25.0    0.28
+OpenSource_I2V_SVD           25.0    0.28
+OpenSource_T2V_Cogvideox1.5  25.0    0.28
+OpenSource_T2V_RepVideo      25.0    0.28
+OpenSource_T2V_LTX           25.0    0.32
+OpenSource_I2V_SEINE         25.0    0.32
+OpenSource_T2V_Pyramid-Flow  25.0    0.32
+OpenSource_I2V_VideoCrafter  25.0    0.40
+OpenSource_T2V_AnimateDiff   25.0    0.48
+OpenSource_T2V_VideoCrafter  25.0    0.52
+
+Real accuracy:
+0.83
+
+
+
+Method: NSG-VD
+Checkpoint: standard-Pika-d.pth
+Dataset: AIGVDBench
+Subset: all-open-source common-1000
+Planned samples: 500 real + 500 fake
+Actually loaded real samples: 477
+Fake group: AIGV_OpenSource_All
+Feature type: velocity
+Diffuse steps: 5
+
+Results:
+AUROC = 0.6394
+Accuracy = 0.5068
+Precision = 0.5800
+Recall = 0.0604
+F1 = 0.1094
+
+Note:
+Threshold-dependent metrics are poor because the original NSG-VD threshold is not calibrated for this AIGVDBench subset.
+
+=== Final Recall by Generator (Manual Slicing) ===
+       Generator  Recall
+    Pyramid-Flow    0.16
+            IPOC    0.12
+             SVD    0.12
+        AccVideo    0.08
+           SEINE    0.08
+    Cogvideox1.5    0.08
+     AnimateDiff    0.08
+        RepVideo    0.08
+         SVD_I2V    0.08
+    VideoCrafter    0.08
+ EasyAnimate_I2V    0.04
+             LTX    0.04
+Pyramid-Flow_I2V    0.04
+       Open-Sora    0.04
+Cogvideox1.5_V2V    0.04
+          Wan2.1    0.04
+         LTX_I2V    0.04
+     EasyAnimate    0.00
+    HunyuanVideo    0.00
+       SEINE_I2V    0.00
+
+AIGVDBench official test split, all-open-source common-1000 subset
+500 real + 500 fake
+Fake samples are evenly distributed across OpenSource T2V/I2V/V2V generator_id categories.
+
+D3 result:
+Encoder: XCLIP-16
+Loss: L2
+AP_fake: 0.6417
+AP_real: 0.5940
+ROC-AUC_fake: 0.6181
+Best Accuracy: 0.5200
+Best F1_fake: 0.6694
+Note: best-threshold metrics are diagnostic only.
+D3 per-generator fake score breakdown:
+Metric: mean_fake_score
+Interpretation: higher mean_fake_score means the generator is more likely to be detected as fake by D3.
+
+Harder fake generators for D3:
+OpenSource_I2V_SVD           n=25  mean_fake_score=-2.6502
+OpenSource_I2V_EasyAnimate   n=25  mean_fake_score=-2.6172
+OpenSource_T2V_Pyramid-Flow  n=25  mean_fake_score=-2.5985
+OpenSource_T2V_LTX           n=25  mean_fake_score=-2.5548
+OpenSource_I2V_LTX           n=25  mean_fake_score=-2.4865
+
+Easier fake generators for D3:
+OpenSource_T2V_AnimateDiff   n=25  mean_fake_score=-1.4025
+OpenSource_T2V_VideoCrafter  n=25  mean_fake_score=-1.4275
+OpenSource_T2V_HunyuanVideo  n=25  mean_fake_score=-1.7834
+OpenSource_T2V_AccVideo      n=25  mean_fake_score=-1.8301
+OpenSource_I2V_VideoCrafter  n=25  mean_fake_score=-1.9049
+
+Note:
+This is a score-level per-generator analysis rather than a recall-level analysis. Since D3's threshold-dependent metrics use a diagnostic best threshold, mean_fake_score is more useful here for comparing which generator outputs D3 considers more or less fake-like.
+
+Per-generator results (D3 on AIGVDBench):
+(Note: Scores normalized via Sigmoid; evaluated using Dynamic Best Threshold = 0.1662)
+OpenSource_I2V_EasyAnimate   recall=0.1200
+OpenSource_T2V_LTX           recall=0.1600
+OpenSource_I2V_SVD           recall=0.2000
+OpenSource_T2V_Wan2.1        recall=0.2400
+OpenSource_T2V_Pyramid-Flow  recall=0.2800
+OpenSource_V2V_LTX           recall=0.2800
+OpenSource_I2V_SEINE         recall=0.3200
+OpenSource_V2V_Cogvideox1.5  recall=0.3600
+OpenSource_I2V_Pyramid-Flow  recall=0.3600
+OpenSource_I2V_LTX           recall=0.3600
+OpenSource_T2V_Cogvideox1.5  recall=0.4400
+OpenSource_T2V_IPOC          recall=0.4400
+OpenSource_T2V_Open-Sora     recall=0.4400
+OpenSource_T2V_EasyAnimate   recall=0.4400
+OpenSource_T2V_AccVideo      recall=0.4800
+OpenSource_T2V_RepVideo      recall=0.4800
+OpenSource_I2V_VideoCrafter  recall=0.5600
+OpenSource_T2V_HunyuanVideo  recall=0.6000
+OpenSource_T2V_AnimateDiff   recall=0.6400
+OpenSource_T2V_VideoCrafter  recall=0.7200
+
+
+
+Method: WaveRep / DINOv2-G4
+Implementation: official demo inference wrapper on AIGVDBench CSV
+Dataset: AIGVDBench
+Subset: all-open-source common-1000
+Samples: 500 real + 500 fake
+Valid samples: 1000
+Invalid samples: 0
+Weights: weights_dinov2_G4.ckpt
+
+Results:
+ROC-AUC_fake = 0.9835
+AP_fake = 0.9845
+Accuracy = 0.9290
+Precision_fake = 0.9653
+Recall_fake = 0.8900
+F1_fake = 0.9261
+MCC = 0.8606
+
+Confusion Matrix [[TN, FP], [FN, TP]]:
+[[484, 16],
+ [55, 445]]
+
+                                n  recall  mean_prob
+generator_id
+OpenSource_T2V_Open-Sora     25.0    0.48   0.475213
+OpenSource_I2V_Pyramid-Flow  25.0    0.52   0.556742
+OpenSource_I2V_EasyAnimate   25.0    0.56   0.603876
+OpenSource_T2V_Cogvideox1.5  25.0    0.84   0.848291
+OpenSource_V2V_Cogvideox1.5  25.0    0.84   0.831083
+OpenSource_I2V_SEINE         25.0    0.88   0.837176
+OpenSource_T2V_AnimateDiff   25.0    0.92   0.862230
+OpenSource_I2V_LTX           25.0    0.96   0.946510
+OpenSource_T2V_AccVideo      25.0    0.96   0.961942
+OpenSource_I2V_VideoCrafter  25.0    0.96   0.952741
+OpenSource_T2V_Pyramid-Flow  25.0    0.96   0.972658
+OpenSource_I2V_SVD           25.0    0.96   0.933827
+OpenSource_V2V_LTX           25.0    0.96   0.943520
+OpenSource_T2V_HunyuanVideo  25.0    1.00   0.988287
+OpenSource_T2V_IPOC          25.0    1.00   0.999724
+OpenSource_T2V_EasyAnimate   25.0    1.00   0.933520
+OpenSource_T2V_RepVideo      25.0    1.00   0.996461
+OpenSource_T2V_LTX           25.0    1.00   0.997609
+OpenSource_T2V_Wan2.1        25.0    1.00   0.999931
+OpenSource_T2V_VideoCrafter  25.0    1.00   0.999748
+
+
+Method: ReStraV
+Implementation: DINOv2 temporal geometry feature extraction + MLP training
+Dataset: AIGVDBench
+Subset: all-open-source common-1000
+Samples: 500 real + 500 fake
+Valid samples: 1000
+Train/Test split: stratified 50/50
+Train samples: 500
+Test samples: 500
+Feature: 21-D temporal geometry vector
+Frames: 24
+Window: 2.0 seconds
+Classifier: MLP hidden sizes 64, 32
+Epochs: 20
+Learning rate: 0.001
+Best threshold selected on train set: 0.4300
+
+Results on test set:
+ROC-AUC_fake = 0.8274
+AP_fake = 0.8641
+Accuracy = 0.7460
+Precision_fake = 0.7709
+Recall_fake = 0.7000
+F1_fake = 0.7338
+MCC = 0.4941
+
+Confusion Matrix [[TN, FP], [FN, TP]]:
+[[198, 52],
+ [75, 175]]
+
+Note:
+ReStraV requires training a lightweight classifier on extracted temporal geometry features. Therefore, this result is a trained-on-subset evaluation rather than pure pretrained inference.
+
+                                n    recall  mean_prob
+generator_id
+OpenSource_I2V_LTX           14.0  0.142857   0.305051
+OpenSource_I2V_Pyramid-Flow  16.0  0.187500   0.303689
+OpenSource_T2V_LTX           13.0  0.230769   0.324405
+OpenSource_V2V_LTX           15.0  0.266667   0.277009
+OpenSource_T2V_Pyramid-Flow  17.0  0.411765   0.407598
+OpenSource_T2V_Open-Sora     12.0  0.666667   0.541172
+OpenSource_V2V_Cogvideox1.5  10.0  0.700000   0.624860
+OpenSource_T2V_HunyuanVideo  10.0  0.700000   0.537324
+OpenSource_T2V_AccVideo      14.0  0.714286   0.634063
+OpenSource_T2V_Cogvideox1.5  13.0  0.769231   0.614969
+OpenSource_T2V_Wan2.1        14.0  0.857143   0.612212
+OpenSource_T2V_AnimateDiff   12.0  1.000000   0.991960
+OpenSource_I2V_EasyAnimate   10.0  1.000000   0.987550
+OpenSource_I2V_VideoCrafter   8.0  1.000000   0.997424
+OpenSource_I2V_SVD            9.0  1.000000   0.999393
+OpenSource_I2V_SEINE         10.0  1.000000   0.999783
+OpenSource_T2V_RepVideo      11.0  1.000000   0.993352
+OpenSource_T2V_IPOC          15.0  1.000000   0.956393
+OpenSource_T2V_EasyAnimate   14.0  1.000000   0.986874
+OpenSource_T2V_VideoCrafter  13.0  1.000000   0.995281
+
+Real accuracy:
+0.792
+
+
+Method: MM-Det
+Implementation: official customized-dataset pipeline with saved sample-level predictions
+Dataset: AIGVDBench
+Subset: all-open-source common-1000
+Samples: 500 real + 500 fake
+Valid samples: 1000
+Checkpoint: weights/MM-Det/current_model.pth
+Cache MM: True
+Score direction: original score used as fake score
+
+Results:
+ROC-AUC_fake = 0.5484
+AP_fake = 0.5270
+Accuracy = 0.5280
+Precision_fake = 0.5149
+Recall_fake = 0.9660
+F1_fake = 0.6718
+MCC = 0.1161
+
+Confusion Matrix [[TN, FP], [FN, TP]]:
+[[45, 455],
+ [17, 483]]
+
+Note:
+MM-Det is highly biased toward predicting fake on this AIGVDBench common-1000 subset. It correctly detects most fake videos, resulting in high fake recall, but misclassifies most real videos as fake. Therefore, despite a relatively high F1_fake, the ROC-AUC and MCC show that its overall discriminative ability is weak.
+
+Per-generator results (MM-Det on AIGVDBench):
+OpenSource_T2V_AnimateDiff   n=25  recall=0.8800  mean_score=0.8741  AUC_vs_real=0.3916  AP_vs_real=0.0381
+OpenSource_V2V_Cogvideox1.5  n=25  recall=0.9200  mean_score=0.9198  AUC_vs_real=0.4893  AP_vs_real=0.0465
+OpenSource_T2V_IPOC          n=25  recall=0.9200  mean_score=0.9223  AUC_vs_real=0.4987  AP_vs_real=0.0476
+OpenSource_T2V_Wan2.1        n=25  recall=0.9200  mean_score=0.9386  AUC_vs_real=0.5024  AP_vs_real=0.0479
+OpenSource_I2V_Pyramid-Flow  n=25  recall=0.9200  mean_score=0.9308  AUC_vs_real=0.5030  AP_vs_real=0.0479
+OpenSource_T2V_EasyAnimate   n=25  recall=0.9200  mean_score=0.9253  AUC_vs_real=0.5248  AP_vs_real=0.0501
+OpenSource_T2V_AccVideo      n=25  recall=0.9200  mean_score=0.9226  AUC_vs_real=0.5396  AP_vs_real=0.0521
+OpenSource_I2V_LTX           n=25  recall=0.9600  mean_score=0.9599  AUC_vs_real=0.5444  AP_vs_real=0.0525
+OpenSource_T2V_Cogvideox1.5  n=25  recall=0.9600  mean_score=0.9446  AUC_vs_real=0.5491  AP_vs_real=0.0539
+OpenSource_V2V_LTX           n=25  recall=1.0000  mean_score=0.9994  AUC_vs_real=0.5210  AP_vs_real=0.0499
+OpenSource_T2V_Pyramid-Flow  n=25  recall=1.0000  mean_score=1.0000  AUC_vs_real=0.5438  AP_vs_real=0.0514
+OpenSource_T2V_HunyuanVideo  n=25  recall=1.0000  mean_score=0.9948  AUC_vs_real=0.5460  AP_vs_real=0.0525
+OpenSource_I2V_EasyAnimate   n=25  recall=1.0000  mean_score=1.0000  AUC_vs_real=0.5518  AP_vs_real=0.0528
+OpenSource_I2V_SEINE         n=25  recall=1.0000  mean_score=0.9947  AUC_vs_real=0.5681  AP_vs_real=0.0551
+OpenSource_T2V_RepVideo      n=25  recall=1.0000  mean_score=0.9886  AUC_vs_real=0.5996  AP_vs_real=0.0596
+OpenSource_I2V_SVD           n=25  recall=1.0000  mean_score=1.0000  AUC_vs_real=0.6018  AP_vs_real=0.0597
+OpenSource_T2V_LTX           n=25  recall=1.0000  mean_score=1.0000  AUC_vs_real=0.6182  AP_vs_real=0.0622
+OpenSource_T2V_VideoCrafter  n=25  recall=1.0000  mean_score=0.9979  AUC_vs_real=0.6188  AP_vs_real=0.0622
+OpenSource_I2V_VideoCrafter  n=25  recall=1.0000  mean_score=1.0000  AUC_vs_real=0.6212  AP_vs_real=0.0624
+OpenSource_T2V_Open-Sora     n=25  recall=1.0000  mean_score=1.0000  AUC_vs_real=0.6356  AP_vs_real=0.0648
+
+Key Insights
+1. The Illusion of High Recall
+At first glance, MM-Det appears to have an outstanding Fake Recall, ranging from 88% to 100% across all 20 tested architectures. However, this metric is highly misleading when paired with the ROC-AUC scores.
+
+2. Complete Lack of Discriminative Power (Random Guessing)
+The ROC-AUC scores for MM-Det are catastrophic. Almost all generators score between 0.48 and 0.63, which is statistically equivalent to random guessing (0.50). This perfectly corroborates the earlier finding that MM-Det simply classifies the vast majority of all videos (both real and fake) as "fake." The model lacks genuine underlying discriminative features and operates with a severe false-positive bias.
+
+3. Actively Incorrect on AnimateDiff
+The most alarming data point is AnimateDiff (T2V), where the ROC-AUC drops to 0.3916. An AUC below 0.50 indicates that the model is actively assigning higher fake probabilities to real videos than it is to the fake AnimateDiff videos. This suggests a fundamental failure in the model's feature reconstruction pipeline when processing this specific type of temporal data.
+
+
+
+Method: DeMamba / XCLIP_DeMamba
+Implementation: trained-on-subset evaluation
+Dataset: AIGVDBench
+Subset: all-open-source common-1000
+Train/Test split: stratified 50/50
+Train samples: 500
+Test samples: 500
+Frames per video: 8
+Batch size: 4
+num_workers: 0
+Epochs: 20
+Learning rate: 1e-6
+XCLIP initialization: microsoft/xclip-base-patch16-zero-shot
+
+Results on test split, Epoch 19:
+ROC-AUC_fake = 0.9645
+AP_fake = 0.9460
+Accuracy = 0.9120
+Precision_fake = 0.8627
+Recall_fake = 0.9800
+F1_fake = 0.9176
+MCC = 0.8317
+
+Confusion Matrix [[TN, FP], [FN, TP]]:
+[[211, 39],
+ [5, 245]]
+
+Note:
+No official pretrained DeMamba detector checkpoint was found in the released repository. Therefore, this is a trained-on-subset evaluation rather than pure pretrained inference.
+
+Per-generator breakdown on test split:
+Note: DeMamba uses a stratified 50/50 train/test split, so per-generator counts are based only on the held-out test split. Therefore, n_fake is not fixed at 25 for each generator.
+
+Metric definitions:
+fake_recall_at_0.5 = proportion of fake videos from this generator classified as fake at threshold 0.5
+mean_score_fake = average predicted fake probability for this generator
+auc_vs_all_real = AUC using this generator's fake samples vs all real samples in the test split
+ap_vs_all_real = AP using this generator's fake samples vs all real samples in the test split
+
+Harder generators for DeMamba:
+OpenSource_T2V_AnimateDiff      n=12  recall=0.8333  mean_score=0.8143  AUC_vs_real=0.9340  AP_vs_real=0.4250
+OpenSource_T2V_RepVideo         n=11  recall=0.9091  mean_score=0.8856  AUC_vs_real=0.9556  AP_vs_real=0.4086
+OpenSource_I2V_LTX              n=14  recall=0.9286  mean_score=0.9053  AUC_vs_real=0.9594  AP_vs_real=0.5776
+OpenSource_T2V_Pyramid-Flow     n=17  recall=0.9412  mean_score=0.9110  AUC_vs_real=0.9631  AP_vs_real=0.5934
+
+Generators with perfect fake recall in the test split:
+OpenSource_I2V_SEINE            n=10  recall=1.0000  mean_score=0.9365  AUC_vs_real=0.9696
+OpenSource_I2V_SVD              n=9   recall=1.0000  mean_score=0.9178  AUC_vs_real=0.9644
+OpenSource_I2V_Pyramid-Flow     n=16  recall=1.0000  mean_score=0.9508  AUC_vs_real=0.9748
+OpenSource_I2V_EasyAnimate      n=10  recall=1.0000  mean_score=0.9371  AUC_vs_real=0.9700
+OpenSource_T2V_AccVideo         n=14  recall=1.0000  mean_score=0.9555  AUC_vs_real=0.9777
+OpenSource_I2V_VideoCrafter     n=8   recall=1.0000  mean_score=0.8022  AUC_vs_real=0.9300
+OpenSource_T2V_Cogvideox1.5     n=13  recall=1.0000  mean_score=0.8723  AUC_vs_real=0.9523
+OpenSource_T2V_EasyAnimate      n=14  recall=1.0000  mean_score=0.9470  AUC_vs_real=0.9723
+OpenSource_T2V_IPOC             n=15  recall=1.0000  mean_score=0.9427  AUC_vs_real=0.9736
+OpenSource_T2V_HunyuanVideo     n=10  recall=1.0000  mean_score=0.9214  AUC_vs_real=0.9640
+OpenSource_T2V_Open-Sora        n=12  recall=1.0000  mean_score=0.9613  AUC_vs_real=0.9817
+OpenSource_T2V_LTX              n=13  recall=1.0000  mean_score=0.9320  AUC_vs_real=0.9677
+OpenSource_T2V_VideoCrafter     n=13  recall=1.0000  mean_score=0.9089  AUC_vs_real=0.9609
+OpenSource_T2V_Wan2.1           n=14  recall=1.0000  mean_score=0.8920  AUC_vs_real=0.9560
+OpenSource_V2V_Cogvideox1.5     n=10  recall=1.0000  mean_score=0.9582  AUC_vs_real=0.9764
+OpenSource_V2V_LTX              n=15  recall=1.0000  mean_score=0.9491  AUC_vs_real=0.9712
+
+Observation:
+DeMamba performs strongly across most generator categories in the held-out test split. The lowest fake recall appears on OpenSource_T2V_AnimateDiff, OpenSource_T2V_RepVideo, OpenSource_I2V_LTX, and OpenSource_T2V_Pyramid-Flow. However, even these harder groups still show relatively high AUC against all real samples, suggesting that the model generally separates fake and real videos well after trained-on-subset adaptation.
+
+
+Method: AIGVDet
+Implementation: pretrained inference with RGB branch + optical-flow branch
+Dataset: AIGVDBench
+Subset: all-open-source common-1000
+Samples: 500 real + 500 fake
+Valid samples: 1000
+
+Evaluation setting:
+Pretrained inference / original checkpoint evaluation
+No AIGVDBench training or fine-tuning was used.
+
+Results:
+ROC-AUC_fake = 0.7939
+AP_fake = 0.8383
+Accuracy = 0.6720
+Precision_fake = 0.9725
+Recall_fake = 0.3540
+F1_fake = 0.5191
+MCC = 0.4458
+
+Confusion Matrix [[TN, FP], [FN, TP]]:
+[[495, 5],
+ [323, 177]]
+
+Per-generator breakdown:
+Note: AIGVDet was evaluated on the full common-1000 subset, so each fake generator has 25 fake samples.
+
+Metric definitions:
+fake_recall_at_0.5 = proportion of fake videos from this generator classified as fake at threshold 0.5
+mean_final_score_fake = average fused fake score for this generator
+mean_original_score_fake = average RGB-branch fake score
+mean_optical_score_fake = average optical-flow-branch fake score
+auc_vs_all_real = AUC using this generator's fake samples vs all 500 real samples
+ap_vs_all_real = AP using this generator's fake samples vs all 500 real samples
+
+Harder generators for AIGVDet:
+OpenSource_I2V_SEINE            n=25  recall=0.00  mean_final=0.2401  RGB=0.4801  optical≈0.0000  AUC_vs_real=0.7400  AP_vs_real=0.2031
+OpenSource_I2V_SVD              n=25  recall=0.00  mean_final=0.1855  RGB=0.3709  optical≈0.0000  AUC_vs_real=0.5907  AP_vs_real=0.1560
+OpenSource_T2V_Open-Sora        n=25  recall=0.00  mean_final=0.2064  RGB=0.4128  optical≈0.0000  AUC_vs_real=0.6453  AP_vs_real=0.1696
+OpenSource_T2V_LTX              n=25  recall=0.04  mean_final=0.1253  RGB=0.1319  optical=0.1186  AUC_vs_real=0.5950  AP_vs_real=0.0819
+OpenSource_I2V_Pyramid-Flow     n=25  recall=0.08  mean_final=0.1599  RGB=0.3154  optical=0.0044  AUC_vs_real=0.5281  AP_vs_real=0.1156
+OpenSource_I2V_EasyAnimate      n=25  recall=0.08  mean_final=0.3523  RGB=0.7045  optical≈0.0000  AUC_vs_real=0.8419  AP_vs_real=0.3912
+OpenSource_I2V_LTX              n=25  recall=0.08  mean_final=0.1101  RGB=0.1438  optical=0.0764  AUC_vs_real=0.5278  AP_vs_real=0.0807
+OpenSource_V2V_LTX              n=25  recall=0.08  mean_final=0.1279  RGB=0.1203  optical=0.1355  AUC_vs_real=0.5496  AP_vs_real=0.0910
+
+Moderate generators:
+OpenSource_T2V_Cogvideox1.5     n=25  recall=0.28  mean_final=0.3006  RGB=0.5064  optical=0.0948  AUC_vs_real=0.7518  AP_vs_real=0.2840
+OpenSource_I2V_VideoCrafter     n=25  recall=0.28  mean_final=0.4248  RGB=0.8497  optical≈0.0000  AUC_vs_real=0.9356  AP_vs_real=0.5245
+OpenSource_V2V_Cogvideox1.5     n=25  recall=0.32  mean_final=0.2955  RGB=0.5034  optical=0.0877  AUC_vs_real=0.7560  AP_vs_real=0.3000
+OpenSource_T2V_Pyramid-Flow     n=25  recall=0.32  mean_final=0.3548  RGB=0.7013  optical=0.0083  AUC_vs_real=0.8325  AP_vs_real=0.3875
+OpenSource_T2V_RepVideo         n=25  recall=0.40  mean_final=0.3892  RGB=0.6320  optical=0.1464  AUC_vs_real=0.8696  AP_vs_real=0.4293
+
+Generators with relatively high fake recall:
+OpenSource_T2V_EasyAnimate      n=25  recall=0.52  mean_final=0.4823  RGB=0.9454  optical=0.0192  AUC_vs_real=0.9814  AP_vs_real=0.6034
+OpenSource_T2V_VideoCrafter     n=25  recall=0.56  mean_final=0.5000  RGB=0.9999  optical≈0.0000  AUC_vs_real=0.9900  AP_vs_real=0.6577
+OpenSource_T2V_IPOC             n=25  recall=0.64  mean_final=0.5190  RGB=0.8723  optical=0.1656  AUC_vs_real=0.9414  AP_vs_real=0.6349
+OpenSource_T2V_HunyuanVideo     n=25  recall=0.76  mean_final=0.5208  RGB=0.8434  optical=0.1983  AUC_vs_real=0.8995  AP_vs_real=0.6407
+OpenSource_T2V_AccVideo         n=25  recall=0.84  mean_final=0.5513  RGB=0.9205  optical=0.1821  AUC_vs_real=0.9478  AP_vs_real=0.7127
+OpenSource_T2V_Wan2.1           n=25  recall=0.84  mean_final=0.5566  RGB=0.9196  optical=0.1937  AUC_vs_real=0.9607  AP_vs_real=0.7018
+OpenSource_T2V_AnimateDiff      n=25  recall=0.96  mean_final=0.6814  RGB=0.9780  optical=0.3847  AUC_vs_real=0.9926  AP_vs_real=0.8460
+
+Observation:
+AIGVDet shows strong generator-dependent behavior. It is highly conservative overall: it almost never misclassifies real videos as fake, but it misses many fake videos. Generator-level results show that this low fake recall is concentrated in several I2V and V2V categories, especially SEINE, SVD, Open-Sora, LTX, and Pyramid-Flow variants. In contrast, it performs much better on several T2V generators such as AnimateDiff, Wan2.1, AccVideo, HunyuanVideo, IPOC, and VideoCrafter.
+
+Another important pattern is that the RGB branch contributes much more than the optical-flow branch for many generators. For several fake generators, the optical-flow score is nearly zero while the RGB score is much higher. This suggests that, under this AIGVDBench setting, AIGVDet's temporal/optical-flow branch may not transfer as well as its spatial RGB branch. The fused 0.5/0.5 score therefore becomes conservative and often falls below the 0.5 fake threshold, leading to low recall despite moderate-to-good threshold-free AUC.
+
+

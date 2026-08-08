@@ -1,0 +1,7 @@
+AP Evaluation Results
+Encoder: XCLIP-16
+Loss Type: l2
+Real CSV: D:\HaitongNi\MEngProject\d3_datasets\AIGVDBench_test_balanced_6000\csv\real.csv
+Fake CSV: D:\HaitongNi\MEngProject\d3_datasets\AIGVDBench_test_balanced_6000\csv\fake.csv
+Total Samples: 6000
+AP Score: 0.6219
